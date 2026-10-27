@@ -1,4 +1,4 @@
-"""Fetch the Stockholm "nearby" events from Luma's category pages and write events.json."""
+"""Fetch the Stockholm "nearby" events from all of Luma's category pages and write events.json."""
 import json
 import sys
 import time
@@ -6,7 +6,7 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
-CATEGORIES = ["games", "ai", "tech"]
+CATEGORIES = ["ai", "tech", "games", "arts", "books", "climate", "crypto", "family", "fitness", "food", "running", "wellness"]
 LAT, LNG = 59.32938, 18.06871  # the coordinates luma.com uses for Stockholm
 API = "https://api.luma.com/discover/get-paginated-events"
 
@@ -40,6 +40,7 @@ def main():
                     "end": ev.get("end_at"),
                     "tz": ev.get("timezone") or "Europe/Stockholm",
                     "url": "https://luma.com/" + ev["url"],
+                    "cover": ev.get("cover_url"),
                     "place": loc.get("short_address") or loc.get("city") or "",
                     "online": ev.get("location_type") == "online",
                     "hosts": [h["name"] for h in entry.get("hosts") or [] if h.get("name")],

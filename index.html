@@ -15,7 +15,9 @@
   .filters label { margin-right:12px; }
   h2 { font-size:1rem; margin:24px 0 6px; padding-bottom:4px; border-bottom:1px solid var(--line); }
   ul { list-style:none; padding:0; margin:0; }
-  li { display:flex; gap:12px; padding:6px 0; }
+  li { display:flex; gap:12px; padding:8px 0; align-items:flex-start; }
+  .thumb { width:56px; height:56px; border-radius:8px; object-fit:cover; flex:none; background:var(--line); }
+  .filters label { white-space:nowrap; }
   .time { color:var(--muted); min-width:3.2rem; font-variant-numeric:tabular-nums; }
   a { color:var(--link); }
   .sub { color:var(--muted); font-size:.85rem; }
@@ -68,7 +70,11 @@ fetch("events.json").then(r => r.json()).then(({ updated, events }) => {
       for (const c of e.categories) title.append(el("span", c, "tag"));
       const sub = [e.online ? "Online" : e.place, e.hosts.join(", ")].filter(Boolean).join(" · ");
       body.append(title, el("div", sub, "sub"));
-      li.append(el("span", timeFmt.format(d), "time"), body);
+      const img = el("img", null, "thumb");
+      img.loading = "lazy"; img.alt = "";
+      if (e.cover) img.src = e.cover.replace("images.lumacdn.com/", "images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,width=112,height=112,quality=75/");
+      else img.style.visibility = "hidden";
+      li.append(img, el("span", timeFmt.format(d), "time"), body);
       ul.append(li);
     }
     if (!ul) list.append(el("p", "Nothing upcoming.", "sub"));

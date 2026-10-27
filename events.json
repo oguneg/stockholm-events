@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T14:36:51+00:00",
+ "updated": "2026-10-27T14:53:16+00:00",
  "events": [
   {
    "id": "evt-ZSmgVGcG5FCu0Ue",
@@ -8,6 +8,7 @@
    "end": "2026-10-27T21:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/claude-inw9",
+   "cover": "https://images.lumacdn.com/api-uploads/k4/d271c07a-28f1-4fff-a6ac-fc562483de6b.png",
    "place": "Mäster Samuelsgatan 56, Stockholm",
    "online": false,
    "hosts": [
@@ -25,15 +26,52 @@
    "end": "2026-10-27T18:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/sri4fpiy",
+   "cover": "https://images.lumacdn.com/uploads/1m/39d2f63e-351e-4ede-953f-5334abac5df2.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
     "Daniel Ekwuazi",
     "Christopher Taberman"
    ],
-   "guests": 6,
+   "guests": 5,
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "id": "evt-tz2oFT1bSVicmGu",
+   "name": "Mindfulness Practice for Founders powered by MoMo",
+   "start": "2026-10-28T15:00:00.000Z",
+   "end": "2026-10-28T17:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/547wkkzy",
+   "cover": "https://images.lumacdn.com/uploads/zg/904ed3c6-ae40-4d5e-a229-ccb95ba8c5bb.png",
+   "place": "Birger Jarlsgatan 57 C, Stockholm",
+   "online": false,
+   "hosts": [
+    "Maria Kirilenko"
+   ],
+   "guests": 0,
+   "categories": [
+    "wellness"
+   ]
+  },
+  {
+   "id": "evt-IaeyiD452DZAxpb",
+   "name": "Ukrainian brand launch",
+   "start": "2026-10-28T16:00:00.000Z",
+   "end": "2026-10-28T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/v0k9l9jd",
+   "cover": "https://images.lumacdn.com/uploads/92/2871b069-f6ed-40bd-aac8-2b7385737862.png",
+   "place": "Swedenborgsgatan 2, Stockholm",
+   "online": false,
+   "hosts": [
+    "Green Little Heart"
+   ],
+   "guests": 73,
+   "categories": [
+    "arts"
    ]
   },
   {
@@ -43,6 +81,7 @@
    "end": "2026-10-28T19:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/v8vkrdy1",
+   "cover": "https://images.lumacdn.com/uploads/le/44918bd3-7810-4d8a-b715-633fc84b7d09.png",
    "place": "Tulegatan 11, Stockholm",
    "online": false,
    "hosts": [
@@ -62,6 +101,7 @@
    "end": "2026-10-28T20:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/vm7ckc01",
+   "cover": "https://images.lumacdn.com/uploads/k2/c5a7befe-bd06-4557-bedd-1dac28917aef.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -74,12 +114,31 @@
    ]
   },
   {
+   "id": "evt-vWRnFNhBtfZyvlJ",
+   "name": "THE FUTURE OF K- & J-BEAUTY",
+   "start": "2026-10-29T16:00:00.000Z",
+   "end": "2026-10-29T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/4sr4zvpd",
+   "cover": "https://images.lumacdn.com/uploads/xo/5adae656-6a70-4952-b134-c6f3a9fb0ece.png",
+   "place": "Skånegatan 79, Stockholm",
+   "online": false,
+   "hosts": [
+    "Glowstation"
+   ],
+   "guests": 62,
+   "categories": [
+    "wellness"
+   ]
+  },
+  {
    "id": "evt-FSuXDfcBA4dJYO9",
    "name": "Computer Vision Meetup",
    "start": "2026-10-29T16:30:00.000Z",
    "end": "2026-10-29T18:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/lkrt3ix4",
+   "cover": "https://images.lumacdn.com/uploads/04/dc6914c5-b306-4d13-8312-b400057945fe.png",
    "place": "Nytorgsgatan 38, Stockholm",
    "online": false,
    "hosts": [
@@ -97,6 +156,7 @@
    "end": "2026-10-29T19:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/wxqmpabu",
+   "cover": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1MXx8WWVsbG93fGVufDB8fHx8MTc5MTc4MDA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
    "place": "Majorsgatan 7, Stockholm",
    "online": false,
    "hosts": [
@@ -108,12 +168,77 @@
    ]
   },
   {
+   "id": "evt-S8ye0KNDFcbHLLU",
+   "name": "ThirdPlace - Croquis (Kroki) with Aslisu Art & Sthlm Life Drawing Sessions. (POLE-CROQUIS: SPOOKY EDITION)",
+   "start": "2026-10-29T17:00:00.000Z",
+   "end": "2026-10-29T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/qgaik727",
+   "cover": "https://images.lumacdn.com/uploads/jz/fc8ae902-fb14-418a-bdbc-bdb4c4ca13be.jpg",
+   "place": "Rödabergsgatan 11, Stockholm",
+   "online": false,
+   "hosts": [
+    "Pooyeh Mobini",
+    "Asli Su"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
+   "id": "evt-f3wuoi9EBgaA5kW",
+   "name": "Morning Run for Founders & Operators Vol. 2",
+   "start": "2026-10-30T06:00:00.000Z",
+   "end": "2026-10-30T07:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/cahdqsz8",
+   "cover": "https://images.lumacdn.com/uploads/q1/07cb5329-cc6d-45e8-8e19-707167d7a6f5.png",
+   "place": "Sibyllegatan 2, Stockholm",
+   "online": false,
+   "hosts": [
+    "Julia Kotulska",
+    "Johan Torssell",
+    "Philip Andersson",
+    "Mathias Flaaten"
+   ],
+   "guests": 73,
+   "categories": [
+    "fitness",
+    "running"
+   ]
+  },
+  {
+   "id": "evt-nvLpcXQjqnL21Ut",
+   "name": "Founders Running Club :: Stockholm",
+   "start": "2026-10-31T08:00:00.000Z",
+   "end": "2026-10-31T09:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/jfrsz3b6",
+   "cover": "https://images.lumacdn.com/event-covers/ff/069227f2-e6c4-4cc2-bcb2-fef1c17e4bc3",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Founders Running Club",
+    "Gina Azaric",
+    "Marie-Louise Dahl",
+    "Lydia Faager Endrell",
+    "Simon Sund"
+   ],
+   "guests": 172,
+   "categories": [
+    "fitness",
+    "running"
+   ]
+  },
+  {
    "id": "evt-fZxHAGMXPYT3efQ",
    "name": "Learn FPV Drone piloting",
    "start": "2026-10-31T11:00:00.000Z",
    "end": "2026-10-31T16:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/4yvhscnr",
+   "cover": "https://images.lumacdn.com/uploads/fe/8e3fb974-e186-4798-8a4e-e13506d05043.jpg",
    "place": "Huddinge",
    "online": false,
    "hosts": [
@@ -125,12 +250,31 @@
    ]
   },
   {
+   "id": "evt-HGgHVO19yPzpLXM",
+   "name": "Halloween-disco för förskolebarn i Hornsberg 🎃",
+   "start": "2026-10-31T15:00:00.000Z",
+   "end": "2026-10-31T16:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/w8c4mehu",
+   "cover": "https://images.lumacdn.com/uploads/7i/6b775a9a-a1e4-4a36-b02b-6cbffa73ae56.png",
+   "place": "Hornsbergsvägen 18, Stockholm",
+   "online": false,
+   "hosts": [
+    "Stockholm Family Network"
+   ],
+   "guests": 17,
+   "categories": [
+    "family"
+   ]
+  },
+  {
    "id": "evt-U6UfNV3fpglnyLg",
    "name": "Crime & Çay",
    "start": "2026-10-31T16:00:00.000Z",
    "end": "2026-10-31T22:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/q5y7dxpy",
+   "cover": "https://images.lumacdn.com/uploads/rt/72bf1861-6204-4221-be88-46c7413d091b.png",
    "place": "Svartviksslingan 17, Bromma",
    "online": false,
    "hosts": [
@@ -148,6 +292,7 @@
    "end": "2026-11-02T18:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/ay1ph0hx",
+   "cover": "https://images.lumacdn.com/uploads/5f/0cc969cf-f7cc-4bdc-b025-6997dc0c46fc.png",
    "place": "Malmskillnadsgatan 44A, Stockholm",
    "online": false,
    "hosts": [
@@ -161,29 +306,13 @@
    ]
   },
   {
-   "id": "evt-EHS9dXfGt0FPpM2",
-   "name": "Designer Games Night",
-   "start": "2026-11-02T16:00:00.000Z",
-   "end": "2026-11-02T18:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/kutdcb0j",
-   "place": "Sergels Torg 3, Stockholm",
-   "online": false,
-   "hosts": [
-    "Laura Wiegand"
-   ],
-   "guests": 19,
-   "categories": [
-    "games"
-   ]
-  },
-  {
    "id": "evt-rNWfDFGojpjJ9D5",
    "name": "Creator Night: Soundtrack Your Story with Sonilo",
    "start": "2026-11-02T16:00:00.000Z",
    "end": "2026-11-02T20:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/2h6dww2f",
+   "cover": "https://images.lumacdn.com/uploads/vg/8c8d4e4f-4348-45b8-89bb-90f76d82ff7d.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -192,7 +321,27 @@
    ],
    "guests": 22,
    "categories": [
-    "ai"
+    "ai",
+    "arts"
+   ]
+  },
+  {
+   "id": "evt-EHS9dXfGt0FPpM2",
+   "name": "Designer Games Night",
+   "start": "2026-11-02T16:00:00.000Z",
+   "end": "2026-11-02T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/kutdcb0j",
+   "cover": "https://images.lumacdn.com/gallery-images/bo/e5cec21a-fe60-4c18-a82c-d79a4c6bcfbb",
+   "place": "Sergels Torg 3, Stockholm",
+   "online": false,
+   "hosts": [
+    "Laura Wiegand"
+   ],
+   "guests": 19,
+   "categories": [
+    "games",
+    "arts"
    ]
   },
   {
@@ -202,6 +351,7 @@
    "end": "2026-11-02T18:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/dyuwefg1",
+   "cover": "https://images.lumacdn.com/uploads/ze/50da0654-24c3-4e83-b61f-3bac75775e33.png",
    "place": "Götgatan 78, Stockholm",
    "online": false,
    "hosts": [
@@ -212,7 +362,8 @@
    ],
    "guests": 0,
    "categories": [
-    "tech"
+    "tech",
+    "climate"
    ]
   },
   {
@@ -222,6 +373,7 @@
    "end": "2026-11-03T12:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/agentic-software",
+   "cover": "https://images.lumacdn.com/uploads/fj/ba83a28f-c0b8-4142-9c92-70a94e948e9e.jpg",
    "place": "Kungsgatan 55, Stockholm",
    "online": false,
    "hosts": [
@@ -239,6 +391,7 @@
    "end": "2026-11-03T13:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/vvr3v4d2",
+   "cover": "https://images.lumacdn.com/uploads/tw/0afffe33-0155-4f41-b3be-4400fd078e29.jpg",
    "place": "Malmskillnadsgatan 44a, Stockholm",
    "online": false,
    "hosts": [
@@ -257,6 +410,7 @@
    "end": "2026-11-03T20:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/08wu1osg",
+   "cover": "https://images.lumacdn.com/event-covers/rj/657ba03d-7114-41fe-9707-0c000149a9b9.jpg",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -276,6 +430,7 @@
    "end": "2026-11-04T10:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/0olnyrc8",
+   "cover": "https://images.lumacdn.com/uploads/yj/4e9cc628-91af-4d22-af9e-3dfc01329255.png",
    "place": "Gustav Adolfs torg 18, Stockholm",
    "online": false,
    "hosts": [
@@ -297,6 +452,7 @@
    "end": "2026-11-04T17:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/aic-sw-sovereignty",
+   "cover": "https://images.lumacdn.com/uploads/uy/bd10e0ab-93e4-4565-b2a8-fc51dfffaeda.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -316,6 +472,7 @@
    "end": "2026-11-04T19:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/4jehoued",
+   "cover": "https://images.lumacdn.com/uploads/ij/9468d97e-d441-4d74-85f2-0d319a0a6415.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -334,6 +491,7 @@
    "end": "2026-11-04T20:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/gltwh32z",
+   "cover": "https://images.lumacdn.com/uploads/mh/eb323bf5-21ca-4430-bd8c-ae3abc7ad949.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -348,12 +506,49 @@
    ]
   },
   {
+   "id": "evt-hS1xpbB1AdMGjOd",
+   "name": "Vernissage: Apollonias hus",
+   "start": "2026-11-04T16:00:00.000Z",
+   "end": "2026-11-04T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/3doywpyq",
+   "cover": "https://images.lumacdn.com/uploads/zf/5e3f05b5-ff96-41a9-b1cf-2d51f8dea678.png",
+   "place": "Nytorgsgatan 36, Stockholm",
+   "online": false,
+   "hosts": [
+    "Ylva Lindh"
+   ],
+   "guests": 11,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
+   "id": "evt-mg7jokDXy6kUAHs",
+   "name": "Meet Cha Song | A Tea Bistro Opening",
+   "start": "2026-11-04T16:00:00.000Z",
+   "end": "2026-11-04T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/t06ozlx9",
+   "cover": "https://images.lumacdn.com/uploads/uc/e581b764-0094-48db-88e5-5318231ba2e4.jpg",
+   "place": "Gamla Brogatan 30, Stockholm",
+   "online": false,
+   "hosts": [
+    "Cha Song"
+   ],
+   "guests": 28,
+   "categories": [
+    "food"
+   ]
+  },
+  {
    "id": "evt-6KjrmJat9lvyFf7",
    "name": "How to Build AI the World Will Let In (A Conversation With Tandem Health)",
    "start": "2026-11-04T16:30:00.000Z",
    "end": "2026-11-04T18:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/p5c5ffh5",
+   "cover": "https://images.lumacdn.com/uploads/x6/6f09d846-4102-4ef1-b841-632fe17c1fc1.png",
    "place": "Birger Jarlsgatan 57 C, Stockholm",
    "online": false,
    "hosts": [
@@ -373,6 +568,7 @@
    "end": "2026-11-04T20:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/wthwz95d",
+   "cover": "https://images.lumacdn.com/uploads/j9/3207a94a-c538-47e6-ab8f-22f333b25d9f.png",
    "place": "Tulegatan 7, Stockholm",
    "online": false,
    "hosts": [
@@ -384,20 +580,24 @@
    ]
   },
   {
-   "id": "evt-AVnfffQHcNavgO5",
-   "name": "AW+Sthlms-quiz med 08!",
-   "start": "2026-11-05T16:00:00.000Z",
-   "end": "2026-11-05T18:00:00.000Z",
+   "id": "evt-tTJzIRMycQpJFra",
+   "name": "kanketsu | track #007",
+   "start": "2026-11-04T17:00:00.000Z",
+   "end": "2026-11-04T18:30:00.000Z",
    "tz": "Europe/Stockholm",
-   "url": "https://luma.com/ekqb2ua7",
-   "place": "under the fountain, Sergels Torg, Stockholm",
+   "url": "https://luma.com/5pygh46w",
+   "cover": "https://images.lumacdn.com/uploads/9k/76da3985-7cc5-4619-98fa-bf94412ed3d8.png",
+   "place": "Stockholm",
    "online": false,
    "hosts": [
-    "Martin Schori"
+    "Evgenii Kondratev",
+    "Emil Härdling",
+    "Hugo Norberg"
    ],
-   "guests": 0,
+   "guests": 8,
    "categories": [
-    "games"
+    "fitness",
+    "running"
    ]
   },
   {
@@ -407,6 +607,7 @@
    "end": "2026-11-05T18:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/8wdfbp4e",
+   "cover": "https://images.lumacdn.com/uploads/44/fb022fa7-d793-4595-b1a4-11664aff6bdd.png",
    "place": "Götgatan 78, Stockholm",
    "online": false,
    "hosts": [
@@ -421,12 +622,31 @@
    ]
   },
   {
+   "id": "evt-AVnfffQHcNavgO5",
+   "name": "AW+Sthlms-quiz med 08!",
+   "start": "2026-11-05T16:00:00.000Z",
+   "end": "2026-11-05T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/ekqb2ua7",
+   "cover": "https://images.lumacdn.com/uploads/3m/b7bdc47c-5f8c-4af7-b352-84efb8428ab3.png",
+   "place": "under the fountain, Sergels Torg, Stockholm",
+   "online": false,
+   "hosts": [
+    "Martin Schori"
+   ],
+   "guests": 0,
+   "categories": [
+    "games"
+   ]
+  },
+  {
    "id": "evt-TRyRrBbD6EsNAMD",
    "name": "Physical AI",
    "start": "2026-11-05T16:30:00.000Z",
    "end": "2026-11-05T19:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/physical-ai-sthlm-nov",
+   "cover": "https://images.lumacdn.com/uploads/jw/7d43ad08-63a0-4bbc-a646-53ff1201e752.png",
    "place": "Teknikringen 1, Stockholm",
    "online": false,
    "hosts": [
@@ -447,6 +667,7 @@
    "end": "2026-11-05T19:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/nok9jafm",
+   "cover": "https://images.lumacdn.com/uploads/w3/253d5538-6f43-4320-b0f9-04db04d727df.png",
    "place": "Kungsgatan 62, Stockholm",
    "online": false,
    "hosts": [
@@ -464,6 +685,7 @@
    "end": "2026-11-05T19:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/z77rv09r",
+   "cover": "https://images.lumacdn.com/gallery-images/jy/9ddd9608-048c-4de8-88fa-9dbbb0b449c6",
    "place": "Barnhusgatan 3, Stockholm",
    "online": false,
    "hosts": [
@@ -475,12 +697,31 @@
    ]
   },
   {
+   "id": "evt-deeJUVVii2LdRgM",
+   "name": "Big Sing-Along Night 🎤 Bad Singers Very Welcome",
+   "start": "2026-11-05T18:00:00.000Z",
+   "end": "2026-11-05T22:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/w3y9zk6c",
+   "cover": "https://images.lumacdn.com/uploads/c5/2d984ec7-21b6-487a-8543-6405445cbbed.jpg",
+   "place": "Fatbursgatan 1, Stockholm",
+   "online": false,
+   "hosts": [
+    "Ash Abbasi"
+   ],
+   "guests": 6,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "evt-tITtOeH8QJLgJxk",
    "name": "Who will control the intelligence of the future? Breakfast talk with Silvija Seres - STHLM",
    "start": "2026-11-06T06:45:00.000Z",
    "end": "2026-11-06T08:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/tgnjb69i",
+   "cover": "https://images.lumacdn.com/uploads/ld/4a049c0c-8be7-4354-8255-ee45c1034d8e.png",
    "place": "Malmskillnadsgatan 44a, Stockholm",
    "online": false,
    "hosts": [
@@ -493,12 +734,67 @@
    ]
   },
   {
+   "id": "evt-cXcZvCauapTEALp",
+   "name": "A Happy Day AW & MBos Arts",
+   "start": "2026-11-06T15:30:00.000Z",
+   "end": "2026-11-06T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/9hq2l81x",
+   "cover": "https://images.lumacdn.com/uploads/85/159d7c6f-81d9-4a6d-b271-473259180742.jpg",
+   "place": "Artillerigatan 40, Stockholm",
+   "online": false,
+   "hosts": [
+    "Erika Tapper"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
+   "id": "evt-p0kuGkGmBNMlCEU",
+   "name": "Women’s Circle: Sound Healing",
+   "start": "2026-11-07T10:00:00.000Z",
+   "end": "2026-11-07T12:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/3t7kmvw7",
+   "cover": "https://images.lumacdn.com/uploads/wl/52af6421-bf2a-435c-937e-d2024ee0eff9.jpg",
+   "place": "Sundbyberg",
+   "online": false,
+   "hosts": [
+    "Girls in Stockholm"
+   ],
+   "guests": 8,
+   "categories": [
+    "wellness"
+   ]
+  },
+  {
+   "id": "evt-lyTsCwvOjjbYJy5",
+   "name": "🌼 Diwali Dinner: Ghar Wali Diwali at Indique",
+   "start": "2026-11-07T17:00:00.000Z",
+   "end": "2026-11-07T19:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/f7obtppt",
+   "cover": "https://images.lumacdn.com/uploads/kf/a586006a-e566-4864-b95a-ca56bd9fac10.png",
+   "place": "Hägersten",
+   "online": false,
+   "hosts": [
+    "Indique Stockholm Supperclub"
+   ],
+   "guests": 9,
+   "categories": [
+    "food"
+   ]
+  },
+  {
    "id": "evt-BKqFCSkNXViNyU0",
    "name": "The AI Shift: How Companies Win, Adapt, and Lead",
    "start": "2026-11-10T12:30:00.000Z",
    "end": "2026-11-10T17:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/70lw1szc",
+   "cover": "https://images.lumacdn.com/uploads/uq/8291eb4a-71c1-4396-b7d3-b7ffeb284eba.png",
    "place": "Malmskillnadsgatan 46, Stockholm",
    "online": false,
    "hosts": [
@@ -516,6 +812,7 @@
    "end": "2026-11-10T18:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/founderslive-stockholm-2026-11",
+   "cover": "https://images.lumacdn.com/uploads/e1/8907737b-e82a-4b2e-b2a8-9182a19784a2.png",
    "place": "Årstaängsvägen 21C, Stockholm",
    "online": false,
    "hosts": [
@@ -533,6 +830,7 @@
    "end": "2026-11-10T19:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/6b08hj2b",
+   "cover": "https://images.lumacdn.com/uploads/79/3c932c5b-7ff6-4fbe-93fd-049eaee5a76b.png",
    "place": "Drottning Kristinas väg 61, Stockholm",
    "online": false,
    "hosts": [
@@ -545,12 +843,49 @@
    ]
   },
   {
+   "id": "evt-1i1woVIXkzqrNV2",
+   "name": "Höststyling Aleksandra x Marga Ståhl",
+   "start": "2026-11-10T16:30:00.000Z",
+   "end": "2026-11-10T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/k37nqolf",
+   "cover": "https://images.lumacdn.com/uploads/3u/192cc343-1887-4cf9-9d9e-a23e868c65db.jpg",
+   "place": "Vendevägen 9A, Djursholm",
+   "online": false,
+   "hosts": [
+    "Aleksandra Naglik"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
+   "id": "evt-A8yeuCevJBM8Ph9",
+   "name": "❄️ Vinterstyling Aleksandra x Marga Ståhl",
+   "start": "2026-11-10T16:30:00.000Z",
+   "end": "2026-11-10T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/y2qi6l66",
+   "cover": "https://images.lumacdn.com/uploads/3u/192cc343-1887-4cf9-9d9e-a23e868c65db.jpg",
+   "place": "Vendevägen 9A, Djursholm",
+   "online": false,
+   "hosts": [
+    "Aleksandra Naglik"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "evt-1Yp3tGiXW1cbaBE",
    "name": "CMO Dinner",
    "start": "2026-11-10T17:30:00.000Z",
    "end": "2026-11-10T19:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/e6nsb6z3",
+   "cover": "https://images.lumacdn.com/uploads/ki/b450eabf-4dbf-42f0-b9d5-c230613e7f24.png",
    "place": "Regeringsgatan 111, Stockholm",
    "online": false,
    "hosts": [
@@ -564,12 +899,34 @@
    ]
   },
   {
+   "id": "evt-dJ6xpKjOqD0UXNs",
+   "name": "kanketsu aw #027",
+   "start": "2026-11-10T17:30:00.000Z",
+   "end": "2026-11-10T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/73anig1v",
+   "cover": "https://images.lumacdn.com/uploads/cc/296fd6c3-2b24-42d9-9929-68e46c58227e.png",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Evgenii Kondratev",
+    "Emil Härdling",
+    "Hugo Norberg"
+   ],
+   "guests": 6,
+   "categories": [
+    "fitness",
+    "running"
+   ]
+  },
+  {
    "id": "evt-AP24WhShtdVylLi",
    "name": "CTO eXchange Stockholm 11/11",
    "start": "2026-11-11T10:30:00.000Z",
    "end": "2026-11-11T12:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/iph7o5uv",
+   "cover": "https://images.lumacdn.com/uploads/jo/b2ac8cdf-f366-4904-91a1-9058a496d73d.jpg",
    "place": "Kungsgatan 60, 1tr, Stockholm",
    "online": false,
    "hosts": [
@@ -589,6 +946,7 @@
    "end": "2026-11-11T12:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/4ri6hfhs",
+   "cover": "https://images.lumacdn.com/uploads/d6/2ad87105-ee78-45f5-87a9-b58caa420fa3.png",
    "place": "Lidingövägen 75, Stockholm",
    "online": false,
    "hosts": [
@@ -601,12 +959,31 @@
    ]
   },
   {
+   "id": "evt-bymakbDA1CGKMXh",
+   "name": "YOU+ Music X Stockholm",
+   "start": "2026-11-11T13:00:00.000Z",
+   "end": "2026-11-11T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/mmmjntc0",
+   "cover": "https://images.lumacdn.com/uploads/l6/35cf31c7-03df-4425-94d9-f96b0e826f37.jpg",
+   "place": "Mårtensdalsgatan 2-8, Stockholm",
+   "online": false,
+   "hosts": [
+    "YOU+ Music"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "evt-Zf065QfgEFDlRob",
    "name": "Grok Bot Stockholm Meetup x Aalto Founder School",
    "start": "2026-11-11T16:00:00.000Z",
    "end": "2026-11-11T19:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/m5yicjqi",
+   "cover": "https://images.lumacdn.com/uploads/x7/1c2a33e7-1c57-42f5-a9d1-3f65150d316f.png",
    "place": "Grev Turegatan 1, Stockholm",
    "online": false,
    "hosts": [
@@ -625,6 +1002,7 @@
    "end": "2026-11-11T19:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/n8n-qyiw",
+   "cover": "https://images.lumacdn.com/uploads/zq/127409e1-eb37-4ee3-93a2-f81c11aac6ca.png",
    "place": "Odengatan 81, Stockholm",
    "online": false,
    "hosts": [
@@ -644,6 +1022,7 @@
    "end": "2026-11-11T19:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/2neodkrh",
+   "cover": "https://images.lumacdn.com/uploads/xo/cce6f2df-1f56-470f-adab-8d916c5bca88.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -662,6 +1041,7 @@
    "end": "2026-11-12T12:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/epicenter-58zx",
+   "cover": "https://images.lumacdn.com/uploads/tu/f617895c-7c69-4362-99a6-09f14eb2ca89.jpg",
    "place": "Malmskillnadsgatan 44a, Stockholm",
    "online": false,
    "hosts": [
@@ -680,6 +1060,7 @@
    "end": "2026-11-12T17:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/shiftic-6lym",
+   "cover": "https://images.lumacdn.com/uploads/tg/de492967-47e4-4c0f-b71c-986fbe0333e0.png",
    "place": "Dag Hammarskjölds väg 14, Stockholm",
    "online": false,
    "hosts": [
@@ -697,6 +1078,7 @@
    "end": "2026-11-12T19:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/epicenter-smy2",
+   "cover": "https://images.lumacdn.com/uploads/hh/38e42445-d8c1-42bc-9874-0aee367654f2.jpg",
    "place": "Malmskillnadsgatan 44a, Stockholm",
    "online": false,
    "hosts": [
@@ -711,12 +1093,51 @@
    ]
   },
   {
+   "id": "evt-ssVfweJ60epOG6Y",
+   "name": "Feminvest run + breakfast",
+   "start": "2026-11-13T05:50:00.000Z",
+   "end": "2026-11-13T07:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/ik4opuil",
+   "cover": "https://images.lumacdn.com/uploads/oz/d867bed0-3aed-44b5-8805-ec4c14229ff5.jpg",
+   "place": "Gallerian Mall, Brunkebergstorg 6, Stockholm",
+   "online": false,
+   "hosts": [
+    "Feminvest Community"
+   ],
+   "guests": 5,
+   "categories": [
+    "fitness",
+    "running"
+   ]
+  },
+  {
+   "id": "evt-rHZ63JTe8PhoDpd",
+   "name": "MGRC RAVE B[RUN]CH SEASON FINALE",
+   "start": "2026-11-15T09:00:00.000Z",
+   "end": "2026-11-15T11:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/h6bgox3s",
+   "cover": "https://images.lumacdn.com/uploads/mv/1039547f-c15d-4886-8388-26c7a6f06434.png",
+   "place": "Brännkyrkagatan 95, Stockholm",
+   "online": false,
+   "hosts": [
+    "Johannes Ojanpera"
+   ],
+   "guests": 10,
+   "categories": [
+    "fitness",
+    "running"
+   ]
+  },
+  {
    "id": "evt-YoxbTpDgfqC2q6S",
    "name": "Leyr x Lovable Buildathon: Build Your EHR",
    "start": "2026-11-15T11:00:00.000Z",
    "end": "2026-11-15T15:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/dm1pljah",
+   "cover": "https://images.lumacdn.com/uploads/w7/49110b41-c54b-4faf-8503-4d7adcaff9a8.png",
    "place": "Årstaängsvägen 21C, Stockholm",
    "online": false,
    "hosts": [
@@ -734,6 +1155,7 @@
    "end": "2026-11-16T12:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/31ery912",
+   "cover": "https://images.lumacdn.com/uploads/xi/4421b2bd-4050-409f-8e9d-4ae461090954.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -753,6 +1175,7 @@
    "end": "2026-11-16T20:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/7ade2l74",
+   "cover": "https://images.lumacdn.com/event-covers/2d/5b7fb3b6-dfcc-4d49-9262-a8b954114bf3.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -774,6 +1197,7 @@
    "end": "2026-11-18T08:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/d29u1k79",
+   "cover": "https://images.lumacdn.com/uploads/a5/1794f93f-be3a-4c1d-ac30-577e1c4954f9.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -784,7 +1208,9 @@
    ],
    "guests": 4,
    "categories": [
-    "tech"
+    "tech",
+    "fitness",
+    "running"
    ]
   },
   {
@@ -794,6 +1220,7 @@
    "end": "2026-11-18T18:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/dtsqcfat",
+   "cover": "https://images.lumacdn.com/uploads/bq/fed26c0c-a434-4248-860f-6440282a6ea2.png",
    "place": "Birger Jarlsgatan 57, Stockholm",
    "online": false,
    "hosts": [
@@ -808,12 +1235,32 @@
    ]
   },
   {
+   "id": "evt-kisn6Y42durniGj",
+   "name": "Immersive Wellness Experience",
+   "start": "2026-11-18T16:00:00.000Z",
+   "end": "2026-11-18T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/88nuwta1",
+   "cover": "https://images.lumacdn.com/uploads/m8/401a2104-2ea5-4141-90b1-0b91619acfe1.png",
+   "place": "Heliosgatan 13, Stockholm",
+   "online": false,
+   "hosts": [
+    "Dream to Reality",
+    "Bryony Bennett"
+   ],
+   "guests": 0,
+   "categories": [
+    "wellness"
+   ]
+  },
+  {
    "id": "evt-zFnnnjlY3J9miqW",
    "name": "Good News AI",
    "start": "2026-11-18T16:30:00.000Z",
    "end": "2026-11-18T19:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/gf7nuiar",
+   "cover": "https://images.lumacdn.com/uploads/l0/e51b209a-cb38-40d5-8cdb-c1e75cfeddc8.jpg",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -832,6 +1279,7 @@
    "end": "2026-11-18T18:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/qhr0r6yj",
+   "cover": "https://images.lumacdn.com/uploads/1i/49d951b2-65ae-4d16-9365-f083df424c56.png",
    "place": "Norrlandsgatan 18, 5tr, Stockholm",
    "online": false,
    "hosts": [
@@ -843,12 +1291,32 @@
    ]
   },
   {
+   "id": "evt-fvYyKQfySIWs1G4",
+   "name": "Women's Health, Breathwork & Brunch",
+   "start": "2026-11-21T08:00:00.000Z",
+   "end": "2026-11-21T11:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/yj53fm12",
+   "cover": "https://images.lumacdn.com/uploads/8j/b9621cdf-8469-4d46-9a1a-6a0a7c9bcf18.jpg",
+   "place": "Vasaplan 7, Stockholm",
+   "online": false,
+   "hosts": [
+    "Anna Hagström",
+    "André Wassberg"
+   ],
+   "guests": 5,
+   "categories": [
+    "wellness"
+   ]
+  },
+  {
    "id": "evt-8um5a2JCPn24GgN",
    "name": "AI Safety Day Sweden 2026",
    "start": "2026-11-21T11:00:00.000Z",
    "end": "2026-11-21T17:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/6oz9b743",
+   "cover": "https://images.lumacdn.com/uploads/0m/9220e118-a62d-4b1b-a702-fb343669f66f.png",
    "place": "Sköndal",
    "online": false,
    "hosts": [
@@ -862,20 +1330,112 @@
    ]
   },
   {
+   "id": "evt-BbpSshoxICQRy1E",
+   "name": "Natural progression - Fejká - LAR - Slow Ted",
+   "start": "2026-11-21T14:00:00.000Z",
+   "end": "2026-11-21T21:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/w53shpd3",
+   "cover": "https://images.lumacdn.com/uploads/80/dc1c24d3-22d3-4878-b757-2ab58d0ccb25.png",
+   "place": "Gävlegatan 18, Stockholm",
+   "online": false,
+   "hosts": [
+    "Matthew Larden",
+    "Theodor Zander"
+   ],
+   "guests": 59,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
+   "id": "evt-NqEoQrDMlKdWjYX",
+   "name": "Bachata Ladystyling i Vega | FORTSÄTTNING 1 - Söndagar | 7 veckor | Yasmin Casaca",
+   "start": "2026-11-22T17:00:00.000Z",
+   "end": "2027-01-17T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/1n0ff23n",
+   "cover": "https://images.lumacdn.com/uploads/wj/d2f17c57-203b-4d80-b914-01346a3bfa52.png",
+   "place": "Vega Allé 61, Vega",
+   "online": false,
+   "hosts": [
+    "Yasmin Casaca"
+   ],
+   "guests": 31,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
+   "id": "evt-qoXOSywtNbBPgDy",
+   "name": "Bachata Ladystyling i Vega | NYBÖRJARE - Söndagar | 7 veckor | Yasmin Casaca",
+   "start": "2026-11-22T18:00:00.000Z",
+   "end": "2027-01-17T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/9vmdvit8",
+   "cover": "https://images.lumacdn.com/uploads/ln/a17a72d7-ec21-44e3-ae0a-c5bd0f330fea.png",
+   "place": "Vega Allé 61, Vega",
+   "online": false,
+   "hosts": [
+    "Yasmin Casaca"
+   ],
+   "guests": 9,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "evt-iOWF8waSmfuBcuX",
    "name": "HI x Hubert: Frukostevent om framtidens screening med AI och mänsklig intelligens.",
    "start": "2026-11-23T07:00:00.000Z",
    "end": "2026-11-23T08:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/7srs8ao7",
+   "cover": "https://images.lumacdn.com/uploads/ds/89a26a97-1635-4828-af71-87d990ad4198.png",
    "place": "Peter Myndes backe 5, Stockholm",
    "online": false,
    "hosts": [
     "HI Assessments"
    ],
-   "guests": 8,
+   "guests": 9,
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "id": "evt-IPp1sThbmEUSIy1",
+   "name": "Bachata NYBÖRJARKURS | Måndagar | 6 veckor | Yasmin Casaca",
+   "start": "2026-11-23T17:00:00.000Z",
+   "end": "2027-01-18T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/1gl852ms",
+   "cover": "https://images.lumacdn.com/uploads/x5/70062ab8-3826-49b9-ae1d-e35e89fb6f6e.png",
+   "place": "Vega Allé 61, Vega",
+   "online": false,
+   "hosts": [
+    "Yasmin Casaca"
+   ],
+   "guests": 8,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
+   "id": "evt-HIAntpqjWtQiEWg",
+   "name": "Bachata Ladystyling i TUNGELSTA | FORTSÄTTNING 1 - Tisdagar | 7 veckor | Yasmin Casaca",
+   "start": "2026-11-24T16:45:00.000Z",
+   "end": "2027-01-26T17:45:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/dz0muo10",
+   "cover": "https://images.lumacdn.com/uploads/wj/d2f17c57-203b-4d80-b914-01346a3bfa52.png",
+   "place": "Rosvägen 2, Tungelsta",
+   "online": false,
+   "hosts": [
+    "Yasmin Casaca"
+   ],
+   "guests": 7,
+   "categories": [
+    "arts"
    ]
   },
   {
@@ -885,6 +1445,7 @@
    "end": "2026-11-25T09:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/jip68x5n",
+   "cover": "https://images.lumacdn.com/uploads/9s/b396102e-f811-48ed-a1a1-b510649d8871.png",
    "place": "Södra Blasieholmshamnen 2, Stockholm",
    "online": false,
    "hosts": [
@@ -902,6 +1463,7 @@
    "end": "2026-11-25T18:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/Verge-retail",
+   "cover": "https://images.lumacdn.com/uploads/ek/6d4a7d54-58e6-4014-acc7-0daf42adeea1.jpg",
    "place": "Malmskillnadsgatan 44a, Stockholm",
    "online": false,
    "hosts": [
@@ -919,6 +1481,7 @@
    "end": "2026-11-25T20:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/9dni7s4o",
+   "cover": "https://images.lumacdn.com/uploads/0v/674fe16c-6a4e-40d6-8a41-e82a4530d807.png",
    "place": "Katarinavägen 9, Stockholm",
    "online": false,
    "hosts": [
@@ -932,12 +1495,32 @@
    ]
   },
   {
+   "id": "evt-FlHUNyICJrsI6j4",
+   "name": "Boksläpp: Kulturens organisering och ekonomi",
+   "start": "2026-11-26T14:00:00.000Z",
+   "end": "2026-11-26T16:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/s4w9avyk",
+   "cover": "https://images.lumacdn.com/uploads/qo/487f9638-1310-4303-abc6-886a89ebd5bb.webp",
+   "place": "Huddinge",
+   "online": false,
+   "hosts": [
+    "H&ART Incubator"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts",
+    "books"
+   ]
+  },
+  {
    "id": "evt-bkYKA3hqowUTenE",
    "name": "NEA Stockholm 26/11",
    "start": "2026-11-26T16:00:00.000Z",
    "end": "2026-11-26T18:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/5wbt40mq",
+   "cover": "https://images.lumacdn.com/uploads/ip/c261b0e2-83ec-45b7-9c2e-2389c0ac11f4.jpg",
    "place": "Rålambsvägen 17, Stockholm",
    "online": false,
    "hosts": [
@@ -951,12 +1534,34 @@
    ]
   },
   {
+   "id": "evt-AAe1WtAFKuwlDFN",
+   "name": "Repair Cafe' and Community banner workshop - Make Something Week",
+   "start": "2026-11-28T12:00:00.000Z",
+   "end": "2026-11-28T16:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/vfz7qk7u",
+   "cover": "https://images.lumacdn.com/uploads/de/b43be138-3e33-45a8-8c0d-b551dcb78995.jpg",
+   "place": "Mårtensdalsgatan 2-8, Stockholm",
+   "online": false,
+   "hosts": [
+    "Valentina Falconi",
+    "Jocie Chan",
+    "Zugania Zuniga"
+   ],
+   "guests": 44,
+   "categories": [
+    "arts",
+    "climate"
+   ]
+  },
+  {
    "id": "evt-wYCoTmavOIZZAQJ",
    "name": "Kom-igång med Claude - bygg ditt första AI-verktyg på 3 timmar - Träna & lär [STHLM]",
    "start": "2026-12-01T08:00:00.000Z",
    "end": "2026-12-01T11:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/kvadrat-kom-igang-med-claude-sthlm-1dec",
+   "cover": "https://images.lumacdn.com/uploads/c0/e8ecf57c-03d7-480a-9421-1b76ed45ca03.jpg",
    "place": "Kungsbroplan 3A, Stockholm",
    "online": false,
    "hosts": [
@@ -975,6 +1580,7 @@
    "end": "2026-12-02T15:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/jsundlo-bjqf",
+   "cover": "https://images.lumacdn.com/uploads/cd/b7c0603a-ed70-4d07-b151-43d43c89d12a.png",
    "place": "Stockholm",
    "online": false,
    "hosts": [
@@ -988,12 +1594,32 @@
    ]
   },
   {
+   "id": "evt-ZOBr9J1XaFgK4WP",
+   "name": "SWEDEN| Book Launch: Hostile to Thinking",
+   "start": "2026-12-03T16:30:00.000Z",
+   "end": "2026-12-03T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/gkn0nz5k",
+   "cover": "https://images.lumacdn.com/uploads/22/772fcb8b-a2e1-4af1-b92a-85f5a6c42024.png",
+   "place": "Majorsgatan 7, Stockholm",
+   "online": false,
+   "hosts": [
+    "Chisom Udeze"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts",
+    "books"
+   ]
+  },
+  {
    "id": "evt-C2klLgRSvSzSHxa",
    "name": "Designer Games Night",
    "start": "2026-12-07T16:00:00.000Z",
    "end": "2026-12-07T18:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/h8cyycpl",
+   "cover": "https://images.lumacdn.com/gallery-images/bo/e5cec21a-fe60-4c18-a82c-d79a4c6bcfbb",
    "place": "Sergels Torg 3, Stockholm",
    "online": false,
    "hosts": [
@@ -1011,6 +1637,7 @@
    "end": "2026-12-08T18:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/founderslive-stockholm-2026-12",
+   "cover": "https://images.lumacdn.com/uploads/e1/8907737b-e82a-4b2e-b2a8-9182a19784a2.png",
    "place": "Årstaängsvägen 21C, Stockholm",
    "online": false,
    "hosts": [
@@ -1028,6 +1655,7 @@
    "end": "2026-12-16T18:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/aggecc3x",
+   "cover": "https://images.lumacdn.com/event-covers/aj/c4313a44-b6ce-494c-ae51-9fbd67f085bd.png",
    "place": "Swedenborgsgatan 2, Stockholm",
    "online": false,
    "hosts": [
@@ -1035,7 +1663,8 @@
    ],
    "guests": 13,
    "categories": [
-    "tech"
+    "tech",
+    "climate"
    ]
   },
   {
@@ -1045,6 +1674,7 @@
    "end": "2026-12-27T17:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/an31lv7s",
+   "cover": "https://images.lumacdn.com/uploads/wh/57beee9c-b14b-4993-944c-2b0e5a35bfb4.jpg",
    "place": "Stockholm-Arlanda",
    "online": false,
    "hosts": [
