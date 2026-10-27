@@ -1,0 +1,1060 @@
+{
+ "updated": "2026-10-27T14:24:54+00:00",
+ "events": [
+  {
+   "id": "evt-ZSmgVGcG5FCu0Ue",
+   "name": "Stockholm | Claude for Designers Vol. 3",
+   "start": "2026-10-27T16:30:00.000Z",
+   "end": "2026-10-27T21:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/claude-inw9",
+   "place": "Mäster Samuelsgatan 56, Stockholm",
+   "online": false,
+   "hosts": [
+    "Somesh Kesarla Suresh"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-WGx6AkpAIUTCFdE",
+   "name": "Vector Sthlm 18",
+   "start": "2026-10-27T17:00:00.000Z",
+   "end": "2026-10-27T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/sri4fpiy",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Daniel Ekwuazi",
+    "Christopher Taberman"
+   ],
+   "guests": 6,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-nmpCQv6uNyseF5p",
+   "name": "Who Is Holding Up the Internet? Open Source, Data & the People Behind Your Phone",
+   "start": "2026-10-28T16:30:00.000Z",
+   "end": "2026-10-28T19:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/v8vkrdy1",
+   "place": "Tulegatan 11, Stockholm",
+   "online": false,
+   "hosts": [
+    "Gabriela Moraes",
+    "Anastasia Potekhina",
+    "Arta Kjato"
+   ],
+   "guests": 25,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-axBo5BNao3B7rTY",
+   "name": "AI across Operations",
+   "start": "2026-10-28T17:00:00.000Z",
+   "end": "2026-10-28T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/vm7ckc01",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Valerie Wistrom",
+    "Hamed Mohammadpour"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-FSuXDfcBA4dJYO9",
+   "name": "Computer Vision Meetup",
+   "start": "2026-10-29T16:30:00.000Z",
+   "end": "2026-10-29T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/lkrt3ix4",
+   "place": "Nytorgsgatan 38, Stockholm",
+   "online": false,
+   "hosts": [
+    "Onur Yüksel"
+   ],
+   "guests": 5,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-yFBeYNOMKBh5Ize",
+   "name": "Women’s Health Series: Femtech And Innovation",
+   "start": "2026-10-29T17:00:00.000Z",
+   "end": "2026-10-29T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/wxqmpabu",
+   "place": "Majorsgatan 7, Stockholm",
+   "online": false,
+   "hosts": [
+    "SOCHE"
+   ],
+   "guests": 54,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-fZxHAGMXPYT3efQ",
+   "name": "Learn FPV Drone piloting",
+   "start": "2026-10-31T11:00:00.000Z",
+   "end": "2026-10-31T16:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/4yvhscnr",
+   "place": "Huddinge",
+   "online": false,
+   "hosts": [
+    "Jonatan H"
+   ],
+   "guests": 8,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-U6UfNV3fpglnyLg",
+   "name": "Crime & Çay",
+   "start": "2026-10-31T16:00:00.000Z",
+   "end": "2026-10-31T22:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/q5y7dxpy",
+   "place": "Svartviksslingan 17, Bromma",
+   "online": false,
+   "hosts": [
+    "Kurdiska Ungdomsföreningen"
+   ],
+   "guests": 0,
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "evt-aAEWSoVkeVrsGT7",
+   "name": "Nutty Ventures: Nordic VC Nights November 2026 Edition | The New Rules of Venture",
+   "start": "2026-11-02T15:30:00.000Z",
+   "end": "2026-11-02T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/ay1ph0hx",
+   "place": "Malmskillnadsgatan 44A, Stockholm",
+   "online": false,
+   "hosts": [
+    "Naimul Abd",
+    "Vera Litens",
+    "Matilda Muhr Göransson"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-EHS9dXfGt0FPpM2",
+   "name": "Designer Games Night",
+   "start": "2026-11-02T16:00:00.000Z",
+   "end": "2026-11-02T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/kutdcb0j",
+   "place": "Sergels Torg 3, Stockholm",
+   "online": false,
+   "hosts": [
+    "Laura Wiegand"
+   ],
+   "guests": 19,
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "evt-rNWfDFGojpjJ9D5",
+   "name": "Creator Night: Soundtrack Your Story with Sonilo",
+   "start": "2026-11-02T16:00:00.000Z",
+   "end": "2026-11-02T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/2h6dww2f",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Sonilo Europe",
+    "Jingyu Xiang"
+   ],
+   "guests": 22,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-GLjHJ4ja3tVOZiI",
+   "name": "ItalianiTech Stockholm #14",
+   "start": "2026-11-02T17:00:00.000Z",
+   "end": "2026-11-02T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/dyuwefg1",
+   "place": "Götgatan 78, Stockholm",
+   "online": false,
+   "hosts": [
+    "Michela Bevilacqua",
+    "antonella aulita",
+    "Giovanni Nisti",
+    "Giuseppe De Simone"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-HrLK2RdQcmspA6t",
+   "name": "Align Open – Agentic Software Engineering och utvecklarens roll: Vad kommer det innebära att arbeta med mjukvara år 2027?",
+   "start": "2026-11-03T10:30:00.000Z",
+   "end": "2026-11-03T12:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/agentic-software",
+   "place": "Kungsgatan 55, Stockholm",
+   "online": false,
+   "hosts": [
+    "Simon Strålberg"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-d6LJtqW09ARaeG6",
+   "name": "Fails & F*ckups: What We'd Do Differently - STHLM",
+   "start": "2026-11-03T10:30:00.000Z",
+   "end": "2026-11-03T13:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/vvr3v4d2",
+   "place": "Malmskillnadsgatan 44a, Stockholm",
+   "online": false,
+   "hosts": [
+    "Ebba Dyvik",
+    "Matilda Muhr Göransson"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-Z0cLsSmLzY9Pze7",
+   "name": "AI Salon - AI in Gaming",
+   "start": "2026-11-03T16:30:00.000Z",
+   "end": "2026-11-03T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/08wu1osg",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Ingrid af Sandeberg",
+    "Melina Diamantoglou",
+    "Tony Malm GS1"
+   ],
+   "guests": 106,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-KrSvg3z59X308BO",
+   "name": "AI in Practice: Perpectives from Finance, Brand, and Venture Capital",
+   "start": "2026-11-04T08:00:00.000Z",
+   "end": "2026-11-04T10:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/0olnyrc8",
+   "place": "Gustav Adolfs torg 18, Stockholm",
+   "online": false,
+   "hosts": [
+    "Vidhi Kumar",
+    "Ole Daniel Nitter",
+    "Kshemu Desai",
+    "Eric Johansson",
+    "Tobias Fridell"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-bP253rO9Pa65ybr",
+   "name": "AI Sovereignty in Practice: Global, Local or Hybrid? (w/ The AI Collective)",
+   "start": "2026-11-04T15:00:00.000Z",
+   "end": "2026-11-04T17:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/aic-sw-sovereignty",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "The AI Collective",
+    "Neelima Misra",
+    "Karin Nissfolk"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-HreFShAet1bYjv3",
+   "name": "Premier Event",
+   "start": "2026-11-04T16:00:00.000Z",
+   "end": "2026-11-04T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/4jehoued",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Emmanouil (Manos) Karatheodorou",
+    "Harjodh Singh"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-AP4qbKRVlidE0Sv",
+   "name": "BICS x HiQ – Cybersecurity Roles in Practice | Stockholm",
+   "start": "2026-11-04T16:00:00.000Z",
+   "end": "2026-11-04T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/gltwh32z",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Robin Raczkiewicz",
+    "Helen",
+    "Mia Pääsuke",
+    "Einar Bergviken"
+   ],
+   "guests": 126,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-6KjrmJat9lvyFf7",
+   "name": "How to Build AI the World Will Let In (A Conversation With Tandem Health)",
+   "start": "2026-11-04T16:30:00.000Z",
+   "end": "2026-11-04T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/p5c5ffh5",
+   "place": "Birger Jarlsgatan 57 C, Stockholm",
+   "online": false,
+   "hosts": [
+    "Per Frykebrant",
+    "Beata Enwall",
+    "Sandra Eriksson"
+   ],
+   "guests": 57,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-zSaLZUgpS1rgDEx",
+   "name": "Better signals, better hires: An executive dinner for TA & People leaders",
+   "start": "2026-11-04T17:00:00.000Z",
+   "end": "2026-11-04T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/wthwz95d",
+   "place": "Tulegatan 7, Stockholm",
+   "online": false,
+   "hosts": [
+    "Conor Timmons"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-AVnfffQHcNavgO5",
+   "name": "AW+Sthlms-quiz med 08!",
+   "start": "2026-11-05T16:00:00.000Z",
+   "end": "2026-11-05T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/ekqb2ua7",
+   "place": "under the fountain, Sergels Torg, Stockholm",
+   "online": false,
+   "hosts": [
+    "Martin Schori"
+   ],
+   "guests": 0,
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "evt-ROIhE7JIDUZuDox",
+   "name": "Höstmingel - upptäck framtidens matteundervisning tillsammans med dina kollegor",
+   "start": "2026-11-05T16:00:00.000Z",
+   "end": "2026-11-05T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/8wdfbp4e",
+   "place": "Götgatan 78, Stockholm",
+   "online": false,
+   "hosts": [
+    "Andreas Ahlin",
+    "Rebecka Jeansson",
+    "Hannah Majoros",
+    "Marcus Nilsson"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-TRyRrBbD6EsNAMD",
+   "name": "Physical AI",
+   "start": "2026-11-05T16:30:00.000Z",
+   "end": "2026-11-05T19:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/physical-ai-sthlm-nov",
+   "place": "Teknikringen 1, Stockholm",
+   "online": false,
+   "hosts": [
+    "Jesse Tinell",
+    "Mala Valroy",
+    "Lucas Grant",
+    "Nitin Sood"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-FlmSjVfDHvGwMCi",
+   "name": "Omarchy Stockholm Meetup - 001",
+   "start": "2026-11-05T16:30:00.000Z",
+   "end": "2026-11-05T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/nok9jafm",
+   "place": "Kungsgatan 62, Stockholm",
+   "online": false,
+   "hosts": [
+    "André Ekespong"
+   ],
+   "guests": 20,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-UE1PRuylTngzHZ9",
+   "name": "From practice to product - let's solve the next gen accounting software",
+   "start": "2026-11-05T17:00:00.000Z",
+   "end": "2026-11-05T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/z77rv09r",
+   "place": "Barnhusgatan 3, Stockholm",
+   "online": false,
+   "hosts": [
+    "Philip Caneman"
+   ],
+   "guests": 7,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-tITtOeH8QJLgJxk",
+   "name": "Who will control the intelligence of the future? Breakfast talk with Silvija Seres - STHLM",
+   "start": "2026-11-06T06:45:00.000Z",
+   "end": "2026-11-06T08:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/tgnjb69i",
+   "place": "Malmskillnadsgatan 44a, Stockholm",
+   "online": false,
+   "hosts": [
+    "Linnea Hakansson",
+    "Matilda Muhr Göransson"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-BKqFCSkNXViNyU0",
+   "name": "The AI Shift: How Companies Win, Adapt, and Lead",
+   "start": "2026-11-10T12:30:00.000Z",
+   "end": "2026-11-10T17:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/70lw1szc",
+   "place": "Malmskillnadsgatan 46, Stockholm",
+   "online": false,
+   "hosts": [
+    "FrenchTech Stockholm"
+   ],
+   "guests": 40,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-OESiXFiHJAKd0b3",
+   "name": "Founders Live Stockholm",
+   "start": "2026-11-10T16:00:00.000Z",
+   "end": "2026-11-10T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/founderslive-stockholm-2026-11",
+   "place": "Årstaängsvägen 21C, Stockholm",
+   "online": false,
+   "hosts": [
+    "Naimul Abd"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-aVwFHfEVVR9C46d",
+   "name": "AI4Metascience NeurIPS Hackathon Kick-Off",
+   "start": "2026-11-10T16:30:00.000Z",
+   "end": "2026-11-10T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/6b08hj2b",
+   "place": "Drottning Kristinas väg 61, Stockholm",
+   "online": false,
+   "hosts": [
+    "Stockholm AI",
+    "Vijeta Sharma"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-1Yp3tGiXW1cbaBE",
+   "name": "CMO Dinner",
+   "start": "2026-11-10T17:30:00.000Z",
+   "end": "2026-11-10T19:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/e6nsb6z3",
+   "place": "Regeringsgatan 111, Stockholm",
+   "online": false,
+   "hosts": [
+    "Elias Malm",
+    "Kelvin Fens",
+    "Stina"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-AP24WhShtdVylLi",
+   "name": "CTO eXchange Stockholm 11/11",
+   "start": "2026-11-11T10:30:00.000Z",
+   "end": "2026-11-11T12:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/iph7o5uv",
+   "place": "Kungsgatan 60, 1tr, Stockholm",
+   "online": false,
+   "hosts": [
+    "Fredrik Julin",
+    "Maria Windna",
+    "Developers Bay"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-MbGAV8g6e1DjKow",
+   "name": "Wordsmith at Stockholm Open",
+   "start": "2026-11-11T10:30:00.000Z",
+   "end": "2026-11-11T12:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/4ri6hfhs",
+   "place": "Lidingövägen 75, Stockholm",
+   "online": false,
+   "hosts": [
+    "Pontus Nihlén",
+    "Thomas Morgan"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-Zf065QfgEFDlRob",
+   "name": "Grok Bot Stockholm Meetup x Aalto Founder School",
+   "start": "2026-11-11T16:00:00.000Z",
+   "end": "2026-11-11T19:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/m5yicjqi",
+   "place": "Grev Turegatan 1, Stockholm",
+   "online": false,
+   "hosts": [
+    "Hitesh Chander Monga",
+    "Founder School"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-tOk8duvv4qkDGk1",
+   "name": "n8n Workshop Stockholm - Build a Voice Agent in n8n: Hands-On Workshop",
+   "start": "2026-11-11T16:30:00.000Z",
+   "end": "2026-11-11T19:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/n8n-qyiw",
+   "place": "Odengatan 81, Stockholm",
+   "online": false,
+   "hosts": [
+    "n8n",
+    "Mikael Wallstedt",
+    "Orjiugo Prince Victor"
+   ],
+   "guests": 45,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-oh5cfirWZPnr9qc",
+   "name": "Codex Community Meetup: Stockholm",
+   "start": "2026-11-11T17:00:00.000Z",
+   "end": "2026-11-11T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/2neodkrh",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Shuang Zheng",
+    "Erika Magnusson"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-TqPV1vkoghLz2NB",
+   "name": "AI and the Future of Work: Leading People Through the Transition - STHLM",
+   "start": "2026-11-12T10:30:00.000Z",
+   "end": "2026-11-12T12:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/epicenter-58zx",
+   "place": "Malmskillnadsgatan 44a, Stockholm",
+   "online": false,
+   "hosts": [
+    "Matilda Muhr Göransson",
+    "Tatiana Caldas-Löttiger"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-OHHfBWNOS5lesQI",
+   "name": "Shiftic AI Change Hackathon - Measure impact of Change",
+   "start": "2026-11-12T15:00:00.000Z",
+   "end": "2026-11-12T17:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/shiftic-6lym",
+   "place": "Dag Hammarskjölds väg 14, Stockholm",
+   "online": false,
+   "hosts": [
+    "Bella Funck"
+   ],
+   "guests": 11,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-3NWvxYuKMno5P64",
+   "name": "How each got their first 10 customers - STHLM",
+   "start": "2026-11-12T17:00:00.000Z",
+   "end": "2026-11-12T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/epicenter-smy2",
+   "place": "Malmskillnadsgatan 44a, Stockholm",
+   "online": false,
+   "hosts": [
+    "Julia Kotulska",
+    "Johan Torssell",
+    "Manal Mayssan",
+    "Matilda Muhr Göransson"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-YoxbTpDgfqC2q6S",
+   "name": "Leyr x Lovable Buildathon: Build Your EHR",
+   "start": "2026-11-15T11:00:00.000Z",
+   "end": "2026-11-15T15:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/dm1pljah",
+   "place": "Årstaängsvägen 21C, Stockholm",
+   "online": false,
+   "hosts": [
+    "Leyr Health"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-fihAAOlMNsBmkFm",
+   "name": "IP Crash Course with Brann & Sting",
+   "start": "2026-11-16T11:00:00.000Z",
+   "end": "2026-11-16T12:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/31ery912",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Sting AB",
+    "Kasia Mikoluk",
+    "Raoul Stubbe"
+   ],
+   "guests": 9,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-cp5Gcru5mNBgSVo",
+   "name": "Clay Club Stockholm × Mentimeter: Building the next GTM workspace",
+   "start": "2026-11-16T17:00:00.000Z",
+   "end": "2026-11-16T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/7ade2l74",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Siya Verma",
+    "Munnawar Hashim",
+    "Niklas Gustavsson",
+    "Fredrik Nordström",
+    "Jesper Petersson"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-V2YOrBmxfiVdIAT",
+   "name": "kanketsu x OpenAI",
+   "start": "2026-11-18T06:30:00.000Z",
+   "end": "2026-11-18T08:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/d29u1k79",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Evgenii Kondratev",
+    "Emil Härdling",
+    "Hugo Norberg",
+    "Philip Andersson"
+   ],
+   "guests": 4,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-5O6HTjkmHgygoh6",
+   "name": "Open Data Forum",
+   "start": "2026-11-18T07:00:00.000Z",
+   "end": "2026-11-18T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/dtsqcfat",
+   "place": "Birger Jarlsgatan 57, Stockholm",
+   "online": false,
+   "hosts": [
+    "Nion",
+    "Bård at Nion",
+    "Leana at Nion",
+    "Iva at Nion"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-zFnnnjlY3J9miqW",
+   "name": "Good News AI",
+   "start": "2026-11-18T16:30:00.000Z",
+   "end": "2026-11-18T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/gf7nuiar",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Luba Weissmann",
+    "Neelima Misra"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-m0GKy966LyHNBQE",
+   "name": "Hockey and AI event with SportsTech Sweden and Elite Prospects",
+   "start": "2026-11-18T16:30:00.000Z",
+   "end": "2026-11-18T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/qhr0r6yj",
+   "place": "Norrlandsgatan 18, 5tr, Stockholm",
+   "online": false,
+   "hosts": [
+    "SportsTech Sweden"
+   ],
+   "guests": 25,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-8um5a2JCPn24GgN",
+   "name": "AI Safety Day Sweden 2026",
+   "start": "2026-11-21T11:00:00.000Z",
+   "end": "2026-11-21T17:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/6oz9b743",
+   "place": "Sköndal",
+   "online": false,
+   "hosts": [
+    "Paul Ruppelt",
+    "Kelvin Soen",
+    "Aleksandra Midor"
+   ],
+   "guests": 59,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-iOWF8waSmfuBcuX",
+   "name": "HI x Hubert: Frukostevent om framtidens screening med AI och mänsklig intelligens.",
+   "start": "2026-11-23T07:00:00.000Z",
+   "end": "2026-11-23T08:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/7srs8ao7",
+   "place": "Peter Myndes backe 5, Stockholm",
+   "online": false,
+   "hosts": [
+    "HI Assessments"
+   ],
+   "guests": 8,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-lOWquDkfLU4GaDE",
+   "name": "Inflow | Oneflow product event 2026",
+   "start": "2026-11-25T07:30:00.000Z",
+   "end": "2026-11-25T09:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/jip68x5n",
+   "place": "Södra Blasieholmshamnen 2, Stockholm",
+   "online": false,
+   "hosts": [
+    "frida thunholm"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-RnedGXhwImAOOJx",
+   "name": "VERGE Retail - STHLM",
+   "start": "2026-11-25T12:30:00.000Z",
+   "end": "2026-11-25T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/Verge-retail",
+   "place": "Malmskillnadsgatan 44a, Stockholm",
+   "online": false,
+   "hosts": [
+    "Ebba Brundin"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-9Bz1Fja5SJTQD4w",
+   "name": "LangChain Meetup - Day in the life of a token in the European cloud: AI on sovereign infrastructure",
+   "start": "2026-11-25T16:30:00.000Z",
+   "end": "2026-11-25T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/9dni7s4o",
+   "place": "Katarinavägen 9, Stockholm",
+   "online": false,
+   "hosts": [
+    "Gustaf G",
+    "Amada Echeverria",
+    "evroc"
+   ],
+   "guests": 3,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-bkYKA3hqowUTenE",
+   "name": "NEA Stockholm 26/11",
+   "start": "2026-11-26T16:00:00.000Z",
+   "end": "2026-11-26T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/5wbt40mq",
+   "place": "Rålambsvägen 17, Stockholm",
+   "online": false,
+   "hosts": [
+    "Maria Windna",
+    "Jenny Andersson",
+    "Developers Bay"
+   ],
+   "guests": 3,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-wYCoTmavOIZZAQJ",
+   "name": "Kom-igång med Claude - bygg ditt första AI-verktyg på 3 timmar - Träna & lär [STHLM]",
+   "start": "2026-12-01T08:00:00.000Z",
+   "end": "2026-12-01T11:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/kvadrat-kom-igang-med-claude-sthlm-1dec",
+   "place": "Kungsbroplan 3A, Stockholm",
+   "online": false,
+   "hosts": [
+    "Marit Barklund",
+    "Sue Paz Bylund"
+   ],
+   "guests": 3,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-Uh5XeAcoBBcbHez",
+   "name": "AI Day 2026",
+   "start": "2026-12-02T09:00:00.000Z",
+   "end": "2026-12-02T15:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/jsundlo-bjqf",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Johannes Sundlo",
+    "Sara Breman",
+    "Anna Bjuremar"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-C2klLgRSvSzSHxa",
+   "name": "Designer Games Night",
+   "start": "2026-12-07T16:00:00.000Z",
+   "end": "2026-12-07T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/h8cyycpl",
+   "place": "Sergels Torg 3, Stockholm",
+   "online": false,
+   "hosts": [
+    "Laura Wiegand"
+   ],
+   "guests": 8,
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "evt-bx5Wb9wtR0fjBzE",
+   "name": "Founders Live Stockholm",
+   "start": "2026-12-08T16:00:00.000Z",
+   "end": "2026-12-08T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/founderslive-stockholm-2026-12",
+   "place": "Årstaängsvägen 21C, Stockholm",
+   "online": false,
+   "hosts": [
+    "Naimul Abd"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-f0di9PZFHzCC0od",
+   "name": "4WARD - Stockholm Quarterly Member Meetup - Climate Sustainability Tech Drinks | Holiday edition!",
+   "start": "2026-12-16T16:00:00.000Z",
+   "end": "2026-12-16T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/aggecc3x",
+   "place": "Swedenborgsgatan 2, Stockholm",
+   "online": false,
+   "hosts": [
+    "Therese Lundquist"
+   ],
+   "guests": 13,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-cGHPINYDHmlA3tZ",
+   "name": "Seed to System | Founder Retreat",
+   "start": "2026-12-20T10:00:00.000Z",
+   "end": "2026-12-27T17:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/an31lv7s",
+   "place": "Stockholm-Arlanda",
+   "online": false,
+   "hosts": [
+    "Ahmad Mudhar",
+    "Lozd"
+   ],
+   "guests": 3,
+   "categories": [
+    "tech"
+   ]
+  }
+ ]
+}

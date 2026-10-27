@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stockholm events</title>
+<style>
+  :root { --bg:#fff; --fg:#1a1a1a; --muted:#595959; --line:#e2e2e2; --link:#0b57d0; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#161616; --fg:#eee; --muted:#a8a8a8; --line:#333; --link:#8ab4f8; }
+  }
+  body { font:16px/1.4 system-ui,sans-serif; background:var(--bg); color:var(--fg); max-width:760px; margin:0 auto; padding:16px; }
+  h1 { font-size:1.4rem; margin:0 0 4px; }
+  .meta { color:var(--muted); font-size:.85rem; margin-bottom:12px; }
+  .filters label { margin-right:12px; }
+  h2 { font-size:1rem; margin:24px 0 6px; padding-bottom:4px; border-bottom:1px solid var(--line); }
+  ul { list-style:none; padding:0; margin:0; }
+  li { display:flex; gap:12px; padding:6px 0; }
+  .time { color:var(--muted); min-width:3.2rem; font-variant-numeric:tabular-nums; }
+  a { color:var(--link); }
+  .sub { color:var(--muted); font-size:.85rem; }
+  .tag { font-size:.75rem; border:1px solid var(--line); border-radius:4px; padding:0 4px; margin-left:4px; }
+</style>
+</head>
+<body>
+<h1>Stockholm events</h1>
+<div class="meta" id="meta"></div>
+<div class="filters" id="filters"></div>
+<main id="list"></main>
+<script>
+const tz = "Europe/Stockholm";
+const dayFmt = new Intl.DateTimeFormat("en-GB", { timeZone: tz, weekday: "long", day: "numeric", month: "long" });
+const keyFmt = new Intl.DateTimeFormat("en-CA", { timeZone: tz });
+const timeFmt = new Intl.DateTimeFormat("en-GB", { timeZone: tz, hour: "2-digit", minute: "2-digit" });
+const el = (tag, text, cls) => { const n = document.createElement(tag); if (text) n.textContent = text; if (cls) n.className = cls; return n; };
+
+fetch("events.json").then(r => r.json()).then(({ updated, events }) => {
+  const cats = [...new Set(events.flatMap(e => e.categories))];
+  const on = new Set(cats);
+  document.getElementById("meta").textContent =
+    events.length + " events, updated " + new Date(updated).toLocaleString("en-GB", { timeZone: tz });
+
+  const filters = document.getElementById("filters");
+  for (const c of cats) {
+    const label = el("label"), box = el("input");
+    box.type = "checkbox"; box.checked = true;
+    box.onchange = () => { box.checked ? on.add(c) : on.delete(c); render(); };
+    label.append(box, " " + c);
+    filters.append(label);
+  }
+
+  function render() {
+    const list = document.getElementById("list");
+    list.replaceChildren();
+    const now = Date.now();
+    let ul, lastDay;
+    for (const e of events) {
+      if (!e.categories.some(c => on.has(c)) || Date.parse(e.end || e.start) < now) continue;
+      const d = new Date(e.start), day = keyFmt.format(d);
+      if (day !== lastDay) {
+        lastDay = day;
+        list.append(el("h2", dayFmt.format(d)));
+        ul = el("ul"); list.append(ul);
+      }
+      const li = el("li"), body = el("div");
+      const a = el("a", e.name); a.href = e.url;
+      const title = el("div"); title.append(a);
+      for (const c of e.categories) title.append(el("span", c, "tag"));
+      const sub = [e.online ? "Online" : e.place, e.hosts.join(", ")].filter(Boolean).join(" · ");
+      body.append(title, el("div", sub, "sub"));
+      li.append(el("span", timeFmt.format(d), "time"), body);
+      ul.append(li);
+    }
+    if (!ul) list.append(el("p", "Nothing upcoming.", "sub"));
+  }
+  render();
+}).catch(err => { document.getElementById("meta").textContent = "Could not load events.json: " + err; });
+</script>
+</body>
+</html>
