@@ -1,43 +1,6 @@
 {
- "updated": "2026-10-27T14:53:16+00:00",
+ "updated": "2026-10-28T10:23:58+00:00",
  "events": [
-  {
-   "id": "evt-ZSmgVGcG5FCu0Ue",
-   "name": "Stockholm | Claude for Designers Vol. 3",
-   "start": "2026-10-27T16:30:00.000Z",
-   "end": "2026-10-27T21:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/claude-inw9",
-   "cover": "https://images.lumacdn.com/api-uploads/k4/d271c07a-28f1-4fff-a6ac-fc562483de6b.png",
-   "place": "Mäster Samuelsgatan 56, Stockholm",
-   "online": false,
-   "hosts": [
-    "Somesh Kesarla Suresh"
-   ],
-   "guests": 0,
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "evt-WGx6AkpAIUTCFdE",
-   "name": "Vector Sthlm 18",
-   "start": "2026-10-27T17:00:00.000Z",
-   "end": "2026-10-27T18:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/sri4fpiy",
-   "cover": "https://images.lumacdn.com/uploads/1m/39d2f63e-351e-4ede-953f-5334abac5df2.png",
-   "place": "Stockholm",
-   "online": false,
-   "hosts": [
-    "Daniel Ekwuazi",
-    "Christopher Taberman"
-   ],
-   "guests": 5,
-   "categories": [
-    "ai"
-   ]
-  },
   {
    "id": "evt-tz2oFT1bSVicmGu",
    "name": "Mindfulness Practice for Founders powered by MoMo",
@@ -69,7 +32,7 @@
    "hosts": [
     "Green Little Heart"
    ],
-   "guests": 73,
+   "guests": 80,
    "categories": [
     "arts"
    ]
@@ -162,7 +125,7 @@
    "hosts": [
     "SOCHE"
    ],
-   "guests": 54,
+   "guests": 57,
    "categories": [
     "tech"
    ]
@@ -200,9 +163,10 @@
     "Julia Kotulska",
     "Johan Torssell",
     "Philip Andersson",
-    "Mathias Flaaten"
+    "Mathias Flaaten",
+    "Oliver Jones"
    ],
-   "guests": 73,
+   "guests": 90,
    "categories": [
     "fitness",
     "running"
@@ -262,7 +226,7 @@
    "hosts": [
     "Stockholm Family Network"
    ],
-   "guests": 17,
+   "guests": 25,
    "categories": [
     "family"
    ]
@@ -418,7 +382,7 @@
     "Melina Diamantoglou",
     "Tony Malm GS1"
    ],
-   "guests": 106,
+   "guests": 110,
    "categories": [
     "ai"
    ]
@@ -477,7 +441,8 @@
    "online": false,
    "hosts": [
     "Emmanouil (Manos) Karatheodorou",
-    "Harjodh Singh"
+    "Harjodh Singh",
+    "Jean-Baptiste Gerard"
    ],
    "guests": 0,
    "categories": [
@@ -500,7 +465,7 @@
     "Mia Pääsuke",
     "Einar Bergviken"
    ],
-   "guests": 126,
+   "guests": 125,
    "categories": [
     "tech"
    ]
@@ -518,7 +483,7 @@
    "hosts": [
     "Ylva Lindh"
    ],
-   "guests": 11,
+   "guests": 13,
    "categories": [
     "arts"
    ]
@@ -536,7 +501,7 @@
    "hosts": [
     "Cha Song"
    ],
-   "guests": 28,
+   "guests": 31,
    "categories": [
     "food"
    ]
@@ -556,7 +521,7 @@
     "Beata Enwall",
     "Sandra Eriksson"
    ],
-   "guests": 58,
+   "guests": 74,
    "categories": [
     "ai"
    ]
@@ -691,7 +656,7 @@
    "hosts": [
     "Philip Caneman"
    ],
-   "guests": 7,
+   "guests": 0,
    "categories": [
     "tech"
    ]
@@ -764,7 +729,7 @@
    "hosts": [
     "Girls in Stockholm"
    ],
-   "guests": 8,
+   "guests": 10,
    "categories": [
     "wellness"
    ]
@@ -782,7 +747,7 @@
    "hosts": [
     "Indique Stockholm Supperclub"
    ],
-   "guests": 9,
+   "guests": 10,
    "categories": [
     "food"
    ]
@@ -800,7 +765,7 @@
    "hosts": [
     "FrenchTech Stockholm"
    ],
-   "guests": 40,
+   "guests": 42,
    "categories": [
     "ai"
    ]
@@ -885,7 +850,7 @@
    "end": "2026-11-10T19:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/e6nsb6z3",
-   "cover": "https://images.lumacdn.com/uploads/ki/b450eabf-4dbf-42f0-b9d5-c230613e7f24.png",
+   "cover": "https://images.lumacdn.com/uploads/ds/e63565eb-a72e-47a6-9851-b45c871ff980.jpg",
    "place": "Regeringsgatan 111, Stockholm",
    "online": false,
    "hosts": [
@@ -917,6 +882,27 @@
    "categories": [
     "fitness",
     "running"
+   ]
+  },
+  {
+   "id": "evt-RdqoACQNUYF3FWv",
+   "name": "FRUKOSTEVENT: Äkta eller AI? Hur AI förändrar journalistik och media.",
+   "start": "2026-11-11T07:30:00.000Z",
+   "end": "2026-11-11T09:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/jyz26tdl",
+   "cover": "https://images.lumacdn.com/uploads/2u/f9c61c35-313f-4612-9265-eb35a97208fa.png",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Azra Osmancevic",
+    "Sara Sommansson",
+    "Henriette Boethius",
+    "Evelina Anttila"
+   ],
+   "guests": 8,
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -1010,7 +996,7 @@
     "Mikael Wallstedt",
     "Orjiugo Prince Victor"
    ],
-   "guests": 45,
+   "guests": 44,
    "categories": [
     "ai"
    ]
@@ -1124,7 +1110,7 @@
    "hosts": [
     "Johannes Ojanpera"
    ],
-   "guests": 10,
+   "guests": 11,
    "categories": [
     "fitness",
     "running"
@@ -1285,7 +1271,7 @@
    "hosts": [
     "SportsTech Sweden"
    ],
-   "guests": 25,
+   "guests": 28,
    "categories": [
     "ai"
    ]
@@ -1324,28 +1310,9 @@
     "Kelvin Soen",
     "Aleksandra Midor"
    ],
-   "guests": 59,
+   "guests": 60,
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "id": "evt-BbpSshoxICQRy1E",
-   "name": "Natural progression - Fejká - LAR - Slow Ted",
-   "start": "2026-11-21T14:00:00.000Z",
-   "end": "2026-11-21T21:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/w53shpd3",
-   "cover": "https://images.lumacdn.com/uploads/80/dc1c24d3-22d3-4878-b757-2ab58d0ccb25.png",
-   "place": "Gävlegatan 18, Stockholm",
-   "online": false,
-   "hosts": [
-    "Matthew Larden",
-    "Theodor Zander"
-   ],
-   "guests": 59,
-   "categories": [
-    "arts"
    ]
   },
   {
@@ -1489,7 +1456,7 @@
     "Amada Echeverria",
     "evroc"
    ],
-   "guests": 3,
+   "guests": 6,
    "categories": [
     "ai"
    ]
@@ -1534,6 +1501,27 @@
    ]
   },
   {
+   "id": "evt-U8U58mTRBtJFfma",
+   "name": "Rooted in Care: herbs, cosmetics and everyday wellbeing workshop",
+   "start": "2026-11-26T16:00:00.000Z",
+   "end": "2026-11-26T18:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/f3are9m3",
+   "cover": "https://images.lumacdn.com/uploads/n7/4c7e3ce4-35b7-458c-94df-1993a5bedfad.png",
+   "place": "Gamla Brogatan 13, Stockholm",
+   "online": false,
+   "hosts": [
+    "Zugania Zuniga",
+    "Anna Calzolaio",
+    "Louise Verhoest",
+    "Pim"
+   ],
+   "guests": 3,
+   "categories": [
+    "wellness"
+   ]
+  },
+  {
    "id": "evt-AAe1WtAFKuwlDFN",
    "name": "Repair Cafe' and Community banner workshop - Make Something Week",
    "start": "2026-11-28T12:00:00.000Z",
@@ -1548,7 +1536,7 @@
     "Jocie Chan",
     "Zugania Zuniga"
    ],
-   "guests": 44,
+   "guests": 43,
    "categories": [
     "arts",
     "climate"
