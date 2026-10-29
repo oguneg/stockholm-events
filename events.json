@@ -1,79 +1,23 @@
 {
- "updated": "2026-10-28T10:23:58+00:00",
+ "updated": "2026-10-29T10:44:13+00:00",
  "events": [
   {
-   "id": "evt-tz2oFT1bSVicmGu",
-   "name": "Mindfulness Practice for Founders powered by MoMo",
-   "start": "2026-10-28T15:00:00.000Z",
-   "end": "2026-10-28T17:00:00.000Z",
+   "id": "evt-p4wa1DOVAZdJTDv",
+   "name": "ARCADE PUNK",
+   "start": "2026-10-29T10:30:00.000Z",
+   "end": "2026-10-29T14:30:00.000Z",
    "tz": "Europe/Stockholm",
-   "url": "https://luma.com/547wkkzy",
-   "cover": "https://images.lumacdn.com/uploads/zg/904ed3c6-ae40-4d5e-a229-ccb95ba8c5bb.png",
-   "place": "Birger Jarlsgatan 57 C, Stockholm",
+   "url": "https://luma.com/7smm2mb4",
+   "cover": "https://images.lumacdn.com/uploads/ku/85515db4-320a-4606-82b2-90137c5e1a8b.jpg",
+   "place": "Sodertorn University, Alfred Nobels allé 5, Huddinge",
    "online": false,
    "hosts": [
-    "Maria Kirilenko"
+    "Innovation Station"
    ],
    "guests": 0,
    "categories": [
-    "wellness"
-   ]
-  },
-  {
-   "id": "evt-IaeyiD452DZAxpb",
-   "name": "Ukrainian brand launch",
-   "start": "2026-10-28T16:00:00.000Z",
-   "end": "2026-10-28T19:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/v0k9l9jd",
-   "cover": "https://images.lumacdn.com/uploads/92/2871b069-f6ed-40bd-aac8-2b7385737862.png",
-   "place": "Swedenborgsgatan 2, Stockholm",
-   "online": false,
-   "hosts": [
-    "Green Little Heart"
-   ],
-   "guests": 80,
-   "categories": [
+    "tech",
     "arts"
-   ]
-  },
-  {
-   "id": "evt-nmpCQv6uNyseF5p",
-   "name": "Who Is Holding Up the Internet? Open Source, Data & the People Behind Your Phone",
-   "start": "2026-10-28T16:30:00.000Z",
-   "end": "2026-10-28T19:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/v8vkrdy1",
-   "cover": "https://images.lumacdn.com/uploads/le/44918bd3-7810-4d8a-b715-633fc84b7d09.png",
-   "place": "Tulegatan 11, Stockholm",
-   "online": false,
-   "hosts": [
-    "Gabriela Moraes",
-    "Anastasia Potekhina",
-    "Arta Kjato"
-   ],
-   "guests": 25,
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-axBo5BNao3B7rTY",
-   "name": "AI across Operations",
-   "start": "2026-10-28T17:00:00.000Z",
-   "end": "2026-10-28T20:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/vm7ckc01",
-   "cover": "https://images.lumacdn.com/uploads/k2/c5a7befe-bd06-4557-bedd-1dac28917aef.png",
-   "place": "Stockholm",
-   "online": false,
-   "hosts": [
-    "Valerie Wistrom",
-    "Hamed Mohammadpour"
-   ],
-   "guests": 0,
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -89,7 +33,7 @@
    "hosts": [
     "Glowstation"
    ],
-   "guests": 62,
+   "guests": 56,
    "categories": [
     "wellness"
    ]
@@ -125,7 +69,7 @@
    "hosts": [
     "SOCHE"
    ],
-   "guests": 57,
+   "guests": 59,
    "categories": [
     "tech"
    ]
@@ -166,7 +110,7 @@
     "Mathias Flaaten",
     "Oliver Jones"
    ],
-   "guests": 90,
+   "guests": 112,
    "categories": [
     "fitness",
     "running"
@@ -189,7 +133,7 @@
     "Lydia Faager Endrell",
     "Simon Sund"
    ],
-   "guests": 172,
+   "guests": 173,
    "categories": [
     "fitness",
     "running"
@@ -226,7 +170,7 @@
    "hosts": [
     "Stockholm Family Network"
    ],
-   "guests": 25,
+   "guests": 24,
    "categories": [
     "family"
    ]
@@ -283,7 +227,7 @@
     "Sonilo Europe",
     "Jingyu Xiang"
    ],
-   "guests": 22,
+   "guests": 27,
    "categories": [
     "ai",
     "arts"
@@ -302,7 +246,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 19,
+   "guests": 22,
    "categories": [
     "games",
     "arts"
@@ -337,7 +281,7 @@
    "end": "2026-11-03T12:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/agentic-software",
-   "cover": "https://images.lumacdn.com/uploads/fj/ba83a28f-c0b8-4142-9c92-70a94e948e9e.jpg",
+   "cover": "https://images.lumacdn.com/uploads/sg/6705d20f-ff70-4208-9763-bae097f8ac7e.jpg",
    "place": "Kungsgatan 55, Stockholm",
    "online": false,
    "hosts": [
@@ -382,7 +326,7 @@
     "Melina Diamantoglou",
     "Tony Malm GS1"
    ],
-   "guests": 110,
+   "guests": 118,
    "categories": [
     "ai"
    ]
@@ -501,7 +445,7 @@
    "hosts": [
     "Cha Song"
    ],
-   "guests": 31,
+   "guests": 44,
    "categories": [
     "food"
    ]
@@ -521,7 +465,7 @@
     "Beata Enwall",
     "Sandra Eriksson"
    ],
-   "guests": 74,
+   "guests": 176,
    "categories": [
     "ai"
    ]
@@ -563,6 +507,25 @@
    "categories": [
     "fitness",
     "running"
+   ]
+  },
+  {
+   "id": "evt-ewrhU617eV80BqX",
+   "name": "AI in Creative Teams: The Honest Version",
+   "start": "2026-11-04T18:00:00.000Z",
+   "end": "2026-11-04T20:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/3c06i9kt",
+   "cover": "https://images.lumacdn.com/uploads/9y/732c8e81-c2b4-4948-a684-6577c02eec75.png",
+   "place": "Majorsgatan 7, Stockholm",
+   "online": false,
+   "hosts": [
+    "Sofia Pil",
+    "Alicia Hedtjärn"
+   ],
+   "guests": 7,
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -674,7 +637,7 @@
    "hosts": [
     "Ash Abbasi"
    ],
-   "guests": 6,
+   "guests": 8,
    "categories": [
     "arts"
    ]
@@ -765,7 +728,7 @@
    "hosts": [
     "FrenchTech Stockholm"
    ],
-   "guests": 42,
+   "guests": 50,
    "categories": [
     "ai"
    ]
@@ -900,7 +863,7 @@
     "Henriette Boethius",
     "Evelina Anttila"
    ],
-   "guests": 8,
+   "guests": 10,
    "categories": [
     "ai"
    ]
@@ -1098,19 +1061,37 @@
    ]
   },
   {
+   "id": "evt-KJe2xiTgUhE3Php",
+   "name": "Music Tech Sessions",
+   "start": "2026-11-13T13:30:00.000Z",
+   "end": "2026-11-13T16:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/mko73isr",
+   "cover": "https://images.lumacdn.com/uploads/gp/5de93e87-ed9d-493a-bfa7-c3a546922dbf.png",
+   "place": "Kungsbron 2, Stockholm",
+   "online": false,
+   "hosts": [
+    "Jenny Björk"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "evt-rHZ63JTe8PhoDpd",
    "name": "MGRC RAVE B[RUN]CH SEASON FINALE",
    "start": "2026-11-15T09:00:00.000Z",
    "end": "2026-11-15T11:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/h6bgox3s",
-   "cover": "https://images.lumacdn.com/uploads/mv/1039547f-c15d-4886-8388-26c7a6f06434.png",
+   "cover": "https://images.lumacdn.com/uploads/8k/14894eb5-99b4-444e-9fef-a7bd46db063f.png",
    "place": "Brännkyrkagatan 95, Stockholm",
    "online": false,
    "hosts": [
     "Johannes Ojanpera"
    ],
-   "guests": 11,
+   "guests": 12,
    "categories": [
     "fitness",
     "running"
@@ -1221,25 +1202,6 @@
    ]
   },
   {
-   "id": "evt-kisn6Y42durniGj",
-   "name": "Immersive Wellness Experience",
-   "start": "2026-11-18T16:00:00.000Z",
-   "end": "2026-11-18T18:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/88nuwta1",
-   "cover": "https://images.lumacdn.com/uploads/m8/401a2104-2ea5-4141-90b1-0b91619acfe1.png",
-   "place": "Heliosgatan 13, Stockholm",
-   "online": false,
-   "hosts": [
-    "Dream to Reality",
-    "Bryony Bennett"
-   ],
-   "guests": 0,
-   "categories": [
-    "wellness"
-   ]
-  },
-  {
    "id": "evt-zFnnnjlY3J9miqW",
    "name": "Good News AI",
    "start": "2026-11-18T16:30:00.000Z",
@@ -1271,7 +1233,7 @@
    "hosts": [
     "SportsTech Sweden"
    ],
-   "guests": 28,
+   "guests": 34,
    "categories": [
     "ai"
    ]
@@ -1316,6 +1278,28 @@
    ]
   },
   {
+   "id": "evt-tNuqcyCyCfKQy3C",
+   "name": "DevDay Exchange Community Workshop: Stockholm",
+   "start": "2026-11-21T16:30:00.000Z",
+   "end": "2026-11-21T19:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/8bo9tr8d",
+   "cover": "https://images.lumacdn.com/uploads/hf/fac53457-a548-4d01-ab24-19542468fd83.jpg",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Shuang Zheng",
+    "Rhiannon Payne",
+    "Pauline P. Narvas",
+    "Magnus Gille",
+    "Philip Andersson"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "evt-NqEoQrDMlKdWjYX",
    "name": "Bachata Ladystyling i Vega | FORTSÄTTNING 1 - Söndagar | 7 veckor | Yasmin Casaca",
    "start": "2026-11-22T17:00:00.000Z",
@@ -1346,7 +1330,7 @@
    "hosts": [
     "Yasmin Casaca"
    ],
-   "guests": 9,
+   "guests": 10,
    "categories": [
     "arts"
    ]
@@ -1364,7 +1348,7 @@
    "hosts": [
     "HI Assessments"
    ],
-   "guests": 9,
+   "guests": 10,
    "categories": [
     "ai"
    ]
@@ -1424,21 +1408,22 @@
    ]
   },
   {
-   "id": "evt-RnedGXhwImAOOJx",
-   "name": "VERGE Retail - STHLM",
-   "start": "2026-11-25T12:30:00.000Z",
+   "id": "evt-kisn6Y42durniGj",
+   "name": "Immersive Wellness Experience",
+   "start": "2026-11-25T16:00:00.000Z",
    "end": "2026-11-25T18:00:00.000Z",
    "tz": "Europe/Stockholm",
-   "url": "https://luma.com/Verge-retail",
-   "cover": "https://images.lumacdn.com/uploads/ek/6d4a7d54-58e6-4014-acc7-0daf42adeea1.jpg",
-   "place": "Malmskillnadsgatan 44a, Stockholm",
+   "url": "https://luma.com/88nuwta1",
+   "cover": "https://images.lumacdn.com/uploads/m8/401a2104-2ea5-4141-90b1-0b91619acfe1.png",
+   "place": "Heliosgatan 13, Stockholm",
    "online": false,
    "hosts": [
-    "Ebba Brundin"
+    "Dream to Reality",
+    "Bryony Bennett"
    ],
    "guests": 0,
    "categories": [
-    "ai"
+    "wellness"
    ]
   },
   {
@@ -1516,9 +1501,27 @@
     "Louise Verhoest",
     "Pim"
    ],
-   "guests": 3,
+   "guests": 6,
    "categories": [
     "wellness"
+   ]
+  },
+  {
+   "id": "evt-3g6FJmSlbYXmx4H",
+   "name": "IXDF Field Trip: Kungsträdgården Christmas Market",
+   "start": "2026-11-28T12:00:00.000Z",
+   "end": "2026-11-28T15:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/htrhz7cf",
+   "cover": "https://images.lumacdn.com/gallery-images/image-gen/christmas/naive-print-editorial-christmas-market-square-with-a-towering-tr.png",
+   "place": "Kungsträdgårdsgatan 13, Stockholm",
+   "online": false,
+   "hosts": [
+    "Laura Wiegand"
+   ],
+   "guests": 4,
+   "categories": [
+    "arts"
    ]
   },
   {
@@ -1601,6 +1604,44 @@
    ]
   },
   {
+   "id": "evt-h3cpaXGPX9qEcjn",
+   "name": "Attaining Excellence in a Nordic Society",
+   "start": "2026-12-04T16:30:00.000Z",
+   "end": "2026-12-04T19:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/lev7px27",
+   "cover": "https://images.lumacdn.com/uploads/8d/1deb2964-c769-49f3-86ef-9ca4e8ae0137.png",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "African Professional Network"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts",
+    "books"
+   ]
+  },
+  {
+   "id": "evt-X8q3JLizArTMSHL",
+   "name": "AI Sales Hackathon Stockholm",
+   "start": "2026-12-05T08:00:00.000Z",
+   "end": "2026-12-05T16:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/glbtr3yz",
+   "cover": "https://images.lumacdn.com/uploads/fy/2d2ec560-3627-4d05-9ec1-ab686081cf9b.png",
+   "place": "A, Östermalmsgatan 26A, Stockholm",
+   "online": false,
+   "hosts": [
+    "Capable",
+    "Adam Fakirni"
+   ],
+   "guests": 3,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "evt-C2klLgRSvSzSHxa",
    "name": "Designer Games Night",
    "start": "2026-12-07T16:00:00.000Z",
@@ -1634,6 +1675,24 @@
    "guests": 0,
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "evt-ZpgGb2r3Bvgl3P8",
+   "name": "IXDF Field Trip: Julverket Art Market",
+   "start": "2026-12-12T13:00:00.000Z",
+   "end": "2026-12-12T16:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/y1bu8zwd",
+   "cover": "https://images.lumacdn.com/gallery-images/image-gen/christmas/naive-print-editorial-christmas-market-square-with-a-towering-tr.png",
+   "place": "Hallvägen 5, Johanneshov",
+   "online": false,
+   "hosts": [
+    "Laura Wiegand"
+   ],
+   "guests": 4,
+   "categories": [
+    "arts"
    ]
   },
   {
