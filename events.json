@@ -1,121 +1,6 @@
 {
- "updated": "2026-10-29T10:44:13+00:00",
+ "updated": "2026-10-30T10:44:01+00:00",
  "events": [
-  {
-   "id": "evt-p4wa1DOVAZdJTDv",
-   "name": "ARCADE PUNK",
-   "start": "2026-10-29T10:30:00.000Z",
-   "end": "2026-10-29T14:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/7smm2mb4",
-   "cover": "https://images.lumacdn.com/uploads/ku/85515db4-320a-4606-82b2-90137c5e1a8b.jpg",
-   "place": "Sodertorn University, Alfred Nobels allé 5, Huddinge",
-   "online": false,
-   "hosts": [
-    "Innovation Station"
-   ],
-   "guests": 0,
-   "categories": [
-    "tech",
-    "arts"
-   ]
-  },
-  {
-   "id": "evt-vWRnFNhBtfZyvlJ",
-   "name": "THE FUTURE OF K- & J-BEAUTY",
-   "start": "2026-10-29T16:00:00.000Z",
-   "end": "2026-10-29T18:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/4sr4zvpd",
-   "cover": "https://images.lumacdn.com/uploads/xo/5adae656-6a70-4952-b134-c6f3a9fb0ece.png",
-   "place": "Skånegatan 79, Stockholm",
-   "online": false,
-   "hosts": [
-    "Glowstation"
-   ],
-   "guests": 56,
-   "categories": [
-    "wellness"
-   ]
-  },
-  {
-   "id": "evt-FSuXDfcBA4dJYO9",
-   "name": "Computer Vision Meetup",
-   "start": "2026-10-29T16:30:00.000Z",
-   "end": "2026-10-29T18:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/lkrt3ix4",
-   "cover": "https://images.lumacdn.com/uploads/04/dc6914c5-b306-4d13-8312-b400057945fe.png",
-   "place": "Nytorgsgatan 38, Stockholm",
-   "online": false,
-   "hosts": [
-    "Onur Yüksel"
-   ],
-   "guests": 5,
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "evt-yFBeYNOMKBh5Ize",
-   "name": "Women’s Health Series: Femtech And Innovation",
-   "start": "2026-10-29T17:00:00.000Z",
-   "end": "2026-10-29T19:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/wxqmpabu",
-   "cover": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1MXx8WWVsbG93fGVufDB8fHx8MTc5MTc4MDA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-   "place": "Majorsgatan 7, Stockholm",
-   "online": false,
-   "hosts": [
-    "SOCHE"
-   ],
-   "guests": 59,
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-S8ye0KNDFcbHLLU",
-   "name": "ThirdPlace - Croquis (Kroki) with Aslisu Art & Sthlm Life Drawing Sessions. (POLE-CROQUIS: SPOOKY EDITION)",
-   "start": "2026-10-29T17:00:00.000Z",
-   "end": "2026-10-29T19:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/qgaik727",
-   "cover": "https://images.lumacdn.com/uploads/jz/fc8ae902-fb14-418a-bdbc-bdb4c4ca13be.jpg",
-   "place": "Rödabergsgatan 11, Stockholm",
-   "online": false,
-   "hosts": [
-    "Pooyeh Mobini",
-    "Asli Su"
-   ],
-   "guests": 0,
-   "categories": [
-    "arts"
-   ]
-  },
-  {
-   "id": "evt-f3wuoi9EBgaA5kW",
-   "name": "Morning Run for Founders & Operators Vol. 2",
-   "start": "2026-10-30T06:00:00.000Z",
-   "end": "2026-10-30T07:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/cahdqsz8",
-   "cover": "https://images.lumacdn.com/uploads/q1/07cb5329-cc6d-45e8-8e19-707167d7a6f5.png",
-   "place": "Sibyllegatan 2, Stockholm",
-   "online": false,
-   "hosts": [
-    "Julia Kotulska",
-    "Johan Torssell",
-    "Philip Andersson",
-    "Mathias Flaaten",
-    "Oliver Jones"
-   ],
-   "guests": 112,
-   "categories": [
-    "fitness",
-    "running"
-   ]
-  },
   {
    "id": "evt-nvLpcXQjqnL21Ut",
    "name": "Founders Running Club :: Stockholm",
@@ -227,7 +112,7 @@
     "Sonilo Europe",
     "Jingyu Xiang"
    ],
-   "guests": 27,
+   "guests": 32,
    "categories": [
     "ai",
     "arts"
@@ -246,7 +131,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 22,
+   "guests": 23,
    "categories": [
     "games",
     "arts"
@@ -312,6 +197,27 @@
    ]
   },
   {
+   "id": "evt-HqMVC8A2kvf8EWt",
+   "name": "Ask a decacorn founder everything - w/ Petter Made (Co-Founder @SumUp, Partner @EWOR)",
+   "start": "2026-11-03T13:00:00.000Z",
+   "end": "2026-11-03T15:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/xhryzgl4",
+   "cover": "https://images.lumacdn.com/uploads/70/73137390-c875-438c-99d3-10d6bded43f4.png",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "EWOR Team",
+    "Philipp Scholz",
+    "Lisa Bäckman",
+    "KTH Innovation"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "evt-Z0cLsSmLzY9Pze7",
    "name": "AI Salon - AI in Gaming",
    "start": "2026-11-03T16:30:00.000Z",
@@ -326,7 +232,7 @@
     "Melina Diamantoglou",
     "Tony Malm GS1"
    ],
-   "guests": 118,
+   "guests": 130,
    "categories": [
     "ai"
    ]
@@ -409,7 +315,7 @@
     "Mia Pääsuke",
     "Einar Bergviken"
    ],
-   "guests": 125,
+   "guests": 126,
    "categories": [
     "tech"
    ]
@@ -427,7 +333,7 @@
    "hosts": [
     "Ylva Lindh"
    ],
-   "guests": 13,
+   "guests": 15,
    "categories": [
     "arts"
    ]
@@ -445,7 +351,7 @@
    "hosts": [
     "Cha Song"
    ],
-   "guests": 44,
+   "guests": 74,
    "categories": [
     "food"
    ]
@@ -465,7 +371,7 @@
     "Beata Enwall",
     "Sandra Eriksson"
    ],
-   "guests": 176,
+   "guests": 212,
    "categories": [
     "ai"
    ]
@@ -503,7 +409,7 @@
     "Emil Härdling",
     "Hugo Norberg"
    ],
-   "guests": 8,
+   "guests": 14,
    "categories": [
     "fitness",
     "running"
@@ -523,7 +429,7 @@
     "Sofia Pil",
     "Alicia Hedtjärn"
    ],
-   "guests": 7,
+   "guests": 12,
    "categories": [
     "ai"
    ]
@@ -625,6 +531,25 @@
    ]
   },
   {
+   "id": "evt-T56taESAaJexNts",
+   "name": "LOKT #010",
+   "start": "2026-11-05T17:30:00.000Z",
+   "end": "2026-11-05T20:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/4xuug6h2",
+   "cover": "https://images.lumacdn.com/uploads/4x/c56ee7bd-1189-4e7a-8b37-779bcc53482b.jpg",
+   "place": "Norr Mälarstrand Kajplats 464, Norr Mälarstrand 29, Stockholm",
+   "online": false,
+   "hosts": [
+    "Sara Lorda"
+   ],
+   "guests": 19,
+   "categories": [
+    "fitness",
+    "running"
+   ]
+  },
+  {
    "id": "evt-deeJUVVii2LdRgM",
    "name": "Big Sing-Along Night 🎤 Bad Singers Very Welcome",
    "start": "2026-11-05T18:00:00.000Z",
@@ -637,7 +562,7 @@
    "hosts": [
     "Ash Abbasi"
    ],
-   "guests": 8,
+   "guests": 9,
    "categories": [
     "arts"
    ]
@@ -728,7 +653,7 @@
    "hosts": [
     "FrenchTech Stockholm"
    ],
-   "guests": 50,
+   "guests": 0,
    "categories": [
     "ai"
    ]
@@ -863,7 +788,7 @@
     "Henriette Boethius",
     "Evelina Anttila"
    ],
-   "guests": 10,
+   "guests": 13,
    "categories": [
     "ai"
    ]
@@ -959,7 +884,7 @@
     "Mikael Wallstedt",
     "Orjiugo Prince Victor"
    ],
-   "guests": 44,
+   "guests": 45,
    "categories": [
     "ai"
    ]
@@ -1021,6 +946,24 @@
    ]
   },
   {
+   "id": "evt-7oIWSphNKGTnlE0",
+   "name": "Revenue Growth & Champagne | Stockholm",
+   "start": "2026-11-12T15:30:00.000Z",
+   "end": "2026-11-12T17:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/aira-for-fortnox-lansering-stockholm",
+   "cover": "https://images.lumacdn.com/uploads/cb/190029b7-3099-4f9c-b9e0-cf6b0d5ee434.jpg",
+   "place": "Sveavägen 36, Stockholm",
+   "online": false,
+   "hosts": [
+    "Sara Zandian - Aira"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "evt-3NWvxYuKMno5P64",
    "name": "How each got their first 10 customers - STHLM",
    "start": "2026-11-12T17:00:00.000Z",
@@ -1042,6 +985,25 @@
    ]
   },
   {
+   "id": "evt-PuvwWQXQOj1viID",
+   "name": "Orchestrating AI Agents",
+   "start": "2026-11-12T17:30:00.000Z",
+   "end": "2026-11-12T20:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/orchestrating-ai",
+   "cover": "https://images.lumacdn.com/uploads/ad/6e624a60-c221-4dc6-adc8-71784b493639.png",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Michelangelo Pagliara",
+    "Juhana Peltomaa"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "evt-ssVfweJ60epOG6Y",
    "name": "Feminvest run + breakfast",
    "start": "2026-11-13T05:50:00.000Z",
@@ -1054,7 +1016,7 @@
    "hosts": [
     "Feminvest Community"
    ],
-   "guests": 5,
+   "guests": 6,
    "categories": [
     "fitness",
     "running"
@@ -1091,7 +1053,7 @@
    "hosts": [
     "Johannes Ojanpera"
    ],
-   "guests": 12,
+   "guests": 13,
    "categories": [
     "fitness",
     "running"
@@ -1233,7 +1195,7 @@
    "hosts": [
     "SportsTech Sweden"
    ],
-   "guests": 34,
+   "guests": 36,
    "categories": [
     "ai"
    ]
@@ -1294,7 +1256,7 @@
     "Magnus Gille",
     "Philip Andersson"
    ],
-   "guests": 0,
+   "guests": 82,
    "categories": [
     "ai"
    ]
@@ -1330,7 +1292,7 @@
    "hosts": [
     "Yasmin Casaca"
    ],
-   "guests": 10,
+   "guests": 14,
    "categories": [
     "arts"
    ]
@@ -1441,7 +1403,7 @@
     "Amada Echeverria",
     "evroc"
    ],
-   "guests": 6,
+   "guests": 10,
    "categories": [
     "ai"
    ]
@@ -1519,7 +1481,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 4,
+   "guests": 5,
    "categories": [
     "arts"
    ]
@@ -1636,7 +1598,7 @@
     "Capable",
     "Adam Fakirni"
    ],
-   "guests": 3,
+   "guests": 12,
    "categories": [
     "ai"
    ]
@@ -1654,7 +1616,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 8,
+   "guests": 9,
    "categories": [
     "games"
    ]
@@ -1678,6 +1640,25 @@
    ]
   },
   {
+   "id": "evt-PwQuKagSHNvAQIN",
+   "name": "Stockholm MLOps Winterbash!!!",
+   "start": "2026-12-10T16:00:00.000Z",
+   "end": "2026-12-10T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/stockholm-efhg",
+   "cover": "https://images.lumacdn.com/uploads/yq/372f4140-fc24-489e-8150-1e31dd5add54.jpg",
+   "place": "Katarinavägen 15, Stockholm",
+   "online": false,
+   "hosts": [
+    "Jonas Laeben",
+    "Patrick Couch"
+   ],
+   "guests": 8,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "evt-ZpgGb2r3Bvgl3P8",
    "name": "IXDF Field Trip: Julverket Art Market",
    "start": "2026-12-12T13:00:00.000Z",
@@ -1690,7 +1671,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 4,
+   "guests": 7,
    "categories": [
     "arts"
    ]
