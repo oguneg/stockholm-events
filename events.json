@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-30T10:44:01+00:00",
+ "updated": "2026-10-31T10:14:05+00:00",
  "events": [
   {
    "id": "evt-nvLpcXQjqnL21Ut",
    "name": "Founders Running Club :: Stockholm",
-   "start": "2026-10-31T08:00:00.000Z",
-   "end": "2026-10-31T09:30:00.000Z",
+   "start": "2026-10-31T09:00:00.000Z",
+   "end": "2026-10-31T10:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/jfrsz3b6",
    "cover": "https://images.lumacdn.com/event-covers/ff/069227f2-e6c4-4cc2-bcb2-fef1c17e4bc3",
@@ -20,6 +20,7 @@
    ],
    "guests": 173,
    "categories": [
+    "tech",
     "fitness",
     "running"
    ]
@@ -37,7 +38,7 @@
    "hosts": [
     "Jonatan H"
    ],
-   "guests": 8,
+   "guests": 4,
    "categories": [
     "tech"
    ]
@@ -55,7 +56,7 @@
    "hosts": [
     "Stockholm Family Network"
    ],
-   "guests": 24,
+   "guests": 26,
    "categories": [
     "family"
    ]
@@ -63,8 +64,8 @@
   {
    "id": "evt-U6UfNV3fpglnyLg",
    "name": "Crime & Çay",
-   "start": "2026-10-31T16:00:00.000Z",
-   "end": "2026-10-31T22:30:00.000Z",
+   "start": "2026-10-31T17:00:00.000Z",
+   "end": "2026-10-31T23:30:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/q5y7dxpy",
    "cover": "https://images.lumacdn.com/uploads/rt/72bf1861-6204-4221-be88-46c7413d091b.png",
@@ -131,7 +132,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 23,
+   "guests": 22,
    "categories": [
     "games",
     "arts"
@@ -232,7 +233,7 @@
     "Melina Diamantoglou",
     "Tony Malm GS1"
    ],
-   "guests": 130,
+   "guests": 132,
    "categories": [
     "ai"
    ]
@@ -315,7 +316,7 @@
     "Mia Pääsuke",
     "Einar Bergviken"
    ],
-   "guests": 126,
+   "guests": 127,
    "categories": [
     "tech"
    ]
@@ -333,7 +334,7 @@
    "hosts": [
     "Ylva Lindh"
    ],
-   "guests": 15,
+   "guests": 16,
    "categories": [
     "arts"
    ]
@@ -351,7 +352,7 @@
    "hosts": [
     "Cha Song"
    ],
-   "guests": 74,
+   "guests": 84,
    "categories": [
     "food"
    ]
@@ -371,7 +372,7 @@
     "Beata Enwall",
     "Sandra Eriksson"
    ],
-   "guests": 212,
+   "guests": 213,
    "categories": [
     "ai"
    ]
@@ -409,7 +410,7 @@
     "Emil Härdling",
     "Hugo Norberg"
    ],
-   "guests": 14,
+   "guests": 22,
    "categories": [
     "fitness",
     "running"
@@ -507,7 +508,7 @@
    "hosts": [
     "André Ekespong"
    ],
-   "guests": 20,
+   "guests": 19,
    "categories": [
     "tech"
    ]
@@ -543,7 +544,7 @@
    "hosts": [
     "Sara Lorda"
    ],
-   "guests": 19,
+   "guests": 21,
    "categories": [
     "fitness",
     "running"
@@ -617,7 +618,7 @@
    "hosts": [
     "Girls in Stockholm"
    ],
-   "guests": 10,
+   "guests": 11,
    "categories": [
     "wellness"
    ]
@@ -788,7 +789,7 @@
     "Henriette Boethius",
     "Evelina Anttila"
    ],
-   "guests": 13,
+   "guests": 15,
    "categories": [
     "ai"
    ]
@@ -1041,6 +1042,25 @@
    ]
   },
   {
+   "id": "evt-n4FBNEQ37iXFACH",
+   "name": "BREAKIN’ BREAD PRO-LAUNCH",
+   "start": "2026-11-13T16:30:00.000Z",
+   "end": "2026-11-13T19:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/9b1jkxyv",
+   "cover": "https://images.lumacdn.com/uploads/ac/4f1fc40f-1756-420d-ad3c-05d0d035f919.jpg",
+   "place": "Kungsbron 2, Stockholm",
+   "online": false,
+   "hosts": [
+    "Jenny Björk",
+    "Gordon Cyrus"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "evt-rHZ63JTe8PhoDpd",
    "name": "MGRC RAVE B[RUN]CH SEASON FINALE",
    "start": "2026-11-15T09:00:00.000Z",
@@ -1053,7 +1073,7 @@
    "hosts": [
     "Johannes Ojanpera"
    ],
-   "guests": 13,
+   "guests": 16,
    "categories": [
     "fitness",
     "running"
@@ -1201,6 +1221,24 @@
    ]
   },
   {
+   "id": "evt-NGXxmblSZnJBGlZ",
+   "name": "Bring Your Own Craft night",
+   "start": "2026-11-18T17:00:00.000Z",
+   "end": "2026-11-18T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/5y3jox1n",
+   "cover": "https://images.lumacdn.com/uploads/tz/502bdd87-2ed7-4cde-8fb1-b798d666c2ab.png",
+   "place": "Hägersten",
+   "online": false,
+   "hosts": [
+    "Jenny Barreto"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "evt-fvYyKQfySIWs1G4",
    "name": "Women's Health, Breathwork & Brunch",
    "start": "2026-11-21T08:00:00.000Z",
@@ -1256,7 +1294,7 @@
     "Magnus Gille",
     "Philip Andersson"
    ],
-   "guests": 82,
+   "guests": 90,
    "categories": [
     "ai"
    ]
@@ -1403,7 +1441,7 @@
     "Amada Echeverria",
     "evroc"
    ],
-   "guests": 10,
+   "guests": 11,
    "categories": [
     "ai"
    ]
@@ -1481,7 +1519,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 5,
+   "guests": 6,
    "categories": [
     "arts"
    ]
@@ -1501,7 +1539,7 @@
     "Jocie Chan",
     "Zugania Zuniga"
    ],
-   "guests": 43,
+   "guests": 44,
    "categories": [
     "arts",
     "climate"
@@ -1598,7 +1636,7 @@
     "Capable",
     "Adam Fakirni"
    ],
-   "guests": 12,
+   "guests": 21,
    "categories": [
     "ai"
    ]
@@ -1653,7 +1691,7 @@
     "Jonas Laeben",
     "Patrick Couch"
    ],
-   "guests": 8,
+   "guests": 10,
    "categories": [
     "ai"
    ]
@@ -1689,7 +1727,7 @@
    "hosts": [
     "Therese Lundquist"
    ],
-   "guests": 13,
+   "guests": 14,
    "categories": [
     "tech",
     "climate"
