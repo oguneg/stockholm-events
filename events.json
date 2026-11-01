@@ -1,84 +1,6 @@
 {
- "updated": "2026-10-31T10:14:05+00:00",
+ "updated": "2026-11-01T11:04:45+00:00",
  "events": [
-  {
-   "id": "evt-nvLpcXQjqnL21Ut",
-   "name": "Founders Running Club :: Stockholm",
-   "start": "2026-10-31T09:00:00.000Z",
-   "end": "2026-10-31T10:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/jfrsz3b6",
-   "cover": "https://images.lumacdn.com/event-covers/ff/069227f2-e6c4-4cc2-bcb2-fef1c17e4bc3",
-   "place": "Stockholm",
-   "online": false,
-   "hosts": [
-    "Founders Running Club",
-    "Gina Azaric",
-    "Marie-Louise Dahl",
-    "Lydia Faager Endrell",
-    "Simon Sund"
-   ],
-   "guests": 173,
-   "categories": [
-    "tech",
-    "fitness",
-    "running"
-   ]
-  },
-  {
-   "id": "evt-fZxHAGMXPYT3efQ",
-   "name": "Learn FPV Drone piloting",
-   "start": "2026-10-31T11:00:00.000Z",
-   "end": "2026-10-31T16:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/4yvhscnr",
-   "cover": "https://images.lumacdn.com/uploads/fe/8e3fb974-e186-4798-8a4e-e13506d05043.jpg",
-   "place": "Huddinge",
-   "online": false,
-   "hosts": [
-    "Jonatan H"
-   ],
-   "guests": 4,
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-HGgHVO19yPzpLXM",
-   "name": "Halloween-disco för förskolebarn i Hornsberg 🎃",
-   "start": "2026-10-31T15:00:00.000Z",
-   "end": "2026-10-31T16:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/w8c4mehu",
-   "cover": "https://images.lumacdn.com/uploads/7i/6b775a9a-a1e4-4a36-b02b-6cbffa73ae56.png",
-   "place": "Hornsbergsvägen 18, Stockholm",
-   "online": false,
-   "hosts": [
-    "Stockholm Family Network"
-   ],
-   "guests": 26,
-   "categories": [
-    "family"
-   ]
-  },
-  {
-   "id": "evt-U6UfNV3fpglnyLg",
-   "name": "Crime & Çay",
-   "start": "2026-10-31T17:00:00.000Z",
-   "end": "2026-10-31T23:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/q5y7dxpy",
-   "cover": "https://images.lumacdn.com/uploads/rt/72bf1861-6204-4221-be88-46c7413d091b.png",
-   "place": "Svartviksslingan 17, Bromma",
-   "online": false,
-   "hosts": [
-    "Kurdiska Ungdomsföreningen"
-   ],
-   "guests": 0,
-   "categories": [
-    "games"
-   ]
-  },
   {
    "id": "evt-aAEWSoVkeVrsGT7",
    "name": "Nutty Ventures: Nordic VC Nights November 2026 Edition | The New Rules of Venture",
@@ -132,7 +54,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 22,
+   "guests": 25,
    "categories": [
     "games",
     "arts"
@@ -316,7 +238,7 @@
     "Mia Pääsuke",
     "Einar Bergviken"
    ],
-   "guests": 127,
+   "guests": 128,
    "categories": [
     "tech"
    ]
@@ -334,7 +256,7 @@
    "hosts": [
     "Ylva Lindh"
    ],
-   "guests": 16,
+   "guests": 19,
    "categories": [
     "arts"
    ]
@@ -352,7 +274,7 @@
    "hosts": [
     "Cha Song"
    ],
-   "guests": 84,
+   "guests": 93,
    "categories": [
     "food"
    ]
@@ -410,7 +332,7 @@
     "Emil Härdling",
     "Hugo Norberg"
    ],
-   "guests": 22,
+   "guests": 28,
    "categories": [
     "fitness",
     "running"
@@ -433,6 +355,24 @@
    "guests": 12,
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "id": "evt-l1EwXOGBsDHaudd",
+   "name": "Moms & little ones at Stockholm City Museum",
+   "start": "2026-11-05T13:00:00.000Z",
+   "end": "2026-11-05T15:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/poqoi5u2",
+   "cover": "https://images.lumacdn.com/uploads/4k/83bad8d0-2c9c-4ed6-9ef8-8eb372e4d830.webp",
+   "place": "Ryssgården, Stockholm",
+   "online": false,
+   "hosts": [
+    "Mama Village"
+   ],
+   "guests": 3,
+   "categories": [
+    "family"
    ]
   },
   {
@@ -508,7 +448,7 @@
    "hosts": [
     "André Ekespong"
    ],
-   "guests": 19,
+   "guests": 18,
    "categories": [
     "tech"
    ]
@@ -532,6 +472,25 @@
    ]
   },
   {
+   "id": "evt-TbDLC9hsguWF8QU",
+   "name": "THIRD PLACE THURSDAY SALON — SHOW & TELL",
+   "start": "2026-11-05T17:30:00.000Z",
+   "end": "2026-11-05T20:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/yfbzx8m9",
+   "cover": "https://images.lumacdn.com/uploads/uf/e1bbc560-d5a3-4bb3-b063-2f79cd1b117a.jpg",
+   "place": "Rödabergsgatan 11, Stockholm",
+   "online": false,
+   "hosts": [
+    "Pooyeh Mobini",
+    "Marcus"
+   ],
+   "guests": 0,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "evt-T56taESAaJexNts",
    "name": "LOKT #010",
    "start": "2026-11-05T17:30:00.000Z",
@@ -544,7 +503,7 @@
    "hosts": [
     "Sara Lorda"
    ],
-   "guests": 21,
+   "guests": 27,
    "categories": [
     "fitness",
     "running"
@@ -566,6 +525,26 @@
    "guests": 9,
    "categories": [
     "arts"
+   ]
+  },
+  {
+   "id": "evt-RakPleYyPDqkz1c",
+   "name": "Tour of Europe: Poland",
+   "start": "2026-11-05T18:00:00.000Z",
+   "end": "2026-11-05T20:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/6uf6fh26",
+   "cover": "https://images.lumacdn.com/gallery-images/68/c6781249-a4d2-455e-ba70-27b08c0bce12.png",
+   "place": "John Ericssonsgatan 15, Stockholm",
+   "online": false,
+   "hosts": [
+    "John Chang",
+    "Laura Wiegand",
+    "Nurten Özkoray"
+   ],
+   "guests": 3,
+   "categories": [
+    "food"
    ]
   },
   {
@@ -603,6 +582,30 @@
    "guests": 0,
    "categories": [
     "arts"
+   ]
+  },
+  {
+   "id": "evt-nvLpcXQjqnL21Ut",
+   "name": "Founders Running Club :: Stockholm",
+   "start": "2026-11-07T09:00:00.000Z",
+   "end": "2026-11-07T10:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/jfrsz3b6",
+   "cover": "https://images.lumacdn.com/event-covers/ff/069227f2-e6c4-4cc2-bcb2-fef1c17e4bc3",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Founders Running Club",
+    "Gina Azaric",
+    "Marie-Louise Dahl",
+    "Lydia Faager Endrell",
+    "Simon Sund"
+   ],
+   "guests": 174,
+   "categories": [
+    "tech",
+    "fitness",
+    "running"
    ]
   },
   {
@@ -1272,7 +1275,7 @@
     "Kelvin Soen",
     "Aleksandra Midor"
    ],
-   "guests": 60,
+   "guests": 59,
    "categories": [
     "ai"
    ]
@@ -1480,7 +1483,7 @@
     "Jenny Andersson",
     "Developers Bay"
    ],
-   "guests": 3,
+   "guests": 4,
    "categories": [
     "ai"
    ]
@@ -1636,7 +1639,7 @@
     "Capable",
     "Adam Fakirni"
    ],
-   "guests": 21,
+   "guests": 22,
    "categories": [
     "ai"
    ]
@@ -1691,7 +1694,7 @@
     "Jonas Laeben",
     "Patrick Couch"
    ],
-   "guests": 10,
+   "guests": 14,
    "categories": [
     "ai"
    ]
