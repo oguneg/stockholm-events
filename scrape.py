@@ -1,11 +1,12 @@
-"""Fetch Stockholm events from Luma (all category pages) and Meetup (keyword searches), write events.json."""
+"""Fetch Stockholm events from Luma (all category pages), Meetup (keyword searches) and the Gamedev Events Sweden
+Google Calendar embedded on gametown.se, then write events.json."""
 import json
 import re
 import sys
 import time
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 
 LUMA_CATEGORIES = ["ai", "tech", "games", "arts", "books", "climate", "crypto", "family", "fitness", "food", "running", "wellness"]
 LAT, LNG = 59.32938, 18.06871  # the coordinates luma.com uses for Stockholm
@@ -20,11 +21,21 @@ MEETUP_KEYWORDS = {
 }
 MEETUP_FIND = "https://www.meetup.com/find/"
 
+# The "Gamedev Events Sweden" Google Calendar embedded on gametown.se (made by Link in Bar).
+GAMETOWN_ICS = ("https://calendar.google.com/calendar/ical/"
+                "4790ad3d567207c637423fec56105687ab0de07eae891bafd5766b7cdc5592bb%40group.calendar.google.com/public/basic.ics")
+GAMETOWN_HORIZON_DAYS = 180  # how far ahead recurring events are expanded
+WEEKDAYS = ["MO", "TU", "WE", "TH", "FR", "SA", "SU"]
+
 
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read().decode("utf-8")
+
+
+def iso(dt):
+    return dt.strftime("%Y-%m-%dT%H:%M:%S.000Z")
 
 
 def luma():
@@ -50,7 +61,7 @@ def luma():
                     "place": loc.get("short_address") or loc.get("city") or "",
                     "online": ev.get("location_type") == "online",
                     "hosts": [h["name"] for h in entry.get("hosts") or [] if h.get("name")],
-                    "source": "luma",
+                    "sources": ["luma"],
                     "categories": [],
                 })
                 if slug not in item["categories"]:
@@ -79,14 +90,14 @@ def meetup():
             item = events.setdefault(ev["id"], {
                 "id": "meetup-" + ev["id"],
                 "name": ev["title"],
-                "start": start.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+                "start": iso(start),
                 "end": None,
                 "url": ev["eventUrl"],
                 "cover": (photo.get("highResUrl") or "").replace("/highres_", "/600_") or None,
                 "place": "",
                 "online": ev.get("eventType") == "ONLINE",
                 "hosts": [group["name"]] if group.get("name") else [],
-                "source": "meetup",
+                "sources": ["meetup"],
                 "categories": [],
             })
             if category not in item["categories"]:
@@ -96,25 +107,138 @@ def meetup():
     return events
 
 
+# --- Gametown (iCal) --------------------------------------------------------------------------------------------
+
+def stockholm_offset(utc):
+    """UTC offset of Europe/Stockholm at a naive UTC datetime (EU rule: last Sunday of March to October, 01:00 UTC).
+    Hand-rolled because Windows Python ships no tz database."""
+    def last_sunday(year, month):
+        d = date(year, month + 1, 1) - timedelta(days=1)
+        return datetime.combine(d - timedelta(days=(d.weekday() + 1) % 7), datetime.min.time()) + timedelta(hours=1)
+    summer = last_sunday(utc.year, 3) <= utc < last_sunday(utc.year, 10)
+    return timedelta(hours=2 if summer else 1)
+
+
+def local_to_utc(local):
+    for hours in (2, 1):
+        utc = local - timedelta(hours=hours)
+        if stockholm_offset(utc) == timedelta(hours=hours):
+            return utc
+    return local - timedelta(hours=1)
+
+
+def parse_ics(text):
+    """Yield each VEVENT as {property: [(params, value), ...]}, with folded lines joined."""
+    text = text.replace("\r\n", "\n").replace("\n ", "")
+    for block in text.split("BEGIN:VEVENT")[1:]:
+        props = {}
+        for line in block.split("END:VEVENT")[0].splitlines():
+            if ":" in line:
+                head, value = line.split(":", 1)
+                name, *params = head.split(";")
+                props.setdefault(name, []).append((params, value))
+        yield props
+
+
+def ics_time(prop):
+    """(params, value) -> (naive UTC datetime, is_all_day)."""
+    params, value = prop
+    if "VALUE=DATE" in params:
+        return local_to_utc(datetime.strptime(value, "%Y%m%d")), True
+    dt = datetime.strptime(value.rstrip("Z"), "%Y%m%dT%H%M%S")
+    return (dt if value.endswith("Z") else local_to_utc(dt)), False
+
+
+def occurrences(props, start, horizon):
+    """The start times of an event: itself, or its RRULE repeats (DAILY, WEEKLY, MONTHLY by nth weekday)."""
+    if "RRULE" not in props:
+        return [start]
+    rule = dict(part.split("=", 1) for part in props["RRULE"][0][1].split(";"))
+    last = min(ics_time(([], rule["UNTIL"]))[0], horizon) if "UNTIL" in rule else horizon
+    freq, interval = rule.get("FREQ"), int(rule.get("INTERVAL", 1))
+    first = start + stockholm_offset(start)  # local wall-clock start
+    out, day = [], first.date()
+    while day <= (last + timedelta(days=1)).date():
+        if freq == "DAILY":
+            hit = (day - first.date()).days % interval == 0
+        elif freq == "WEEKLY":
+            wanted = [WEEKDAYS.index(d[-2:]) for d in rule.get("BYDAY", WEEKDAYS[first.weekday()]).split(",")]
+            hit = day.weekday() in wanted and ((day - first.date()).days // 7) % interval == 0
+        elif freq == "MONTHLY" and "BYDAY" in rule:
+            n, wd = int(rule["BYDAY"][:-2]), WEEKDAYS.index(rule["BYDAY"][-2:])
+            months = (day.year - first.year) * 12 + day.month - first.month
+            nth = (day.day - 1) // 7 + 1 if n > 0 else -((date(day.year + day.month // 12, day.month % 12 + 1, 1) - day).days - 1) // 7 - 1
+            hit = day.weekday() == wd and nth == n and months % interval == 0
+        else:
+            hit = False
+        if hit:
+            occ = local_to_utc(datetime.combine(day, first.time()))
+            if occ <= last:
+                out.append(occ)
+        day += timedelta(days=1)
+    return out
+
+
+def gametown():
+    props_list = list(parse_ics(get(GAMETOWN_ICS)))
+    now = datetime.now(timezone.utc).replace(tzinfo=None)
+    horizon = now + timedelta(days=GAMETOWN_HORIZON_DAYS)
+    # A RECURRENCE-ID event replaces one occurrence of its recurring series.
+    replaced = {(p["UID"][0][1], ics_time(p["RECURRENCE-ID"][0])[0]) for p in props_list if "RECURRENCE-ID" in p}
+    events = {}
+    for p in props_list:
+        field = lambda name: re.sub(r"\\(.)", r"\1", p[name][0][1]) if name in p else ""
+        if field("STATUS") == "CANCELLED":
+            continue
+        uid = p["UID"][0][1]
+        start, all_day = ics_time(p["DTSTART"][0])
+        length = ics_time(p["DTEND"][0])[0] - start if "DTEND" in p else None
+        excluded = {ics_time((params, v))[0] for params, val in p.get("EXDATE", []) for v in val.split(",")}
+        link = re.search(r"https?://[^\s<>\"]+", field("DESCRIPTION"))
+        for occ in occurrences(p, start, horizon):
+            if occ in excluded or ("RECURRENCE-ID" not in p and (uid, occ) in replaced):
+                continue
+            end = occ + length if length else None
+            if (end or occ) < now:
+                continue
+            events[uid + iso(occ)] = {
+                "id": "gametown-" + uid.split("@")[0] + "-" + occ.strftime("%Y%m%d"),
+                "name": field("SUMMARY"),
+                "start": iso(occ),
+                "end": iso(end) if end else None,
+                "allDay": all_day,
+                "url": link.group(0).rstrip(".,)") if link else "https://www.gametown.se/",
+                "cover": None,
+                "place": ", ".join(field("LOCATION").split(", ")[:2]),
+                "online": False,
+                "hosts": [],
+                "sources": ["gametown"],
+                "categories": ["games"],
+            }
+    print("gametown", len(events), file=sys.stderr)
+    return events
+
+
 def norm(name):
     return re.sub(r"[^a-z0-9]+", "", name.lower())
 
 
 def main():
     merged = {}
-    for source in (luma, meetup):
+    for source in (luma, meetup, gametown):
         try:
             found = source()
-        except Exception as e:  # one source failing should not wipe the other
+        except Exception as e:  # one source failing should not wipe the others
             print(source.__name__, "FAILED:", e, file=sys.stderr)
             continue
         for ev in found.values():
             key = (norm(ev["name"]), ev["start"])
-            if key in merged:  # same event listed on both sites
-                for c in ev["categories"]:
-                    if c not in merged[key]["categories"]:
-                        merged[key]["categories"].append(c)
-                merged[key]["alt_url"] = ev["url"]
+            if key in merged:  # same event listed on several sites
+                m = merged[key]
+                for field in ("categories", "sources"):
+                    m[field] += [x for x in ev[field] if x not in m[field]]
+                m["cover"] = m["cover"] or ev["cover"]
+                m["alt_url"] = ev["url"]
             else:
                 merged[key] = ev
 

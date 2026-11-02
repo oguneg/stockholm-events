@@ -5,9 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Stockholm events</title>
 <style>
-  :root { --bg:#fff; --fg:#1a1a1a; --muted:#595959; --line:#e2e2e2; --link:#0b57d0; }
+  :root { --bg:#fff; --fg:#1a1a1a; --muted:#595959; --line:#e2e2e2; --link:#0b57d0;
+          --luma-bg:#dbe7ff; --luma-fg:#12306b; --meetup-bg:#fde0e0; --meetup-fg:#6b1212; --gametown-bg:#ffd54a; --gametown-fg:#3d2c00; }
   @media (prefers-color-scheme: dark) {
-    :root { --bg:#161616; --fg:#eee; --muted:#a8a8a8; --line:#333; --link:#8ab4f8; }
+    :root { --bg:#161616; --fg:#eee; --muted:#a8a8a8; --line:#333; --link:#8ab4f8;
+            --luma-bg:#1d3a6e; --luma-fg:#d6e4ff; --meetup-bg:#5e1c1c; --meetup-fg:#ffd9d9; --gametown-bg:#7a5c00; --gametown-fg:#fff3c4; }
   }
   body { font:16px/1.4 system-ui,sans-serif; background:var(--bg); color:var(--fg); max-width:760px; margin:0 auto; padding:16px; }
   h1 { font-size:1.4rem; margin:0 0 4px; }
@@ -23,6 +25,12 @@
   a { color:var(--link); }
   .sub { color:var(--muted); font-size:.85rem; }
   .tag { font-size:.75rem; border:1px solid var(--line); border-radius:4px; padding:0 4px; margin-left:4px; }
+  .filters .group { margin-bottom:6px; }
+  .filters .group strong { margin-right:8px; font-size:.85rem; }
+  .filters .tag { margin-left:0; }
+  .src-luma     { background:var(--luma-bg);     color:var(--luma-fg);     border-color:transparent; }
+  .src-meetup   { background:var(--meetup-bg);   color:var(--meetup-fg);   border-color:transparent; }
+  .src-gametown { background:var(--gametown-bg); color:var(--gametown-fg); border-color:transparent; font-weight:600; }
 </style>
 </head>
 <body>
@@ -38,32 +46,39 @@ const timeFmt = new Intl.DateTimeFormat("en-GB", { timeZone: tz, hour: "2-digit"
 const el = (tag, text, cls) => { const n = document.createElement(tag); if (text) n.textContent = text; if (cls) n.className = cls; return n; };
 
 fetch("events.json").then(r => r.json()).then(({ updated, events }) => {
-  const cats = [...new Set(events.flatMap(e => e.categories))];
-  const on = new Set(cats);
   document.getElementById("meta").textContent =
     events.length + " events, updated " + new Date(updated).toLocaleString("en-GB", { timeZone: tz });
 
+  // One checkbox group (with a select/unselect-all button) per filter; returns the set of ticked values.
   const filters = document.getElementById("filters");
-  const boxes = [];
-  const toggle = el("button", "Unselect all");
-  toggle.type = "button";
-  const sync = () => { toggle.textContent = on.size === cats.length ? "Unselect all" : "Select all"; };
-  toggle.onclick = () => {
-    const all = on.size !== cats.length;
-    for (const b of boxes) b.checked = all;
-    on.clear();
-    if (all) cats.forEach(c => on.add(c));
-    sync(); render();
-  };
-  filters.append(toggle);
-  for (const c of cats) {
-    const label = el("label"), box = el("input");
-    box.type = "checkbox"; box.checked = true;
-    box.onchange = () => { box.checked ? on.add(c) : on.delete(c); sync(); render(); };
-    boxes.push(box);
-    label.append(box, " " + c);
-    filters.append(label);
+  function filterGroup(title, values, tagClass) {
+    const on = new Set(values), boxes = [];
+    const row = el("div", null, "group");
+    const toggle = el("button", "Unselect all");
+    toggle.type = "button";
+    const sync = () => { toggle.textContent = on.size === values.length ? "Unselect all" : "Select all"; };
+    toggle.onclick = () => {
+      const all = on.size !== values.length;
+      for (const b of boxes) b.checked = all;
+      on.clear();
+      if (all) values.forEach(v => on.add(v));
+      sync(); render();
+    };
+    row.append(el("strong", title), toggle);
+    for (const v of values) {
+      const label = el("label"), box = el("input");
+      box.type = "checkbox"; box.checked = true;
+      box.onchange = () => { box.checked ? on.add(v) : on.delete(v); sync(); render(); };
+      boxes.push(box);
+      label.append(box, " ", tagClass ? el("span", v, "tag " + tagClass(v)) : document.createTextNode(v));
+      row.append(label);
+    }
+    filters.append(row);
+    return on;
   }
+  const srcClass = s => "src-" + s;
+  const onSource = filterGroup("Source", [...new Set(events.flatMap(e => e.sources))], srcClass);
+  const onCat = filterGroup("Category", [...new Set(events.flatMap(e => e.categories))]);
 
   function render() {
     const list = document.getElementById("list");
@@ -71,7 +86,7 @@ fetch("events.json").then(r => r.json()).then(({ updated, events }) => {
     const now = Date.now();
     let ul, lastDay;
     for (const e of events) {
-      if (!e.categories.some(c => on.has(c)) || Date.parse(e.end || e.start) < now) continue;
+      if (!e.categories.some(c => onCat.has(c)) || !e.sources.some(s => onSource.has(s)) || Date.parse(e.end || e.start) < now) continue;
       const d = new Date(e.start), day = keyFmt.format(d);
       if (day !== lastDay) {
         lastDay = day;
@@ -82,14 +97,14 @@ fetch("events.json").then(r => r.json()).then(({ updated, events }) => {
       const a = el("a", e.name); a.href = e.url;
       const title = el("div"); title.append(a);
       for (const c of e.categories) title.append(el("span", c, "tag"));
-      title.append(el("span", e.source, "tag"));
+      for (const s of e.sources) title.append(el("span", s, "tag " + srcClass(s)));
       const sub = [e.online ? "Online" : e.place, e.hosts.join(", ")].filter(Boolean).join(" · ");
       body.append(title, el("div", sub, "sub"));
       const img = el("img", null, "thumb");
       img.loading = "lazy"; img.alt = "";
       if (e.cover) img.src = e.cover.replace("://images.lumacdn.com/", "://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,width=112,height=112,quality=75/");
       else img.style.visibility = "hidden";
-      li.append(img, el("span", timeFmt.format(d), "time"), body);
+      li.append(img, el("span", e.allDay ? "all day" : timeFmt.format(d), "time"), body);
       ul.append(li);
     }
     if (!ul) list.append(el("p", "Nothing upcoming.", "sub"));

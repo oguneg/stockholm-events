@@ -1,151 +1,6 @@
 {
- "updated": "2026-11-02T16:31:18+00:00",
+ "updated": "2026-11-02T23:08:16+00:00",
  "events": [
-  {
-   "id": "evt-aAEWSoVkeVrsGT7",
-   "name": "Nutty Ventures: Nordic VC Nights November 2026 Edition | The New Rules of Venture",
-   "start": "2026-11-02T15:30:00.000Z",
-   "end": "2026-11-02T18:30:00.000Z",
-   "url": "https://luma.com/ay1ph0hx",
-   "cover": "https://images.lumacdn.com/uploads/5f/0cc969cf-f7cc-4bdc-b025-6997dc0c46fc.png",
-   "place": "Malmskillnadsgatan 44A, Stockholm",
-   "online": false,
-   "hosts": [
-    "Naimul Abd",
-    "Vera Litens",
-    "Matilda Muhr Göransson"
-   ],
-   "source": "luma",
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-rNWfDFGojpjJ9D5",
-   "name": "Creator Night: Soundtrack Your Story with Sonilo",
-   "start": "2026-11-02T16:00:00.000Z",
-   "end": "2026-11-02T20:00:00.000Z",
-   "url": "https://luma.com/2h6dww2f",
-   "cover": "https://images.lumacdn.com/uploads/vg/8c8d4e4f-4348-45b8-89bb-90f76d82ff7d.png",
-   "place": "Stockholm",
-   "online": false,
-   "hosts": [
-    "Sonilo Europe",
-    "Jingyu Xiang"
-   ],
-   "source": "luma",
-   "categories": [
-    "ai",
-    "arts"
-   ]
-  },
-  {
-   "id": "evt-EHS9dXfGt0FPpM2",
-   "name": "Designer Games Night",
-   "start": "2026-11-02T16:00:00.000Z",
-   "end": "2026-11-02T18:30:00.000Z",
-   "url": "https://luma.com/kutdcb0j",
-   "cover": "https://images.lumacdn.com/gallery-images/bo/e5cec21a-fe60-4c18-a82c-d79a4c6bcfbb",
-   "place": "Sergels Torg 3, Stockholm",
-   "online": false,
-   "hosts": [
-    "Laura Wiegand"
-   ],
-   "source": "luma",
-   "categories": [
-    "games",
-    "arts"
-   ]
-  },
-  {
-   "id": "meetup-316961486",
-   "name": "Regular Monday Riichi in Stockholm @ TigerMahjong",
-   "start": "2026-11-02T16:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/stockholm-riichi/events/316961486/",
-   "cover": "https://secure.meetupstatic.com/photos/event/9/3/8/8/600_535597768.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Japanese Riichi Mahjong Meetups 🦆 Ankan Club"
-   ],
-   "source": "meetup",
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-316764817",
-   "name": "@@Back in a cafe@@ Shogi in Stockholm",
-   "start": "2026-11-02T16:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/japanese-chess-in-stockholm/events/316764817/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Japanese Chess in Stockholm"
-   ],
-   "source": "meetup",
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "evt-GLjHJ4ja3tVOZiI",
-   "name": "ItalianiTech Stockholm #14",
-   "start": "2026-11-02T17:00:00.000Z",
-   "end": "2026-11-02T18:30:00.000Z",
-   "url": "https://luma.com/dyuwefg1",
-   "cover": "https://images.lumacdn.com/uploads/ze/50da0654-24c3-4e83-b61f-3bac75775e33.png",
-   "place": "Götgatan 78, Stockholm",
-   "online": false,
-   "hosts": [
-    "Michela Bevilacqua",
-    "antonella aulita",
-    "Giovanni Nisti",
-    "Giuseppe De Simone"
-   ],
-   "source": "luma",
-   "categories": [
-    "tech",
-    "climate"
-   ]
-  },
-  {
-   "id": "meetup-317164239",
-   "name": "Board game night at Ugglan Boule Bar",
-   "start": "2026-11-02T18:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/clanfall/events/317164239/",
-   "cover": "https://secure.meetupstatic.com/photos/event/c/d/5/c/600_536812572.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "CLAN FALL"
-   ],
-   "source": "meetup",
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317235991",
-   "name": "2h Enskede intermediate badminton 🏸",
-   "start": "2026-11-02T19:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/sthlm-sports-outdoors/events/317235991/",
-   "cover": "https://secure.meetupstatic.com/photos/event/8/7/9/3/600_452974707.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Sports & Outdoors"
-   ],
-   "source": "meetup",
-   "categories": [
-    "ai"
-   ]
-  },
   {
    "id": "evt-HrLK2RdQcmspA6t",
    "name": "Align Open – Agentic Software Engineering och utvecklarens roll: Vad kommer det innebära att arbeta med mjukvara år 2027?",
@@ -158,7 +13,9 @@
    "hosts": [
     "Simon Strålberg"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -176,7 +33,9 @@
     "Ebba Dyvik",
     "Matilda Muhr Göransson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -196,7 +55,9 @@
     "Lisa Bäckman",
     "KTH Innovation"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -215,7 +76,9 @@
     "Erik Boustedt",
     "Nitin Sood"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -232,7 +95,9 @@
    "hosts": [
     "Environmental Futures Reading Group"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -249,7 +114,9 @@
    "hosts": [
     "Stockholm Social Life"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -266,7 +133,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -285,7 +154,9 @@
     "Melina Diamantoglou",
     "Tony Malm GS1"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -302,7 +173,28 @@
    "hosts": [
     "Master's and MBA events in Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "meetup-317255392",
+   "name": "QS Connect MBA Event",
+   "start": "2026-11-03T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/stockholm-mba-school-meetup-group/events/317255392/",
+   "cover": "https://secure.meetupstatic.com/photos/event/d/8/8/600_536943464.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Master's and MBA events in Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -319,7 +211,9 @@
    "hosts": [
     "Stockholm Startup Founder 101"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -336,9 +230,30 @@
    "hosts": [
     "Language Exchange - STOCKHOLM"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "meetup-317178746",
+   "name": "Board game night at Ugglan Boule Bar",
+   "start": "2026-11-03T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/clanfall/events/317178746/",
+   "cover": "https://secure.meetupstatic.com/photos/event/c/d/5/c/600_536812572.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "CLAN FALL"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -353,7 +268,9 @@
    "hosts": [
     "StartupCouncil.org Stockholm Tech Entrepreneurs & Investors"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -370,7 +287,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -392,7 +311,9 @@
     "Eric Johansson",
     "Tobias Fridell"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -409,7 +330,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -426,7 +349,9 @@
    "hosts": [
     "Data, Cloud and AI in Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -444,7 +369,9 @@
    "hosts": [
     "Stockholm Startup Founder 101"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -461,7 +388,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -480,7 +409,9 @@
     "Neelima Misra",
     "Karin Nissfolk"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -499,7 +430,9 @@
     "Harjodh Singh",
     "Jean-Baptiste Gerard"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -519,7 +452,9 @@
     "Mia Pääsuke",
     "Einar Bergviken"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -536,7 +471,9 @@
    "hosts": [
     "Ylva Lindh"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -553,7 +490,9 @@
    "hosts": [
     "Cha Song"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "food"
    ]
@@ -570,7 +509,9 @@
    "hosts": [
     "Avanza Tech Meet Up"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "games",
@@ -591,7 +532,9 @@
     "Beata Enwall",
     "Sandra Eriksson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -608,7 +551,9 @@
    "hosts": [
     "Stockholm Japanese Riichi Mahjong Meetups 🦆 Ankan Club"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -625,7 +570,9 @@
    "hosts": [
     "Hack The Box Meetup: Stockholm, SE"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -642,9 +589,29 @@
    "hosts": [
     "Stockholm Inline/Roller Skating"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "gametown-633q03c911pfvoq0m9g6j30tvf-20261104",
+   "name": "Game Programmer Meetup #4",
+   "start": "2026-11-04T16:30:00.000Z",
+   "end": "2026-11-04T20:00:00.000Z",
+   "allDay": false,
+   "url": "https://dataspelsbranschen.confetti.events/game-programmer-meetup-sthlm-4",
+   "cover": null,
+   "place": "Game Town, Magnus Ladulåsgatan 65",
+   "online": false,
+   "hosts": [],
+   "sources": [
+    "gametown"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -659,7 +626,9 @@
    "hosts": [
     "Conor Timmons"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -678,7 +647,9 @@
     "Emil Härdling",
     "Hugo Norberg"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "fitness",
     "running"
@@ -696,7 +667,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -713,7 +686,9 @@
    "hosts": [
     "Japanese social club Stockholm/Prata japanska i Stockholm!"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -730,7 +705,9 @@
    "hosts": [
     "Stockholm International Toastmasters"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -748,7 +725,9 @@
     "Sofia Pil",
     "Alicia Hedtjärn"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -765,7 +744,9 @@
    "hosts": [
     "Platform Engineers Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -782,7 +763,9 @@
    "hosts": [
     "Stockholm Cyber Security for Control Systems"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -799,7 +782,9 @@
    "hosts": [
     "Stockholm Sports & Outdoors"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -816,7 +801,9 @@
    "hosts": [
     "Mama Village"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "family"
    ]
@@ -836,7 +823,9 @@
     "Hannah Majoros",
     "Marcus Nilsson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -853,7 +842,9 @@
    "hosts": [
     "Martin Schori"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "games"
    ]
@@ -870,7 +861,9 @@
    "hosts": [
     "Kong/STOCKHOLM"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -887,7 +880,9 @@
    "hosts": [
     "AWS User Group Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "games",
@@ -906,7 +901,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -926,7 +923,9 @@
     "Lucas Grant",
     "Nitin Sood"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -943,7 +942,9 @@
    "hosts": [
     "André Ekespong"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -960,7 +961,9 @@
    "hosts": [
     "Tiger Mahjong & Games"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -977,7 +980,9 @@
    "hosts": [
     "Swedish Bitcoin Meetups"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -994,7 +999,9 @@
    "hosts": [
     "Philip Caneman"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -1011,7 +1018,9 @@
    "hosts": [
     "Stockholm AI Safety"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -1029,7 +1038,9 @@
    "hosts": [
     "Stockholm AI, Machine Learning and Computer Vision Meetup"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -1047,7 +1058,9 @@
    "hosts": [
     "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -1064,7 +1077,9 @@
    "hosts": [
     "Stockholm Go Club"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games",
     "tech"
@@ -1083,7 +1098,9 @@
     "Pooyeh Mobini",
     "Marcus"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -1100,7 +1117,9 @@
    "hosts": [
     "Sara Lorda"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "fitness",
     "running"
@@ -1118,7 +1137,9 @@
    "hosts": [
     "Ash Abbasi"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -1137,9 +1158,30 @@
     "Laura Wiegand",
     "Nurten Özkoray"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "food"
+   ]
+  },
+  {
+   "id": "evt-TpRL8JMsB96bW9M",
+   "name": "Inre Balans - Helande Breathwork",
+   "start": "2026-11-05T18:00:00.000Z",
+   "end": "2026-11-05T19:00:00.000Z",
+   "url": "https://luma.com/f3ktb1l6",
+   "cover": "https://images.lumacdn.com/uploads/97/1887bc10-94ad-4e16-a530-17b6a3b00d1e.jpg",
+   "place": "Tomtebogatan 30, Stockholm",
+   "online": false,
+   "hosts": [
+    "Mikaela Persson"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "wellness"
    ]
   },
   {
@@ -1154,7 +1196,9 @@
    "hosts": [
     "Practical Philosophy Club - Stockholm 🇸🇪"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "games",
@@ -1173,7 +1217,9 @@
    "hosts": [
     "Platform Engineers Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -1191,7 +1237,9 @@
     "Linnea Hakansson",
     "Matilda Muhr Göransson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -1208,7 +1256,9 @@
    "hosts": [
     "Snacka Kubernetes med Conoa"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -1225,7 +1275,9 @@
    "hosts": [
     "Erika Tapper"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -1242,7 +1294,9 @@
    "hosts": [
     "Tiger Mahjong & Games"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -1263,7 +1317,10 @@
     "Lydia Faager Endrell",
     "Simon Sund"
    ],
-   "source": "luma",
+   "sources": [
+    "luma",
+    "meetup"
+   ],
    "categories": [
     "tech",
     "fitness",
@@ -1283,7 +1340,9 @@
    "hosts": [
     "Girls in Stockholm"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "wellness"
    ]
@@ -1300,7 +1359,9 @@
    "hosts": [
     "⚜️ Stockholm Charity Art Meetup Group"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -1317,7 +1378,9 @@
    "hosts": [
     "Dinner Buddies"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -1334,7 +1397,9 @@
    "hosts": [
     "Husby Systrarna"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "fitness"
    ]
@@ -1351,7 +1416,9 @@
    "hosts": [
     "Stockholm Diplomats (xNFx) Meetup"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -1368,7 +1435,9 @@
    "hosts": [
     "Los Suecañoles for Swedish/Spanish Language Exchange"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -1385,7 +1454,9 @@
    "hosts": [
     "Language Exchange - STOCKHOLM"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -1402,7 +1473,9 @@
    "hosts": [
     "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -1419,7 +1492,9 @@
    "hosts": [
     "Stockholm (Hässelby) Boardgames Meetup Group"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -1436,24 +1511,9 @@
    "hosts": [
     "Sunday Speaking"
    ],
-   "source": "meetup",
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317087927",
-   "name": "Paint & Sip (08/11) - Galaxy painting workshop",
-   "start": "2026-11-08T13:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/sans-studio-paint-and-sip/events/317087927/",
-   "cover": "https://secure.meetupstatic.com/photos/event/9/9/3/6/600_536739222.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Sans Studio - Stockholm Painting Workshops"
+   "sources": [
+    "meetup"
    ],
-   "source": "meetup",
    "categories": [
     "games"
    ]
@@ -1470,7 +1530,9 @@
    "hosts": [
     "The Golden Hive Community Collective"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -1488,7 +1550,9 @@
    "hosts": [
     "The Golden Hive Community Collective"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -1505,7 +1569,9 @@
    "hosts": [
     "The Golden Hive Community Collective"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -1523,7 +1589,9 @@
    "hosts": [
     "Studera tillsammans – Studieteknik & fokus"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -1540,7 +1608,9 @@
    "hosts": [
     "Agical AB"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -1557,10 +1627,31 @@
    "hosts": [
     "OWASP Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games",
     "tech"
+   ]
+  },
+  {
+   "id": "meetup-317150547",
+   "name": "@@Back in a cafe@@ Shogi in Stockholm",
+   "start": "2026-11-09T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/japanese-chess-in-stockholm/events/317150547/",
+   "cover": null,
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Japanese Chess in Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -1575,7 +1666,9 @@
    "hosts": [
     "Stockholm AI, Machine Learning and Computer Vision Meetup"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -1593,7 +1686,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "games",
@@ -1612,7 +1707,9 @@
    "hosts": [
     "FrenchTech Stockholm"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -1629,7 +1726,9 @@
    "hosts": [
     "Naimul Abd"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -1646,7 +1745,9 @@
    "hosts": [
     "Func Prog Sweden"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "games",
@@ -1666,7 +1767,9 @@
     "Stockholm AI",
     "Vijeta Sharma"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -1683,7 +1786,9 @@
    "hosts": [
     "Aleksandra Naglik"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -1700,7 +1805,9 @@
    "hosts": [
     "Aleksandra Naglik"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -1717,7 +1824,9 @@
    "hosts": [
     "Stockholm Japanese Riichi Mahjong Meetups 🦆 Ankan Club"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -1734,7 +1843,9 @@
    "hosts": [
     "IT Professionals Afterwork"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -1751,7 +1862,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -1770,7 +1883,9 @@
     "Kelvin Fens",
     "Stina"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -1789,7 +1904,9 @@
     "Emil Härdling",
     "Hugo Norberg"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "fitness",
     "running"
@@ -1807,7 +1924,9 @@
    "hosts": [
     "Stockholm Polyglots"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -1824,7 +1943,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -1844,7 +1965,9 @@
     "Henriette Boethius",
     "Evelina Anttila"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -1861,7 +1984,9 @@
    "hosts": [
     "Analytics Pioneers Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -1880,7 +2005,9 @@
     "Maria Windna",
     "Developers Bay"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -1898,7 +2025,9 @@
     "Pontus Nihlén",
     "Thomas Morgan"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -1915,7 +2044,9 @@
    "hosts": [
     "YOU+ Music"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -1932,7 +2063,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -1950,7 +2083,9 @@
     "Hitesh Chander Monga",
     "Founder School"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -1967,7 +2102,9 @@
    "hosts": [
     "Grafana & Friends Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -1987,7 +2124,9 @@
     "Mikael Wallstedt",
     "Orjiugo Prince Victor"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2004,7 +2143,9 @@
    "hosts": [
     "HIQ Tech Meetup"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "games",
@@ -2024,7 +2165,9 @@
     "Shuang Zheng",
     "Erika Magnusson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2041,7 +2184,9 @@
    "hosts": [
     "Stockholm AI Safety"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -2059,7 +2204,9 @@
    "hosts": [
     "Stockholm AI-ML-Data Developers Group"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -2077,7 +2224,9 @@
    "hosts": [
     "Stockholm AI, Machine Learning and Computer Vision Meetup"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -2095,7 +2244,9 @@
    "hosts": [
     "Language Exchange - STOCKHOLM"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2112,7 +2263,9 @@
    "hosts": [
     "Stockholm Startup Founder 101"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2129,7 +2282,9 @@
    "hosts": [
     "Let's Do Business Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2146,7 +2301,9 @@
    "hosts": [
     "Swenug Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games",
     "tech"
@@ -2165,7 +2322,9 @@
     "Matilda Muhr Göransson",
     "Tatiana Caldas-Löttiger"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2182,7 +2341,9 @@
    "hosts": [
     "Stockholm Variety"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -2199,7 +2360,9 @@
    "hosts": [
     "Bella Funck"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2219,7 +2382,9 @@
     "Joseph Michael",
     "Erik Bergkvist"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -2236,7 +2401,9 @@
    "hosts": [
     "Sara Zandian - Aira"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2253,7 +2420,9 @@
    "hosts": [
     "Stockholm Startup Founder 101"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2270,7 +2439,9 @@
    "hosts": [
     "LFDT Sweden"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2290,7 +2461,9 @@
     "Manal Mayssan",
     "Matilda Muhr Göransson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -2307,7 +2480,9 @@
    "hosts": [
     "ProductTank Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "games",
@@ -2326,7 +2501,9 @@
    "hosts": [
     "Microsoft Reactor Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2344,7 +2521,9 @@
     "Michelangelo Pagliara",
     "Juhana Peltomaa"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2361,7 +2540,9 @@
    "hosts": [
     "Platform Engineers Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2378,7 +2559,9 @@
    "hosts": [
     "Feminvest Community"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "fitness",
     "running"
@@ -2396,7 +2579,28 @@
    "hosts": [
     "Jenny Björk"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-0NlniamHVH0caUX",
+   "name": "Klar New Office AW",
+   "start": "2026-11-13T16:00:00.000Z",
+   "end": "2026-11-13T19:00:00.000Z",
+   "url": "https://luma.com/0ar23xc2",
+   "cover": "https://images.lumacdn.com/uploads/0m/c937fdee-5d9b-41fd-ad84-09cb7e086fab.jpg",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Isabel Storgårds"
+   ],
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -2414,7 +2618,9 @@
     "Jenny Björk",
     "Gordon Cyrus"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -2431,7 +2637,9 @@
    "hosts": [
     "Tiger Mahjong & Games"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -2448,7 +2656,9 @@
    "hosts": [
     "Johannes Ojanpera"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "fitness",
     "running"
@@ -2466,7 +2676,9 @@
    "hosts": [
     "Leyr Health"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -2483,7 +2695,9 @@
    "hosts": [
     "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -2500,7 +2714,9 @@
    "hosts": [
     "Stockholm Board Games & New Friends"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -2517,7 +2733,9 @@
    "hosts": [
     "Stockholm Stoic Meetup"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -2536,9 +2754,30 @@
     "Kasia Mikoluk",
     "Raoul Stubbe"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "meetup-317162024",
+   "name": "Regular Monday Riichi in Stockholm @ TigerMahjong",
+   "start": "2026-11-16T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/stockholm-riichi/events/317162024/",
+   "cover": "https://secure.meetupstatic.com/photos/event/9/3/8/8/600_535597768.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Japanese Riichi Mahjong Meetups 🦆 Ankan Club"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -2557,7 +2796,9 @@
     "Fredrik Nordström",
     "Jesper Petersson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -2574,7 +2815,9 @@
    "hosts": [
     "Popper & Deutsch, med vänner"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -2591,7 +2834,9 @@
    "hosts": [
     "Stockholm Startup Founder 101"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2608,7 +2853,9 @@
    "hosts": [
     "Simon Strålberg"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2625,7 +2872,9 @@
    "hosts": [
     "Susan"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "wellness"
    ]
@@ -2642,7 +2891,9 @@
    "hosts": [
     "Juninatt Bookclub"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -2659,7 +2910,9 @@
    "hosts": [
     "ODSC AI Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -2677,7 +2930,9 @@
    "hosts": [
     "Stockholm Oracle"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games",
     "tech"
@@ -2698,7 +2953,9 @@
     "Hugo Norberg",
     "Philip Andersson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech",
     "fitness",
@@ -2720,7 +2977,9 @@
     "Leana at Nion",
     "Iva at Nion"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2737,8 +2996,11 @@
    "hosts": [
     "Arts Dynamics Entrepreneur Meetups"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
+    "games",
     "tech"
    ]
   },
@@ -2755,7 +3017,9 @@
     "Luba Weissmann",
     "Neelima Misra"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2772,7 +3036,9 @@
    "hosts": [
     "SportsTech Sweden"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2789,7 +3055,9 @@
    "hosts": [
     "Jenny Barreto"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -2806,7 +3074,10 @@
    "hosts": [
     "Patrick Couch"
    ],
-   "source": "luma",
+   "sources": [
+    "luma",
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -2825,7 +3096,9 @@
    "hosts": [
     "Stockholm AI, Machine Learning and Computer Vision Meetup"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -2843,7 +3116,9 @@
    "hosts": [
     "LFDT Sweden"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2860,7 +3135,9 @@
    "hosts": [
     "ODSC AI Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -2877,7 +3154,9 @@
    "hosts": [
     "STHLM - Art & Improvised Theatre"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -2894,7 +3173,9 @@
    "hosts": [
     "Tamara Maasdam"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -2912,7 +3193,9 @@
     "Anna Hagström",
     "André Wassberg"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "wellness"
    ]
@@ -2931,7 +3214,9 @@
     "Kelvin Soen",
     "Aleksandra Midor"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2950,7 +3235,9 @@
     "Iryna Bokova",
     "Alexander Jägerlind Puuri"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -2971,7 +3258,9 @@
     "Magnus Gille",
     "Philip Andersson"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -2988,7 +3277,9 @@
    "hosts": [
     "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -3005,7 +3296,9 @@
    "hosts": [
     "Yasmin Casaca"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -3022,7 +3315,9 @@
    "hosts": [
     "Yasmin Casaca"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -3039,7 +3334,9 @@
    "hosts": [
     "HI Assessments"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3056,7 +3353,9 @@
    "hosts": [
     "Yasmin Casaca"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -3073,7 +3372,9 @@
    "hosts": [
     "Yasmin Casaca"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -3090,7 +3391,9 @@
    "hosts": [
     "Stockholm Architecture & Interior Design Meetup"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -3107,7 +3410,9 @@
    "hosts": [
     "frida thunholm"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3125,7 +3430,9 @@
     "Dream to Reality",
     "Bryony Bennett"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "wellness"
    ]
@@ -3144,7 +3451,9 @@
     "Amada Echeverria",
     "evroc"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3161,7 +3470,9 @@
    "hosts": [
     "H&ART Incubator"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts",
     "books"
@@ -3181,7 +3492,9 @@
     "Jenny Andersson",
     "Developers Bay"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3201,7 +3514,9 @@
     "Louise Verhoest",
     "Pim"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "wellness"
    ]
@@ -3218,7 +3533,9 @@
    "hosts": [
     "Func Prog Sweden"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -3235,7 +3552,9 @@
    "hosts": [
     "Stockholm Rust"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -3252,7 +3571,9 @@
    "hosts": [
     "Stockholm Startup Founders & Tech Professionals"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -3269,7 +3590,9 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -3288,10 +3611,31 @@
     "Jocie Chan",
     "Zugania Zuniga"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts",
     "climate"
+   ]
+  },
+  {
+   "id": "evt-QpLirYLvWD7GyMf",
+   "name": "Make & Mingle 2.0 | A Creative Sunday",
+   "start": "2026-11-29T14:00:00.000Z",
+   "end": "2026-11-29T17:00:00.000Z",
+   "url": "https://luma.com/emfj25ql",
+   "cover": "https://images.lumacdn.com/uploads/ss/61c78a84-652e-443a-bf42-9f54bda8421a.png",
+   "place": "Solna",
+   "online": false,
+   "hosts": [
+    "Indique Stockholm Supperclub"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "arts"
    ]
   },
   {
@@ -3306,7 +3650,9 @@
    "hosts": [
     "Hack Together: Building Ideas Into Reality"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -3324,7 +3670,9 @@
     "Marit Barklund",
     "Sue Paz Bylund"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3341,7 +3689,9 @@
    "hosts": [
     "Simon Strålberg"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3360,7 +3710,9 @@
     "Sara Breman",
     "Anna Bjuremar"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3377,7 +3729,9 @@
    "hosts": [
     "Chisom Udeze"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts",
     "books"
@@ -3395,7 +3749,9 @@
    "hosts": [
     "BOOKED - Book club, silent reading and more"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai"
    ]
@@ -3412,7 +3768,9 @@
    "hosts": [
     "Kong/STOCKHOLM"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -3429,7 +3787,9 @@
    "hosts": [
     "African Professional Network"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts",
     "books"
@@ -3448,7 +3808,9 @@
     "Capable",
     "Adam Fakirni"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3465,7 +3827,9 @@
    "hosts": [
     "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "games"
    ]
@@ -3482,7 +3846,9 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "games"
    ]
@@ -3499,7 +3865,9 @@
    "hosts": [
     "Naimul Abd"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
@@ -3517,7 +3885,9 @@
     "Jonas Laeben",
     "Patrick Couch"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "ai"
    ]
@@ -3534,7 +3904,9 @@
    "hosts": [
     "AI Evolution Hub Stockholm by Genaition"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "ai",
     "tech"
@@ -3552,7 +3924,9 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "arts"
    ]
@@ -3569,7 +3943,28 @@
    "hosts": [
     "Func Prog Sweden"
    ],
-   "source": "meetup",
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "meetup-316921110",
+   "name": "Topic Table #4: Where Culture x Tech x Business Meet for Impact",
+   "start": "2026-12-16T11:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/arts-dynamics-meetups/events/316921110/",
+   "cover": "https://secure.meetupstatic.com/photos/event/1/8/a/9/600_536286313.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Arts Dynamics Entrepreneur Meetups"
+   ],
+   "sources": [
+    "meetup"
+   ],
    "categories": [
     "tech"
    ]
@@ -3586,7 +3981,9 @@
    "hosts": [
     "Therese Lundquist"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech",
     "climate"
@@ -3605,7 +4002,9 @@
     "Ahmad Mudhar",
     "Lozd"
    ],
-   "source": "luma",
+   "sources": [
+    "luma"
+   ],
    "categories": [
     "tech"
    ]
