@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:30:37+00:00",
+ "updated": "2026-11-02T16:31:18+00:00",
  "events": [
   {
    "id": "evt-aAEWSoVkeVrsGT7",
@@ -267,27 +267,6 @@
     "Microsoft Reactor Stockholm"
    ],
    "source": "meetup",
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-HqMVC8A2kvf8EWt",
-   "name": "Ask a decacorn founder everything - w/ Petter Made (Co-Founder @SumUp, Partner @EWOR)",
-   "start": "2026-11-03T13:00:00.000Z",
-   "end": "2026-11-03T15:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/xhryzgl4",
-   "cover": "https://images.lumacdn.com/uploads/70/73137390-c875-438c-99d3-10d6bded43f4.png",
-   "place": "Stockholm",
-   "online": false,
-   "hosts": [
-    "EWOR Team",
-    "Philipp Scholz",
-    "Lisa Bäckman",
-    "KTH Innovation"
-   ],
-   "guests": 0,
    "categories": [
     "tech"
    ]
@@ -2388,25 +2367,6 @@
    ]
   },
   {
-   "id": "evt-PuvwWQXQOj1viID",
-   "name": "Orchestrating AI Agents",
-   "start": "2026-11-12T17:30:00.000Z",
-   "end": "2026-11-12T20:30:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/orchestrating-ai",
-   "cover": "https://images.lumacdn.com/uploads/ad/6e624a60-c221-4dc6-adc8-71784b493639.png",
-   "place": "Stockholm",
-   "online": false,
-   "hosts": [
-    "Michelangelo Pagliara",
-    "Juhana Peltomaa"
-   ],
-   "guests": 0,
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "id": "evt-ssVfweJ60epOG6Y",
    "name": "Feminvest run + breakfast",
    "start": "2026-11-13T05:50:00.000Z",
@@ -3612,43 +3572,6 @@
    "source": "meetup",
    "categories": [
     "tech"
-   ]
-  },
-  {
-   "id": "evt-PwQuKagSHNvAQIN",
-   "name": "Stockholm MLOps Winterbash!!!",
-   "start": "2026-12-10T16:00:00.000Z",
-   "end": "2026-12-10T20:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/stockholm-efhg",
-   "cover": "https://images.lumacdn.com/uploads/yq/372f4140-fc24-489e-8150-1e31dd5add54.jpg",
-   "place": "Katarinavägen 15, Stockholm",
-   "online": false,
-   "hosts": [
-    "Jonas Laeben",
-    "Patrick Couch"
-   ],
-   "guests": 20,
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "evt-ZpgGb2r3Bvgl3P8",
-   "name": "IXDF Field Trip: Julverket Art Market",
-   "start": "2026-12-12T13:00:00.000Z",
-   "end": "2026-12-12T16:00:00.000Z",
-   "tz": "Europe/Stockholm",
-   "url": "https://luma.com/y1bu8zwd",
-   "cover": "https://images.lumacdn.com/gallery-images/image-gen/christmas/naive-print-editorial-christmas-market-square-with-a-towering-tr.png",
-   "place": "Hallvägen 5, Johanneshov",
-   "online": false,
-   "hosts": [
-    "Laura Wiegand"
-   ],
-   "guests": 9,
-   "categories": [
-    "arts"
    ]
   },
   {
