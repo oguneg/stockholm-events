@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T11:04:45+00:00",
+ "updated": "2026-11-02T12:03:00+00:00",
  "events": [
   {
    "id": "evt-aAEWSoVkeVrsGT7",
@@ -35,7 +35,7 @@
     "Sonilo Europe",
     "Jingyu Xiang"
    ],
-   "guests": 32,
+   "guests": 34,
    "categories": [
     "ai",
     "arts"
@@ -54,7 +54,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 25,
+   "guests": 24,
    "categories": [
     "games",
     "arts"
@@ -155,7 +155,7 @@
     "Melina Diamantoglou",
     "Tony Malm GS1"
    ],
-   "guests": 132,
+   "guests": 151,
    "categories": [
     "ai"
    ]
@@ -238,7 +238,7 @@
     "Mia Pääsuke",
     "Einar Bergviken"
    ],
-   "guests": 128,
+   "guests": 129,
    "categories": [
     "tech"
    ]
@@ -256,7 +256,7 @@
    "hosts": [
     "Ylva Lindh"
    ],
-   "guests": 19,
+   "guests": 24,
    "categories": [
     "arts"
    ]
@@ -274,7 +274,7 @@
    "hosts": [
     "Cha Song"
    ],
-   "guests": 93,
+   "guests": 100,
    "categories": [
     "food"
    ]
@@ -294,7 +294,7 @@
     "Beata Enwall",
     "Sandra Eriksson"
    ],
-   "guests": 213,
+   "guests": 218,
    "categories": [
     "ai"
    ]
@@ -332,7 +332,7 @@
     "Emil Härdling",
     "Hugo Norberg"
    ],
-   "guests": 28,
+   "guests": 36,
    "categories": [
     "fitness",
     "running"
@@ -352,7 +352,7 @@
     "Sofia Pil",
     "Alicia Hedtjärn"
    ],
-   "guests": 12,
+   "guests": 15,
    "categories": [
     "ai"
    ]
@@ -503,7 +503,7 @@
    "hosts": [
     "Sara Lorda"
    ],
-   "guests": 27,
+   "guests": 36,
    "categories": [
     "fitness",
     "running"
@@ -542,7 +542,7 @@
     "Laura Wiegand",
     "Nurten Özkoray"
    ],
-   "guests": 3,
+   "guests": 4,
    "categories": [
     "food"
    ]
@@ -627,21 +627,21 @@
    ]
   },
   {
-   "id": "evt-lyTsCwvOjjbYJy5",
-   "name": "🌼 Diwali Dinner: Ghar Wali Diwali at Indique",
-   "start": "2026-11-07T17:00:00.000Z",
-   "end": "2026-11-07T19:30:00.000Z",
+   "id": "evt-YjzrhVuGX4VRKXS",
+   "name": "Badminton med Husby Systrarna",
+   "start": "2026-11-07T12:45:00.000Z",
+   "end": "2026-11-07T14:00:00.000Z",
    "tz": "Europe/Stockholm",
-   "url": "https://luma.com/f7obtppt",
-   "cover": "https://images.lumacdn.com/uploads/kf/a586006a-e566-4864-b95a-ca56bd9fac10.png",
-   "place": "Hägersten",
+   "url": "https://luma.com/yb4ahvep",
+   "cover": "https://images.lumacdn.com/uploads/4m/328ef51a-4784-4ac4-9d8c-da65317551cc.jpg",
+   "place": "Danmarksgatan 46, 1tr, Kista",
    "online": false,
    "hosts": [
-    "Indique Stockholm Supperclub"
+    "Husby Systrarna"
    ],
-   "guests": 10,
+   "guests": 0,
    "categories": [
-    "food"
+    "fitness"
    ]
   },
   {
@@ -792,7 +792,7 @@
     "Henriette Boethius",
     "Evelina Anttila"
    ],
-   "guests": 15,
+   "guests": 30,
    "categories": [
     "ai"
    ]
@@ -868,7 +868,7 @@
     "Hitesh Chander Monga",
     "Founder School"
    ],
-   "guests": 0,
+   "guests": 203,
    "categories": [
     "ai"
    ]
@@ -944,14 +944,14 @@
    "hosts": [
     "Bella Funck"
    ],
-   "guests": 11,
+   "guests": 13,
    "categories": [
     "ai"
    ]
   },
   {
    "id": "evt-7oIWSphNKGTnlE0",
-   "name": "Revenue Growth & Champagne | Stockholm",
+   "name": "Revenue Growth & Champagne | Stockholm 12e november",
    "start": "2026-11-12T15:30:00.000Z",
    "end": "2026-11-12T17:00:00.000Z",
    "tz": "Europe/Stockholm",
@@ -1076,7 +1076,7 @@
    "hosts": [
     "Johannes Ojanpera"
    ],
-   "guests": 16,
+   "guests": 17,
    "categories": [
     "fitness",
     "running"
@@ -1140,6 +1140,42 @@
    "guests": 0,
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "evt-7IwGB479D5M8pUJ",
+   "name": "AI för samhället: Innovation i offentlig sektor",
+   "start": "2026-11-17T10:30:00.000Z",
+   "end": "2026-11-17T12:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/ty9waj6f",
+   "cover": "https://images.lumacdn.com/uploads/d8/38874c97-f9a3-412d-9081-fb15ef02ee0d.jpg",
+   "place": "Malmskillnadsgatan 36, Stockholm",
+   "online": false,
+   "hosts": [
+    "Simon Strålberg"
+   ],
+   "guests": 0,
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-gwAkGKZKpAL30Mh",
+   "name": "LongHER After Hours: Longevity För Kvinnor",
+   "start": "2026-11-17T16:00:00.000Z",
+   "end": "2026-11-17T18:30:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/u09ukl9r",
+   "cover": "https://images.lumacdn.com/uploads/vt/060de018-ae71-423a-85ca-e1d5e6075893.png",
+   "place": "Birger Jarlsgatan 16, Stockholm",
+   "online": false,
+   "hosts": [
+    "Susan"
+   ],
+   "guests": 5,
+   "categories": [
+    "wellness"
    ]
   },
   {
@@ -1242,6 +1278,24 @@
    ]
   },
   {
+   "id": "evt-yPiRBfharErp55W",
+   "name": "Sonic Sessions - an open mic for music",
+   "start": "2026-11-20T20:00:00.000Z",
+   "end": "2026-11-20T22:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/7wbv2w6y",
+   "cover": "https://images.lumacdn.com/uploads/rp/db118133-cbb3-4364-a485-76ac11e97b18.png",
+   "place": "Vegagatan 17, Stockholm",
+   "online": false,
+   "hosts": [
+    "Tamara Maasdam"
+   ],
+   "guests": 4,
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "evt-fvYyKQfySIWs1G4",
    "name": "Women's Health, Breathwork & Brunch",
    "start": "2026-11-21T08:00:00.000Z",
@@ -1278,6 +1332,26 @@
    "guests": 59,
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "id": "evt-CXfwpVjX310Upq1",
+   "name": "FPV Drone Assembly Workshop with STFU Tacticats",
+   "start": "2026-11-21T11:00:00.000Z",
+   "end": "2026-11-21T17:00:00.000Z",
+   "tz": "Europe/Stockholm",
+   "url": "https://luma.com/s7r3z3nw",
+   "cover": "https://images.lumacdn.com/event-covers/lq/96afdc34-e7ee-44bd-bc04-1afae2cf00d4.png",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Jonatan H",
+    "Iryna Bokova",
+    "Alexander Jägerlind Puuri"
+   ],
+   "guests": 0,
+   "categories": [
+    "tech"
    ]
   },
   {
@@ -1351,7 +1425,7 @@
    "hosts": [
     "HI Assessments"
    ],
-   "guests": 10,
+   "guests": 11,
    "categories": [
     "ai"
    ]
@@ -1417,7 +1491,7 @@
    "end": "2026-11-25T18:00:00.000Z",
    "tz": "Europe/Stockholm",
    "url": "https://luma.com/88nuwta1",
-   "cover": "https://images.lumacdn.com/uploads/m8/401a2104-2ea5-4141-90b1-0b91619acfe1.png",
+   "cover": "https://images.lumacdn.com/uploads/4q/052f0163-9c93-4b25-b8bb-1ef13c59143f.png",
    "place": "Heliosgatan 13, Stockholm",
    "online": false,
    "hosts": [
@@ -1444,7 +1518,7 @@
     "Amada Echeverria",
     "evroc"
    ],
-   "guests": 11,
+   "guests": 12,
    "categories": [
     "ai"
    ]
@@ -1522,7 +1596,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 6,
+   "guests": 9,
    "categories": [
     "arts"
    ]
@@ -1542,7 +1616,7 @@
     "Jocie Chan",
     "Zugania Zuniga"
    ],
-   "guests": 44,
+   "guests": 46,
    "categories": [
     "arts",
     "climate"
@@ -1694,7 +1768,7 @@
     "Jonas Laeben",
     "Patrick Couch"
    ],
-   "guests": 14,
+   "guests": 20,
    "categories": [
     "ai"
    ]
@@ -1712,7 +1786,7 @@
    "hosts": [
     "Laura Wiegand"
    ],
-   "guests": 7,
+   "guests": 9,
    "categories": [
     "arts"
    ]
@@ -1730,7 +1804,7 @@
    "hosts": [
     "Therese Lundquist"
    ],
-   "guests": 14,
+   "guests": 16,
    "categories": [
     "tech",
     "climate"
