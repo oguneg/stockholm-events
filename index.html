@@ -18,6 +18,7 @@
   li { display:flex; gap:12px; padding:8px 0; align-items:flex-start; }
   .thumb { width:56px; height:56px; border-radius:8px; object-fit:cover; flex:none; background:var(--line); }
   .filters label { white-space:nowrap; }
+  .filters button { margin-right:12px; font:inherit; font-size:.85rem; cursor:pointer; }
   .time { color:var(--muted); min-width:3.2rem; font-variant-numeric:tabular-nums; }
   a { color:var(--link); }
   .sub { color:var(--muted); font-size:.85rem; }
@@ -43,10 +44,23 @@ fetch("events.json").then(r => r.json()).then(({ updated, events }) => {
     events.length + " events, updated " + new Date(updated).toLocaleString("en-GB", { timeZone: tz });
 
   const filters = document.getElementById("filters");
+  const boxes = [];
+  const toggle = el("button", "Unselect all");
+  toggle.type = "button";
+  const sync = () => { toggle.textContent = on.size === cats.length ? "Unselect all" : "Select all"; };
+  toggle.onclick = () => {
+    const all = on.size !== cats.length;
+    for (const b of boxes) b.checked = all;
+    on.clear();
+    if (all) cats.forEach(c => on.add(c));
+    sync(); render();
+  };
+  filters.append(toggle);
   for (const c of cats) {
     const label = el("label"), box = el("input");
     box.type = "checkbox"; box.checked = true;
-    box.onchange = () => { box.checked ? on.add(c) : on.delete(c); render(); };
+    box.onchange = () => { box.checked ? on.add(c) : on.delete(c); sync(); render(); };
+    boxes.push(box);
     label.append(box, " " + c);
     filters.append(label);
   }
@@ -68,11 +82,12 @@ fetch("events.json").then(r => r.json()).then(({ updated, events }) => {
       const a = el("a", e.name); a.href = e.url;
       const title = el("div"); title.append(a);
       for (const c of e.categories) title.append(el("span", c, "tag"));
+      title.append(el("span", e.source, "tag"));
       const sub = [e.online ? "Online" : e.place, e.hosts.join(", ")].filter(Boolean).join(" · ");
       body.append(title, el("div", sub, "sub"));
       const img = el("img", null, "thumb");
       img.loading = "lazy"; img.alt = "";
-      if (e.cover) img.src = e.cover.replace("images.lumacdn.com/", "images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,width=112,height=112,quality=75/");
+      if (e.cover) img.src = e.cover.replace("://images.lumacdn.com/", "://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,width=112,height=112,quality=75/");
       else img.style.visibility = "hidden";
       li.append(img, el("span", timeFmt.format(d), "time"), body);
       ul.append(li);
