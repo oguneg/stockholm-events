@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:09:47+00:00",
+ "updated": "2026-11-03T11:41:13+00:00",
  "events": [
   {
    "id": "evt-HrLK2RdQcmspA6t",
@@ -44,7 +44,7 @@
    "id": "evt-HqMVC8A2kvf8EWt",
    "name": "Ask a decacorn founder everything - w/ Petter Made (Co-Founder @SumUp, Partner @EWOR)",
    "start": "2026-11-03T13:00:00.000Z",
-   "end": "2026-11-03T15:00:00.000Z",
+   "end": "2026-11-03T14:30:00.000Z",
    "url": "https://luma.com/xhryzgl4",
    "cover": "https://images.lumacdn.com/uploads/70/73137390-c875-438c-99d3-10d6bded43f4.png",
    "place": "Stockholm",
@@ -319,25 +319,6 @@
    ]
   },
   {
-   "id": "meetup-316998865",
-   "name": "How to Trust the Code You Ship",
-   "start": "2026-11-04T08:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/microsoft-reactor-stockholm/events/316998865/",
-   "cover": "https://secure.meetupstatic.com/photos/event/7/4/d/f/600_536789919.jpeg",
-   "place": "",
-   "online": true,
-   "hosts": [
-    "Microsoft Reactor Stockholm"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
    "id": "meetup-317075377",
    "name": "IBM Bob TV episode 3: Benchmarking optimization tasks, cost & quality with Bob",
    "start": "2026-11-04T10:00:00.000Z",
@@ -354,6 +335,25 @@
    ],
    "categories": [
     "ai",
+    "tech"
+   ]
+  },
+  {
+   "id": "meetup-316998865",
+   "name": "How to Trust the Code You Ship",
+   "start": "2026-11-04T10:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/microsoft-reactor-stockholm/events/316998865/",
+   "cover": "https://secure.meetupstatic.com/photos/event/7/4/d/f/600_536789919.jpeg",
+   "place": "",
+   "online": true,
+   "hosts": [
+    "Microsoft Reactor Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
     "tech"
    ]
   },
@@ -1081,8 +1081,7 @@
     "meetup"
    ],
    "categories": [
-    "games",
-    "tech"
+    "games"
    ]
   },
   {
@@ -1283,6 +1282,25 @@
    ]
   },
   {
+   "id": "evt-URqAbbFA2On9kWE",
+   "name": "AI Engineering - AW #2",
+   "start": "2026-11-06T16:00:00.000Z",
+   "end": "2026-11-06T19:00:00.000Z",
+   "url": "https://luma.com/7efjl9do",
+   "cover": "https://images.lumacdn.com/uploads/ok/e5063891-d9da-48ef-9bf0-0c66207630a9.jpg",
+   "place": "Götgatan 33, Stockholm",
+   "online": false,
+   "hosts": [
+    "Robert Westin"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "meetup-316714786",
    "name": "Sichuan Mahjong Night: A Classic Chinese Social Game",
    "start": "2026-11-06T16:30:00.000Z",
@@ -1299,6 +1317,25 @@
    ],
    "categories": [
     "games"
+   ]
+  },
+  {
+   "id": "meetup-317218310",
+   "name": "TGIF 2h intermediate badminton @Enskede Rakethall",
+   "start": "2026-11-06T17:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/sthlm-sports-outdoors/events/317218310/",
+   "cover": "https://secure.meetupstatic.com/photos/event/8/7/9/3/600_452974707.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Sports & Outdoors"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -1519,62 +1556,22 @@
    ]
   },
   {
-   "id": "meetup-317233874",
-   "name": "Stockholm OpenClaw AI Agent Workshop",
-   "start": "2026-11-08T15:00:00.000Z",
+   "id": "meetup-317087927",
+   "name": "Paint & Sip (08/11) - Galaxy painting workshop",
+   "start": "2026-11-08T13:00:00.000Z",
    "end": null,
-   "url": "https://www.meetup.com/the-golden-hive-community-collective/events/317233874/",
-   "cover": null,
+   "url": "https://www.meetup.com/sans-studio-paint-and-sip/events/317087927/",
+   "cover": "https://secure.meetupstatic.com/photos/event/9/9/3/6/600_536739222.jpeg",
    "place": "",
    "online": false,
    "hosts": [
-    "The Golden Hive Community Collective"
+    "Sans Studio - Stockholm Painting Workshops"
    ],
    "sources": [
     "meetup"
    ],
    "categories": [
-    "ai",
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317233100",
-   "name": "Stockholm Claude Workshop: Writing and Summarizing Fast",
-   "start": "2026-11-08T16:15:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/the-golden-hive-community-collective/events/317233100/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "The Golden Hive Community Collective"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317233833",
-   "name": "Stockholm Turn Forecasts into Income",
-   "start": "2026-11-08T18:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/the-golden-hive-community-collective/events/317233833/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "The Golden Hive Community Collective"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai",
-    "tech"
+    "games"
    ]
   },
   {
@@ -1705,7 +1702,8 @@
    "place": "Malmskillnadsgatan 46, Stockholm",
    "online": false,
    "hosts": [
-    "FrenchTech Stockholm"
+    "FrenchTech Stockholm",
+    "Justine Dutheillet de Lamothe"
    ],
    "sources": [
     "luma"
@@ -1945,6 +1943,25 @@
    ],
    "sources": [
     "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-Oyodgk9elVDjJUY",
+   "name": "Network breakfast",
+   "start": "2026-11-11T06:30:00.000Z",
+   "end": "2026-11-11T08:00:00.000Z",
+   "url": "https://luma.com/s5ivubgk",
+   "cover": "https://images.lumacdn.com/uploads/ak/da2d6833-3063-4482-9836-adfea2b54f1f.png",
+   "place": "Sveavägen 44, Stockholm",
+   "online": false,
+   "hosts": [
+    "Amalia Berglöf"
+   ],
+   "sources": [
+    "luma"
    ],
    "categories": [
     "tech"
@@ -2804,25 +2821,6 @@
    ]
   },
   {
-   "id": "meetup-317056827",
-   "name": "Objective Knowledge kap.6",
-   "start": "2026-11-16T17:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/popper-deutsch-med-vanner/events/317056827/",
-   "cover": "https://secure.meetupstatic.com/photos/event/a/b/8/f/600_534643919.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Popper & Deutsch, med vänner"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
    "id": "meetup-317142760",
    "name": "How to Build an AI Employee That Starts Today",
    "start": "2026-11-16T17:00:00.000Z",
@@ -2877,6 +2875,26 @@
    ],
    "categories": [
     "wellness"
+   ]
+  },
+  {
+   "id": "evt-qrQq3zSbEErGWW6",
+   "name": "Creative Thinking Tour: Södermalm",
+   "start": "2026-11-17T16:15:00.000Z",
+   "end": "2026-11-17T18:45:00.000Z",
+   "url": "https://luma.com/fpex1dry",
+   "cover": "https://images.lumacdn.com/uploads/la/c06d0bc3-e2aa-4548-a93b-936d242a3cdb.png",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Beata Padlo",
+    "Karin Gandini"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "tech"
    ]
   },
   {
@@ -3000,7 +3018,6 @@
     "meetup"
    ],
    "categories": [
-    "games",
     "tech"
    ]
   },
@@ -3343,7 +3360,7 @@
   },
   {
    "id": "evt-IPp1sThbmEUSIy1",
-   "name": "Bachata NYBÖRJARKURS | Måndagar | 6 veckor | Yasmin Casaca",
+   "name": "Bachata | Pardans - NYBÖRJARKURS | Måndagar | 6 veckor | Yasmin Casaca",
    "start": "2026-11-23T17:00:00.000Z",
    "end": "2027-01-18T18:00:00.000Z",
    "url": "https://luma.com/1gl852ms",
@@ -3636,25 +3653,6 @@
    ],
    "categories": [
     "arts"
-   ]
-  },
-  {
-   "id": "meetup-317225027",
-   "name": "Stockholm Hitta Långvarig Kärlek Snabbt",
-   "start": "2026-11-29T18:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/hack-together-building-ideas-into-reality/events/317225027/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Hack Together: Building Ideas Into Reality"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
    ]
   },
   {
