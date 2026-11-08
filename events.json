@@ -1,158 +1,6 @@
 {
- "updated": "2026-11-07T10:55:02+00:00",
+ "updated": "2026-11-08T11:06:23+00:00",
  "events": [
-  {
-   "id": "meetup-317236706",
-   "name": "Founders Running Club :: Stockholm",
-   "start": "2026-11-07T09:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/founders-running-club-stockholm/events/317236706/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Founders Running Club :: Stockholm"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-p0kuGkGmBNMlCEU",
-   "name": "Women’s Circle: Sound Healing",
-   "start": "2026-11-07T10:00:00.000Z",
-   "end": "2026-11-07T12:00:00.000Z",
-   "url": "https://luma.com/3t7kmvw7",
-   "cover": "https://images.lumacdn.com/uploads/wl/52af6421-bf2a-435c-937e-d2024ee0eff9.jpg",
-   "place": "Sundbyberg",
-   "online": false,
-   "hosts": [
-    "Girls in Stockholm"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "wellness"
-   ]
-  },
-  {
-   "id": "meetup-317070314",
-   "name": "Charity Art Expo n*7 ⚜️ABF-Huset",
-   "start": "2026-11-07T10:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/%EF%B8%8F-stockholm-charity-art-meetup-group/events/317070314/",
-   "cover": "https://secure.meetupstatic.com/photos/event/5/b/8/1/600_536723425.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "⚜️ Stockholm Charity Art Meetup Group"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317274707",
-   "name": "👻 WHO SAID HALLOWEEN IS OVER?",
-   "start": "2026-11-07T10:50:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/citycycle-fika-stockholm/events/317274707/",
-   "cover": "https://secure.meetupstatic.com/photos/event/6/6/b/e/600_536966302.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "CityCycle & Fika Stockholm (insta: @stockholmsociallife)"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317155599",
-   "name": "RPGs @Hötorget",
-   "start": "2026-11-07T12:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/dinner_buddies/events/317155599/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Dinner Buddies"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-316949215",
-   "name": "Epictetus, Discourses and Selected Writings - Diplomats Book Club",
-   "start": "2026-11-07T13:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/meetup-group-jcotybnr/events/316949215/",
-   "cover": "https://secure.meetupstatic.com/photos/event/9/4/c/2/600_528338082.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Diplomats (xNFx) Meetup"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "meetup-316739509",
-   "name": "Intercambio sueco español/Utbyte svenska spanska",
-   "start": "2026-11-07T13:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/los-suecanoles/events/316739509/",
-   "cover": "https://secure.meetupstatic.com/photos/event/a/a/b/d/600_498943709.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Los Suecañoles for Swedish/Spanish Language Exchange"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317243126",
-   "name": "Board game night at Ugglan Boule Bar",
-   "start": "2026-11-07T18:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/clanfall/events/317243126/",
-   "cover": "https://secure.meetupstatic.com/photos/event/c/d/5/c/600_536812572.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "CLAN FALL"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
   {
    "id": "meetup-317117653",
    "name": "Pride on the Clocktower",
@@ -208,7 +56,6 @@
     "meetup"
    ],
    "categories": [
-    "ai",
     "games"
    ]
   },
@@ -345,6 +192,25 @@
    "categories": [
     "ai",
     "tech"
+   ]
+  },
+  {
+   "id": "meetup-317273743",
+   "name": "Board game night at Ugglan Boule Bar",
+   "start": "2026-11-09T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/clanfall/events/317273743/",
+   "cover": "https://secure.meetupstatic.com/photos/event/c/d/5/c/600_536812572.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "CLAN FALL"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -661,25 +527,6 @@
    "categories": [
     "fitness",
     "running"
-   ]
-  },
-  {
-   "id": "meetup-317105123",
-   "name": "Polyglot Evening 🗣️🤩",
-   "start": "2026-11-10T18:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/stockholm-polyglot-meetup-group/events/317105123/",
-   "cover": "https://secure.meetupstatic.com/photos/event/1/f/f/c/600_521048188.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Polyglots"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
    ]
   },
   {
@@ -1466,7 +1313,6 @@
    ],
    "categories": [
     "ai",
-    "games",
     "tech"
    ]
   },
@@ -1550,6 +1396,25 @@
    ]
   },
   {
+   "id": "meetup-317108407",
+   "name": "\"Duck City\" av Lena Andersson",
+   "start": "2026-11-12T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/lasecirkel-pa-svenskalasecistockholm-literacy-meetup-group/events/317108407/",
+   "cover": null,
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Svenska Bokcirkeln"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
    "id": "evt-PuvwWQXQOj1viID",
    "name": "Orchestrating AI Agents",
    "start": "2026-11-12T17:30:00.000Z",
@@ -1567,6 +1432,26 @@
    ],
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "id": "meetup-317326858",
+   "name": "Afterwork Coding  @ Urban Deli",
+   "start": "2026-11-12T17:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/afterwork-coding/events/317326858/",
+   "cover": "https://secure.meetupstatic.com/photos/event/e/7/5/9/600_526019225.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Afterwork Coding"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games",
+    "tech"
    ]
   },
   {
@@ -1728,6 +1613,53 @@
    ]
   },
   {
+   "id": "meetup-317324459",
+   "name": "TGIF 2h intermediate badminton @Enskede Rakethall",
+   "start": "2026-11-13T17:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/sthlm-sports-outdoors/events/317324459/",
+   "cover": "https://secure.meetupstatic.com/photos/event/8/7/9/3/600_452974707.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Sports & Outdoors"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-nvLpcXQjqnL21Ut",
+   "name": "Founders Running Club :: Stockholm",
+   "start": "2026-11-14T09:00:00.000Z",
+   "end": "2026-11-14T10:30:00.000Z",
+   "url": "https://luma.com/jfrsz3b6",
+   "cover": "https://images.lumacdn.com/event-covers/ff/069227f2-e6c4-4cc2-bcb2-fef1c17e4bc3",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Founders Running Club",
+    "Gina Azaric",
+    "Marie-Louise Dahl",
+    "Lydia Faager Endrell",
+    "Simon Sund",
+    "Xiaoxiao"
+   ],
+   "sources": [
+    "luma",
+    "meetup"
+   ],
+   "categories": [
+    "fitness",
+    "running",
+    "tech"
+   ],
+   "alt_url": "https://www.meetup.com/founders-running-club-stockholm/events/317337664/"
+  },
+  {
    "id": "evt-km2KHRRHbGE6m4t",
    "name": "Brunch Edition: Vietnamese Coffee Rituals",
    "start": "2026-11-14T10:00:00.000Z",
@@ -1747,22 +1679,22 @@
    ]
   },
   {
-   "id": "meetup-317147650",
-   "name": "Sjung HU för att förändra ditt liv",
-   "start": "2026-11-14T12:00:00.000Z",
+   "id": "meetup-316739510",
+   "name": "Intercambio sueco español/Utbyte svenska spanska",
+   "start": "2026-11-14T13:00:00.000Z",
    "end": null,
-   "url": "https://www.meetup.com/stockholm-eckankar/events/317147650/",
-   "cover": "https://secure.meetupstatic.com/photos/event/e/7/e/e/600_535859374.jpeg",
+   "url": "https://www.meetup.com/los-suecanoles/events/316739510/",
+   "cover": "https://secure.meetupstatic.com/photos/event/a/a/b/d/600_498943709.jpeg",
    "place": "",
    "online": false,
    "hosts": [
-    "Stockholm mötesplats för andliga upplevelser - Eckankar"
+    "Los Suecañoles for Swedish/Spanish Language Exchange"
    ],
    "sources": [
     "meetup"
    ],
    "categories": [
-    "tech"
+    "games"
    ]
   },
   {
@@ -2120,25 +2052,6 @@
    ]
   },
   {
-   "id": "meetup-317176852",
-   "name": "Svensk-ryskt språkkafé | Кафе со шведско-русским языком",
-   "start": "2026-11-17T17:15:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/intercambio/events/317176852/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Language Exchange - STOCKHOLM"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
    "id": "evt-llgzFmRnKAW2kBq",
    "name": "WORKSHOP - Flow & Bodycontrol | Bachata Lady Styling | Fördjupningsworkshop | Yasmin Casaca",
    "start": "2026-11-17T17:30:00.000Z",
@@ -2238,7 +2151,6 @@
     "meetup"
    ],
    "categories": [
-    "games",
     "tech"
    ]
   },
@@ -2273,25 +2185,6 @@
    "online": true,
    "hosts": [
     "Grafana & Friends Virtual Meetup Group"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-316665192",
-   "name": "An Architectural Deep Dive into New CLPR (Cross-Ledger Protocol) Lab",
-   "start": "2026-11-18T16:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/lfdt-sweden/events/316665192/",
-   "cover": "https://secure.meetupstatic.com/photos/event/e/3/0/600_536283632.jpeg",
-   "place": "",
-   "online": true,
-   "hosts": [
-    "LFDT Sweden"
    ],
    "sources": [
     "meetup"
@@ -2497,6 +2390,26 @@
    ]
   },
   {
+   "id": "evt-DrDLKaeAMnTIiuQ",
+   "name": "ThirdPlace Thursday Salon; Short Film Night 🍿",
+   "start": "2026-11-19T17:30:00.000Z",
+   "end": "2026-11-19T20:00:00.000Z",
+   "url": "https://luma.com/z5m0m26f",
+   "cover": "https://images.lumacdn.com/uploads/em/fdfe0296-3ef2-48cb-86fb-389377404b5e.jpg",
+   "place": "Rödabergsgatan 11, Stockholm",
+   "online": false,
+   "hosts": [
+    "Pooyeh Mobini",
+    "Pedram Samadi"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "meetup-317062252",
    "name": "AI for Work: Build Your Own AI-Powered CRM",
    "start": "2026-11-19T18:00:00.000Z",
@@ -2532,6 +2445,26 @@
    ],
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "evt-4fkIkgUoeooRoeL",
+   "name": "Impact-frukost: Cirkulärt hantverk",
+   "start": "2026-11-20T08:00:00.000Z",
+   "end": "2026-11-20T11:00:00.000Z",
+   "url": "https://luma.com/hotzn8jm",
+   "cover": "https://images.lumacdn.com/uploads/ec/04df4d7f-1c88-41af-9db7-f630a1a473d4.jpg",
+   "place": "Regeringsgatan 65, Stockholm",
+   "online": false,
+   "hosts": [
+    "Impact Hub Stockholm"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "arts",
+    "climate"
    ]
   },
   {
@@ -2677,6 +2610,25 @@
    ]
   },
   {
+   "id": "meetup-317337052",
+   "name": "RPGs @Hötorget",
+   "start": "2026-11-22T09:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/dinner_buddies/events/317337052/",
+   "cover": null,
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Dinner Buddies"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
    "id": "meetup-317117705",
    "name": "Pride on the Clocktower",
    "start": "2026-11-22T11:00:00.000Z",
@@ -2731,6 +2683,25 @@
    ],
    "categories": [
     "games"
+   ]
+  },
+  {
+   "id": "meetup-317328372",
+   "name": "Diplomats (ENFJ, ENFP, INFJ, INFP) Fika at Teaterbaren",
+   "start": "2026-11-22T13:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/meetup-group-jcotybnr/events/317328372/",
+   "cover": "https://secure.meetupstatic.com/photos/event/9/4/c/2/600_528338082.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Diplomats (xNFx) Meetup"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai"
    ]
   },
   {
@@ -3187,6 +3158,7 @@
     "meetup"
    ],
    "categories": [
+    "games",
     "tech"
    ]
   },
@@ -3352,22 +3324,22 @@
    ]
   },
   {
-   "id": "meetup-317117707",
-   "name": "Pride on the Clocktower",
-   "start": "2026-11-29T11:00:00.000Z",
+   "id": "meetup-317337850",
+   "name": "November Writathon (Writing Marathon)",
+   "start": "2026-11-29T10:00:00.000Z",
    "end": null,
-   "url": "https://www.meetup.com/outinsthlm/events/317117707/",
-   "cover": "https://secure.meetupstatic.com/photos/event/9/1/6/d/600_536557229.jpeg",
+   "url": "https://www.meetup.com/shutupandwritestockholm/events/317337850/",
+   "cover": "https://secure.meetupstatic.com/photos/event/1/e/5/8/600_536587768.jpeg",
    "place": "",
    "online": false,
    "hosts": [
-    "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
+    "Shut Up & Write!® Stockholm"
    ],
    "sources": [
     "meetup"
    ],
    "categories": [
-    "games"
+    "tech"
    ]
   },
   {
@@ -3467,25 +3439,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "id": "meetup-317129744",
-   "name": "Replacing Azure Communication Services Without Rebuilding Your Application",
-   "start": "2026-12-02T15:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/microsoft-reactor-stockholm/events/317129744/",
-   "cover": "https://secure.meetupstatic.com/photos/event/7/9/c/f/600_536791183.jpeg",
-   "place": "",
-   "online": true,
-   "hosts": [
-    "Microsoft Reactor Stockholm"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
    ]
   },
   {
@@ -3668,6 +3621,25 @@
    ]
   },
   {
+   "id": "evt-pFxcs3GQ9KnvdZL",
+   "name": "A Happy Woman Brunch",
+   "start": "2026-12-05T10:30:00.000Z",
+   "end": "2026-12-05T13:30:00.000Z",
+   "url": "https://luma.com/q52w2wn6",
+   "cover": "https://images.lumacdn.com/uploads/n0/d8d99530-2b14-4a32-8aff-f2dbd6a04e15.png",
+   "place": "Rålambshovsleden 50, Stockholm",
+   "online": false,
+   "hosts": [
+    "Erika Tapper"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "wellness"
+   ]
+  },
+  {
    "id": "meetup-316893168",
    "name": "#500 Julbord Buffet @La Botanica, Måll of Scandinavia",
    "start": "2026-12-05T11:00:00.000Z",
@@ -3684,6 +3656,25 @@
    ],
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "meetup-317117711",
+   "name": "Pride on the Clocktower",
+   "start": "2026-12-06T11:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/outinsthlm/events/317117711/",
+   "cover": "https://secure.meetupstatic.com/photos/event/9/1/6/d/600_536557229.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -3802,8 +3793,7 @@
     "meetup"
    ],
    "categories": [
-    "ai",
-    "tech"
+    "ai"
    ]
   },
   {
