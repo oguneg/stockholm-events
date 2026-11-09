@@ -1,83 +1,6 @@
 {
- "updated": "2026-11-08T11:06:23+00:00",
+ "updated": "2026-11-09T12:36:31+00:00",
  "events": [
-  {
-   "id": "meetup-317117653",
-   "name": "Pride on the Clocktower",
-   "start": "2026-11-08T11:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/outinsthlm/events/317117653/",
-   "cover": "https://secure.meetupstatic.com/photos/event/9/1/6/d/600_536557229.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games",
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-316504548",
-   "name": "Hässelby boardgame meetup",
-   "start": "2026-11-08T12:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/stockholm-boardgames-meetup-group/events/316504548/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm (Hässelby) Boardgames Meetup Group"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-316937003",
-   "name": "Public Speaking Workshop, Sundays 2-4PM @ Folkuniversitet",
-   "start": "2026-11-08T12:55:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/sundayspeaking/events/316937003/",
-   "cover": "https://secure.meetupstatic.com/photos/event/6/a/e/600_529921710.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Sunday Speaking"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317313121",
-   "name": "Sunday MCR Mahjong in Stockholm",
-   "start": "2026-11-08T15:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/tiger-mahjong-games/events/317313121/",
-   "cover": "https://secure.meetupstatic.com/photos/event/7/1/d/5/600_535829141.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Tiger Mahjong & Games"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
   {
    "id": "meetup-317250978",
    "name": "Body doubling Online - Studera tillsammans ",
@@ -192,25 +115,6 @@
    "categories": [
     "ai",
     "tech"
-   ]
-  },
-  {
-   "id": "meetup-317273743",
-   "name": "Board game night at Ugglan Boule Bar",
-   "start": "2026-11-09T18:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/clanfall/events/317273743/",
-   "cover": "https://secure.meetupstatic.com/photos/event/c/d/5/c/600_536812572.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "CLAN FALL"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
    ]
   },
   {
@@ -530,6 +434,26 @@
    ]
   },
   {
+   "id": "meetup-317105123",
+   "name": "Polyglot Evening - The Art of Being a Polyglot 🗣️🌎",
+   "start": "2026-11-10T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/stockholm-polyglot-meetup-group/events/317105123/",
+   "cover": "https://secure.meetupstatic.com/photos/event/1/f/f/c/600_521048188.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Polyglots"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games",
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-317077139",
    "name": "Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!",
    "start": "2026-11-10T18:00:00.000Z",
@@ -727,6 +651,25 @@
    ]
   },
   {
+   "id": "meetup-316476671",
+   "name": "Weekly Open Board Game Evening (every Wednesday)",
+   "start": "2026-11-11T15:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/hop-vine-events/events/316476671/",
+   "cover": "https://secure.meetupstatic.com/photos/event/5/f/f/1/600_530484561.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Hop & Vine Events"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
    "id": "evt-Zf065QfgEFDlRob",
    "name": "Grok Bot Stockholm Meetup x Aalto Founder School",
    "start": "2026-11-11T16:00:00.000Z",
@@ -738,6 +681,26 @@
    "hosts": [
     "Hitesh Chander Monga",
     "Founder School"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-kkgGwIbE4Yfj1cd",
+   "name": "Women In AI Safety AW",
+   "start": "2026-11-11T16:00:00.000Z",
+   "end": "2026-11-11T17:30:00.000Z",
+   "url": "https://luma.com/e3hvu44e",
+   "cover": "https://images.lumacdn.com/gallery-images/image-gen/diwali/inflatable-matte-a-round-rangoli-flower-pattern.png",
+   "place": "Scheelegatan 2, Stockholm",
+   "online": false,
+   "hosts": [
+    "SOCHE",
+    "Naureen Nayyar"
    ],
    "sources": [
     "luma"
@@ -772,7 +735,7 @@
    "start": "2026-11-11T16:30:00.000Z",
    "end": "2026-11-11T19:30:00.000Z",
    "url": "https://luma.com/n8n-qyiw",
-   "cover": "https://images.lumacdn.com/uploads/zq/127409e1-eb37-4ee3-93a2-f81c11aac6ca.png",
+   "cover": "https://images.lumacdn.com/uploads/mg/139a22e6-052b-46ea-aa0f-529bdfcadb61.png",
    "place": "Odengatan 81, Stockholm",
    "online": false,
    "hosts": [
@@ -905,25 +868,6 @@
    "categories": [
     "ai",
     "tech"
-   ]
-  },
-  {
-   "id": "meetup-317289676",
-   "name": "Fear",
-   "start": "2026-11-11T17:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/psychology-discussion-fika/events/317289676/",
-   "cover": "https://secure.meetupstatic.com/photos/event/7/7/5/e/600_533970558.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Psychology Discussion Fika"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
    ]
   },
   {
@@ -1189,7 +1133,8 @@
     "Antler Nordics",
     "Martin Falck",
     "Joseph Michael",
-    "Erik Bergkvist"
+    "Erik Bergkvist",
+    "Tobias Bengtsdahl"
    ],
    "sources": [
     "luma"
@@ -1374,6 +1319,25 @@
    "categories": [
     "ai",
     "tech"
+   ]
+  },
+  {
+   "id": "meetup-317316832",
+   "name": "Board game night at Ugglan Boule Bar, 6 PM",
+   "start": "2026-11-12T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/clanfall/events/317316832/",
+   "cover": "https://secure.meetupstatic.com/photos/event/c/d/5/c/600_536812572.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "CLAN FALL"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -1575,25 +1539,6 @@
    ]
   },
   {
-   "id": "evt-k5ioSIRDLFSJImR",
-   "name": "The power of your MIND - Hypnosis Show",
-   "start": "2026-11-13T17:00:00.000Z",
-   "end": "2026-11-13T19:30:00.000Z",
-   "url": "https://luma.com/bdk6sacx",
-   "cover": "https://images.lumacdn.com/uploads/1p/23a2c052-5c34-44bc-b4f1-56196194e5d8.jpg",
-   "place": "Gävlegatan 18, Stockholm",
-   "online": false,
-   "hosts": [
-    "Dream to Reality"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts"
-   ]
-  },
-  {
    "id": "meetup-317121035",
    "name": "Friday Night Magic",
    "start": "2026-11-13T17:00:00.000Z",
@@ -1628,7 +1573,8 @@
     "meetup"
    ],
    "categories": [
-    "ai"
+    "ai",
+    "games"
    ]
   },
   {
@@ -1752,6 +1698,26 @@
     "meetup"
    ],
    "categories": [
+    "games",
+    "tech"
+   ]
+  },
+  {
+   "id": "meetup-316937007",
+   "name": "Public Speaking Workshop, Sundays 2-4PM @ Folkuniversitet",
+   "start": "2026-11-15T12:55:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/sundayspeaking/events/316937007/",
+   "cover": "https://secure.meetupstatic.com/photos/event/6/a/e/600_529921710.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Sunday Speaking"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
     "games"
    ]
   },
@@ -1790,7 +1756,6 @@
     "meetup"
    ],
    "categories": [
-    "ai",
     "games"
    ]
   },
@@ -2219,7 +2184,7 @@
    "start": "2026-11-18T16:30:00.000Z",
    "end": "2026-11-18T18:30:00.000Z",
    "url": "https://luma.com/qhr0r6yj",
-   "cover": "https://images.lumacdn.com/uploads/1i/49d951b2-65ae-4d16-9365-f083df424c56.png",
+   "cover": "https://images.lumacdn.com/uploads/vp/f4cb2941-142e-433c-95f8-a98482c6de74.png",
    "place": "Norrlandsgatan 18, 5tr, Stockholm",
    "online": false,
    "hosts": [
@@ -2568,6 +2533,26 @@
    ]
   },
   {
+   "id": "meetup-317338726",
+   "name": "Creativity & Computation ; hi-5.cc - e8",
+   "start": "2026-11-21T12:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/creativity-computation-hi-5-cc/events/317338726/",
+   "cover": "https://secure.meetupstatic.com/photos/event/2/1/e/1/600_536408673.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Creativity & Computation - hi-5.cc"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games",
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-317281032",
    "name": "Social Reading & Boardgames @Hötorget",
    "start": "2026-11-21T12:30:00.000Z",
@@ -2801,6 +2786,25 @@
    ]
   },
   {
+   "id": "meetup-317354202",
+   "name": "2 Hours to Freedom: Build Your Personal Brand with AI",
+   "start": "2026-11-23T22:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/startup-guidance/events/317354202/",
+   "cover": null,
+   "place": "",
+   "online": true,
+   "hosts": [
+    "Swedish Startup Launchpad"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "evt-k58jfd5nb8B8NoA",
    "name": "Proxify Talks x Microsoft: Enter the Agentic Enterprise Era | Where Agents Go to Work",
    "start": "2026-11-24T07:15:00.000Z",
@@ -3025,11 +3029,12 @@
    "start": "2026-11-25T12:30:00.000Z",
    "end": "2026-11-25T18:00:00.000Z",
    "url": "https://luma.com/Verge-retail",
-   "cover": "https://images.lumacdn.com/uploads/ek/6d4a7d54-58e6-4014-acc7-0daf42adeea1.jpg",
+   "cover": "https://images.lumacdn.com/uploads/c2/54620d79-361f-454c-bb12-a708324ffe22.png",
    "place": "Malmskillnadsgatan 44a, Stockholm",
    "online": false,
    "hosts": [
-    "Ebba Brundin"
+    "Ebba Brundin",
+    "Tim Stephens"
    ],
    "sources": [
     "luma"
@@ -3158,6 +3163,7 @@
     "meetup"
    ],
    "categories": [
+    "ai",
     "games",
     "tech"
    ]
@@ -3178,6 +3184,7 @@
     "meetup"
    ],
    "categories": [
+    "games",
     "tech"
    ]
   },
@@ -3343,6 +3350,25 @@
    ]
   },
   {
+   "id": "meetup-317117707",
+   "name": "Pride on the Clocktower",
+   "start": "2026-11-29T11:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/outinsthlm/events/317117707/",
+   "cover": "https://secure.meetupstatic.com/photos/event/9/1/6/d/600_536557229.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
    "id": "evt-Rg0oN6mHRdbyw2P",
    "name": "Healthy Hair Day",
    "start": "2026-11-29T13:00:00.000Z",
@@ -3482,6 +3508,23 @@
    ]
   },
   {
+   "id": "evt-qKDnCs4sRXEMZeN",
+   "name": "Architecting and Integrating Task-Specific AI Agents",
+   "start": "2026-12-03T08:00:00.000Z",
+   "end": "2026-12-03T10:30:00.000Z",
+   "url": "https://luma.com/uc0halch",
+   "cover": "https://images.lumacdn.com/uploads/zi/911099dd-484e-42b6-860a-3047df22b23d.png",
+   "place": "Dag Hammarskjölds väg 10, Stockholm",
+   "online": false,
+   "hosts": [],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "evt-BZpLXJ4XqI8bmno",
    "name": "#43 - AI & Gaming Industry",
    "start": "2026-12-03T16:00:00.000Z",
@@ -3543,25 +3586,6 @@
    ]
   },
   {
-   "id": "meetup-312669070",
-   "name": "Stockholm Bitcoin Meetup #55",
-   "start": "2026-12-03T16:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/swedish-bitcoin-meetups/events/312669070/",
-   "cover": "https://secure.meetupstatic.com/photos/event/b/7/d/9/600_507407065.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Swedish Bitcoin Meetups"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
    "id": "meetup-316402985",
    "name": "Kong x Vivicta Meetup: Building on Kong in Stockholm",
    "start": "2026-12-03T17:00:00.000Z",
@@ -3578,6 +3602,26 @@
    ],
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "evt-uA3bCLXjok1NOiq",
+   "name": "IXDF Field Trip: Stockholm Christmas Lights Quest",
+   "start": "2026-12-04T16:00:00.000Z",
+   "end": "2026-12-04T19:00:00.000Z",
+   "url": "https://luma.com/zwpsiprt",
+   "cover": "https://images.unsplash.com/photo-1641741597532-72ac608ba455?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxNjJ8fHN0b2NraG9sbXxlbnwwfHx8fDE3OTM4MjQ1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "place": "Kulturhuset, Sergels Torg 3, Stockholm",
+   "online": false,
+   "hosts": [
+    "Laura Wiegand",
+    "Emilija Manevska"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -3675,6 +3719,25 @@
    ],
    "categories": [
     "games"
+   ]
+  },
+  {
+   "id": "meetup-317338769",
+   "name": "Creativity & Computation ; hi-5.cc - e9",
+   "start": "2026-12-06T11:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/creativity-computation-hi-5-cc/events/317338769/",
+   "cover": "https://secure.meetupstatic.com/photos/event/2/1/e/1/600_536408673.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Creativity & Computation - hi-5.cc"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
    ]
   },
   {
@@ -3813,6 +3876,25 @@
    ],
    "categories": [
     "arts"
+   ]
+  },
+  {
+   "id": "meetup-317343747",
+   "name": "Hässelby boardgame meetup",
+   "start": "2026-12-13T12:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/stockholm-boardgames-meetup-group/events/317343747/",
+   "cover": null,
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm (Hässelby) Boardgames Meetup Group"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
