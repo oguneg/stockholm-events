@@ -1,168 +1,24 @@
 {
- "updated": "2026-11-20T12:34:05+00:00",
+ "updated": "2026-11-21T12:13:27+00:00",
  "events": [
   {
-   "id": "meetup-317394845",
-   "name": "Agents in software development",
-   "start": "2026-11-20T11:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/stockholm-java-user-group/events/317394845/",
-   "cover": "https://secure.meetupstatic.com/photos/event/a/3/7/3/600_537101843.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Java User Group"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai",
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317460532",
-   "name": "Grafana Campfire🔥 Introduction to Grafana Notebooks (Community Call - Nov 2026)",
-   "start": "2026-11-20T14:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/grafana-friends-virtual-meetup-group/events/317460532/",
-   "cover": "https://secure.meetupstatic.com/photos/event/d/4/b/d/600_537174461.jpeg",
-   "place": "",
-   "online": true,
-   "hosts": [
-    "Grafana & Friends Virtual Meetup Group"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai",
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-316864684",
-   "name": "The Life of a Snackbot - the improvised play + mingle",
-   "start": "2026-11-20T16:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/sthlm-art-improvised-theatre/events/316864684/",
-   "cover": "https://secure.meetupstatic.com/photos/event/4/3/9/3/600_537077299.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "STHLM - Art & Improvised Theatre"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "gametown-1kpami6ueopdm748uskv3st2l3-20261120",
-   "name": "🎲 Board Game Night with ION Game Design #8",
-   "start": "2026-11-20T16:30:00.000Z",
-   "end": "2026-11-20T20:00:00.000Z",
-   "allDay": false,
-   "url": "https://board-game-night-with-ion-game-design-8.confetti.events/",
-   "cover": null,
-   "place": "Game Town, Magnus Ladulåsgatan 65",
-   "online": false,
-   "hosts": [],
-   "sources": [
-    "gametown"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317425994",
-   "name": "TGIF 2h intermediate badminton @Enskede Rakethall",
-   "start": "2026-11-20T17:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/sthlm-sports-outdoors/events/317425994/",
-   "cover": "https://secure.meetupstatic.com/photos/event/8/7/9/3/600_452974707.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Sports & Outdoors"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "evt-yPiRBfharErp55W",
-   "name": "Sonic Sessions - an open mic for music",
-   "start": "2026-11-20T20:00:00.000Z",
-   "end": "2026-11-20T22:00:00.000Z",
-   "url": "https://luma.com/7wbv2w6y",
-   "cover": "https://images.lumacdn.com/uploads/rp/db118133-cbb3-4364-a485-76ac11e97b18.png",
-   "place": "Vegagatan 17, Stockholm",
-   "online": false,
-   "hosts": [
-    "Tamara Maasdam"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts"
-   ]
-  },
-  {
-   "id": "evt-fvYyKQfySIWs1G4",
-   "name": "Women's Health, Breathwork & Brunch",
-   "start": "2026-11-21T08:00:00.000Z",
-   "end": "2026-11-21T11:30:00.000Z",
-   "url": "https://luma.com/yj53fm12",
-   "cover": "https://images.lumacdn.com/uploads/8j/b9621cdf-8469-4d46-9a1a-6a0a7c9bcf18.jpg",
-   "place": "Vasaplan 7, Stockholm",
-   "online": false,
-   "hosts": [
-    "Anna Hagström",
-    "André Wassberg"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "wellness"
-   ]
-  },
-  {
-   "id": "evt-nvLpcXQjqnL21Ut",
+   "id": "meetup-317438286",
    "name": "Founders Running Club :: Stockholm",
    "start": "2026-11-21T09:00:00.000Z",
-   "end": "2026-11-21T10:30:00.000Z",
-   "url": "https://luma.com/jfrsz3b6",
-   "cover": "https://images.lumacdn.com/event-covers/ff/069227f2-e6c4-4cc2-bcb2-fef1c17e4bc3",
-   "place": "Stockholm",
+   "end": null,
+   "url": "https://www.meetup.com/founders-running-club-stockholm/events/317438286/",
+   "cover": null,
+   "place": "",
    "online": false,
    "hosts": [
-    "Founders Running Club",
-    "Gina Azaric",
-    "Marie-Louise Dahl",
-    "Lydia Faager Endrell",
-    "Simon Sund",
-    "Xiaoxiao"
+    "Founders Running Club :: Stockholm"
    ],
    "sources": [
-    "luma",
     "meetup"
    ],
    "categories": [
-    "fitness",
-    "running",
     "tech"
-   ],
-   "alt_url": "https://www.meetup.com/founders-running-club-stockholm/events/317438286/"
+   ]
   },
   {
    "id": "meetup-317453502",
@@ -520,6 +376,25 @@
    ]
   },
   {
+   "id": "meetup-317473497",
+   "name": "Sunday 2h intermediate badminton @Enskede Rakethall",
+   "start": "2026-11-22T17:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/sthlm-sports-outdoors/events/317473497/",
+   "cover": "https://secure.meetupstatic.com/photos/event/8/7/9/3/600_452974707.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Sports & Outdoors"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "evt-qoXOSywtNbBPgDy",
    "name": "Bachata Ladystyling i Vega | NYBÖRJARE - Söndagar | 7 veckor | Yasmin Casaca",
    "start": "2026-11-22T18:00:00.000Z",
@@ -575,6 +450,25 @@
    ],
    "categories": [
     "ai"
+   ]
+  },
+  {
+   "id": "meetup-317150559",
+   "name": "@@Back in a cafe@@ Shogi in Stockholm",
+   "start": "2026-11-23T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/japanese-chess-in-stockholm/events/317150559/",
+   "cover": null,
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Japanese Chess in Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -891,7 +785,8 @@
     "meetup"
    ],
    "categories": [
-    "ai"
+    "ai",
+    "tech"
    ]
   },
   {
@@ -1159,6 +1054,25 @@
    ]
   },
   {
+   "id": "evt-BzE3yDuZtVp9bze",
+   "name": "Humanitarian Engineering – Collaboration Lecture EWB Sweden x Médecins Sans Frontières 25/11",
+   "start": "2026-11-25T16:30:00.000Z",
+   "end": "2026-11-25T18:00:00.000Z",
+   "url": "https://luma.com/ufbcy32l",
+   "cover": "https://images.lumacdn.com/uploads/k0/2bdbb7ff-47cc-4104-91f4-0b3bb0d232b3.png",
+   "place": "Teknikringen 1, Stockholm",
+   "online": false,
+   "hosts": [
+    "Bruno Jasvin"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-317379149",
    "name": "Data analysis and visualisation with King",
    "start": "2026-11-25T16:30:00.000Z",
@@ -1175,7 +1089,6 @@
    ],
    "categories": [
     "ai",
-    "games",
     "tech"
    ]
   },
@@ -1736,6 +1649,31 @@
    ]
   },
   {
+   "id": "evt-nvLpcXQjqnL21Ut",
+   "name": "Founders Running Club :: Stockholm",
+   "start": "2026-11-28T09:00:00.000Z",
+   "end": "2026-11-28T10:30:00.000Z",
+   "url": "https://luma.com/jfrsz3b6",
+   "cover": "https://images.lumacdn.com/event-covers/ff/069227f2-e6c4-4cc2-bcb2-fef1c17e4bc3",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Founders Running Club",
+    "Gina Azaric",
+    "Marie-Louise Dahl",
+    "Lydia Faager Endrell",
+    "Simon Sund",
+    "Xiaoxiao"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "fitness",
+    "running"
+   ]
+  },
+  {
    "id": "meetup-317458938",
    "name": "Ferris' Fika Forum #32",
    "start": "2026-11-28T09:00:00.000Z",
@@ -1752,6 +1690,27 @@
    ],
    "categories": [
     "games",
+    "tech"
+   ]
+  },
+  {
+   "id": "evt-PEMI5llG5zXSbLs",
+   "name": "Learn FPV Drone piloting",
+   "start": "2026-11-28T11:00:00.000Z",
+   "end": "2026-11-28T16:00:00.000Z",
+   "url": "https://luma.com/g1i0xzmr",
+   "cover": "https://images.lumacdn.com/uploads/fe/8e3fb974-e186-4798-8a4e-e13506d05043.jpg",
+   "place": "Huddinge",
+   "online": false,
+   "hosts": [
+    "Jonatan H",
+    "A Tv",
+    "Wille Å"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
     "tech"
    ]
   },
@@ -1873,6 +1832,26 @@
    ]
   },
   {
+   "id": "evt-vihDpjOSrUNtFCY",
+   "name": "Girls' Book Swap: Books, Coffee & New Friendships 📚",
+   "start": "2026-11-29T12:00:00.000Z",
+   "end": "2026-12-24T14:00:00.000Z",
+   "url": "https://luma.com/uep2hzlv",
+   "cover": "https://images.lumacdn.com/uploads/4j/1a2a2f19-c76d-4295-8b1b-e07c54650f78.jpg",
+   "place": "Solna",
+   "online": false,
+   "hosts": [
+    "Girls in Stockholm"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "arts",
+    "books"
+   ]
+  },
+  {
    "id": "evt-Rg0oN6mHRdbyw2P",
    "name": "Healthy Hair Day",
    "start": "2026-11-29T13:00:00.000Z",
@@ -1888,8 +1867,7 @@
     "luma"
    ],
    "categories": [
-    "family",
-    "wellness"
+    "arts"
    ]
   },
   {
@@ -1983,25 +1961,6 @@
    "online": false,
    "hosts": [
     "Stockholm Japanese Riichi Mahjong Meetups 🦆 Ankan Club"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317150570",
-   "name": "@@Back in a cafe@@ Shogi in Stockholm",
-   "start": "2026-11-30T16:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/japanese-chess-in-stockholm/events/317150570/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Japanese Chess in Stockholm"
    ],
    "sources": [
     "meetup"
@@ -2331,6 +2290,25 @@
    ]
   },
   {
+   "id": "meetup-317251829",
+   "name": "Svensk-ryskt språkkafé | Кафе со шведско-русским языком",
+   "start": "2026-12-01T17:15:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/intercambio/events/317251829/",
+   "cover": null,
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Language Exchange - STOCKHOLM"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-317103654",
    "name": "What the Heck Is Fabric IQ?",
    "start": "2026-12-02T01:00:00.000Z",
@@ -2346,7 +2324,6 @@
     "meetup"
    ],
    "categories": [
-    "ai",
     "tech"
    ]
   },
@@ -2930,6 +2907,44 @@
    ]
   },
   {
+   "id": "meetup-317430139",
+   "name": "Sichuan Mahjong Night: A Classic Chinese Social Game",
+   "start": "2026-12-04T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/tiger-mahjong-games/events/317430139/",
+   "cover": "https://secure.meetupstatic.com/photos/event/7/3/6/9/600_535829545.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Tiger Mahjong & Games"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-317395906",
+   "name": "Improvised play + mingle",
+   "start": "2026-12-04T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/sthlm-art-improvised-theatre/events/317395906/",
+   "cover": "https://secure.meetupstatic.com/photos/event/a/7/b/1/600_537102929.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "STHLM - Art & Improvised Theatre"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "gametown-3soo5eb1u89o9v79vchccogfuq-20261204",
    "name": "🎲 Board Game Night with ION Game Design #9",
    "start": "2026-12-04T16:30:00.000Z",
@@ -3161,6 +3176,7 @@
     "meetup"
    ],
    "categories": [
+    "games",
     "tech"
    ]
   },
@@ -3355,6 +3371,7 @@
     "meetup"
    ],
    "categories": [
+    "ai",
     "tech"
    ]
   },
