@@ -1,227 +1,6 @@
 {
- "updated": "2026-11-21T12:13:27+00:00",
+ "updated": "2026-11-22T12:20:15+00:00",
  "events": [
-  {
-   "id": "meetup-317438286",
-   "name": "Founders Running Club :: Stockholm",
-   "start": "2026-11-21T09:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/founders-running-club-stockholm/events/317438286/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Founders Running Club :: Stockholm"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317453502",
-   "name": "Free Online Breathwork & Nervous System Reset",
-   "start": "2026-11-21T09:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/stockholm-breathwork-community/events/317453502/",
-   "cover": null,
-   "place": "",
-   "online": true,
-   "hosts": [
-    "Stockholm Breathwork Community"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-8um5a2JCPn24GgN",
-   "name": "AI Safety Day Sweden 2026",
-   "start": "2026-11-21T11:00:00.000Z",
-   "end": "2026-11-21T17:00:00.000Z",
-   "url": "https://luma.com/6oz9b743",
-   "cover": "https://images.lumacdn.com/uploads/0m/9220e118-a62d-4b1b-a702-fb343669f66f.png",
-   "place": "Sköndal",
-   "online": false,
-   "hosts": [
-    "Paul Ruppelt",
-    "Kelvin Soen",
-    "Aleksandra Midor",
-    "Emil",
-    "Lucian Österberg"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "evt-CXfwpVjX310Upq1",
-   "name": "FPV Drone Assembly Workshop with STFU Tacticats",
-   "start": "2026-11-21T11:00:00.000Z",
-   "end": "2026-11-21T17:00:00.000Z",
-   "url": "https://luma.com/s7r3z3nw",
-   "cover": "https://images.lumacdn.com/event-covers/lq/96afdc34-e7ee-44bd-bc04-1afae2cf00d4.png",
-   "place": "Stockholm",
-   "online": false,
-   "hosts": [
-    "Jonatan H",
-    "Iryna Bokova",
-    "Alexander Jägerlind Puuri"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317338726",
-   "name": "Creativity & Computation ; hi-5.cc - e8",
-   "start": "2026-11-21T12:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/creativity-computation-hi-5-cc/events/317338726/",
-   "cover": "https://secure.meetupstatic.com/photos/event/2/1/e/1/600_536408673.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Creativity & Computation - hi-5.cc"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games",
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317281032",
-   "name": "Social Reading & Boardgames @Hötorget",
-   "start": "2026-11-21T12:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/dinner_buddies/events/317281032/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Dinner Buddies"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-316739511",
-   "name": "Intercambio sueco español/Utbyte svenska spanska",
-   "start": "2026-11-21T13:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/los-suecanoles/events/316739511/",
-   "cover": "https://secure.meetupstatic.com/photos/event/a/a/b/d/600_498943709.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Los Suecañoles for Swedish/Spanish Language Exchange"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "evt-mL1J03ESl2Vf5lI",
-   "name": "LOKT #011",
-   "start": "2026-11-21T14:00:00.000Z",
-   "end": "2026-11-21T18:00:00.000Z",
-   "url": "https://luma.com/nzo81ed2",
-   "cover": "https://images.lumacdn.com/uploads/7x/0135a0ec-91bc-44b7-ba2a-607a92e54153.jpg",
-   "place": "Mäster Samuelsgatan 42, Stockholm",
-   "online": false,
-   "hosts": [
-    "Sara Lorda"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "fitness",
-    "running"
-   ]
-  },
-  {
-   "id": "evt-tNuqcyCyCfKQy3C",
-   "name": "DevDay Exchange Community Workshop: Stockholm",
-   "start": "2026-11-21T16:30:00.000Z",
-   "end": "2026-11-21T19:30:00.000Z",
-   "url": "https://luma.com/8bo9tr8d",
-   "cover": "https://images.lumacdn.com/uploads/hf/fac53457-a548-4d01-ab24-19542468fd83.jpg",
-   "place": "Stockholm",
-   "online": false,
-   "hosts": [
-    "Shuang Zheng",
-    "Rhiannon Payne",
-    "Pauline P. Narvas",
-    "Magnus Gille",
-    "Philip Andersson"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "meetup-317426326",
-   "name": "Breakfast @Kaferang City, near Hötorget",
-   "start": "2026-11-22T08:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/dinner_buddies/events/317426326/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Dinner Buddies"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317337052",
-   "name": "RPGs @Hötorget",
-   "start": "2026-11-22T09:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/dinner_buddies/events/317337052/",
-   "cover": null,
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Dinner Buddies"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
   {
    "id": "evt-9V17yppl3THUbTS",
    "name": "Watoto Arts x amandasmaker",
@@ -296,6 +75,7 @@
     "meetup"
    ],
    "categories": [
+    "ai",
     "games"
    ]
   },
@@ -316,25 +96,6 @@
    ],
    "categories": [
     "games"
-   ]
-  },
-  {
-   "id": "meetup-317328372",
-   "name": "Diplomats (ENFJ, ENFP, INFJ, INFP) Fika at Teaterbaren",
-   "start": "2026-11-22T13:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/meetup-group-jcotybnr/events/317328372/",
-   "cover": "https://secure.meetupstatic.com/photos/event/9/4/c/2/600_528338082.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Diplomats (xNFx) Meetup"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai"
    ]
   },
   {
@@ -828,26 +589,6 @@
    ]
   },
   {
-   "id": "meetup-317192031",
-   "name": "Accelerating deployment for the AI dev lifecycle",
-   "start": "2026-11-24T18:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/platform-engineers-stockholm/events/317192031/",
-   "cover": null,
-   "place": "",
-   "online": true,
-   "hosts": [
-    "Platform Engineers Stockholm"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai",
-    "tech"
-   ]
-  },
-  {
    "id": "meetup-317105690",
    "name": "Polyglot Evening: What Makes a Language Powerful? 🏆💰🗺️",
    "start": "2026-11-24T18:00:00.000Z",
@@ -865,6 +606,25 @@
    "categories": [
     "ai",
     "games",
+    "tech"
+   ]
+  },
+  {
+   "id": "meetup-317192031",
+   "name": "Accelerating deployment for the AI dev lifecycle",
+   "start": "2026-11-24T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/platform-engineers-stockholm/events/317192031/",
+   "cover": null,
+   "place": "",
+   "online": true,
+   "hosts": [
+    "Platform Engineers Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
     "tech"
    ]
   },
@@ -1089,6 +849,45 @@
    ],
    "categories": [
     "ai",
+    "games",
+    "tech"
+   ]
+  },
+  {
+   "id": "meetup-317297062",
+   "name": "Bortom hållbart ledarskap – att leda för en livskraftig framtid",
+   "start": "2026-11-25T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/klustret/events/317297062/",
+   "cover": "https://secure.meetupstatic.com/photos/event/b/d/2/a/600_536988426.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Klustret"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-317529292",
+   "name": "0x16 Hack The Box Meetup: Stockholm",
+   "start": "2026-11-25T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/hack-the-box-meetup-sweden/events/317529292/",
+   "cover": "https://secure.meetupstatic.com/photos/event/5/9/5/2/600_536182866.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Hack The Box Meetup: Stockholm, SE"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
     "tech"
    ]
   },
@@ -1529,8 +1328,27 @@
    ]
   },
   {
+   "id": "meetup-317524075",
+   "name": "Thursday 2h intermediate badminton @Enskede Rakethall",
+   "start": "2026-11-26T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/sthlm-sports-outdoors/events/317524075/",
+   "cover": "https://secure.meetupstatic.com/photos/event/8/7/9/3/600_452974707.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Sports & Outdoors"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "meetup-316240356",
-   "name": "Practical philosophy club Stockholm 🇸🇪",
+   "name": " Are there any SUPERNATURAL powers or not?",
    "start": "2026-11-26T18:00:00.000Z",
    "end": null,
    "url": "https://www.meetup.com/practical-philosophy-club-stockholm/events/316240356/",
@@ -1544,7 +1362,6 @@
     "meetup"
    ],
    "categories": [
-    "ai",
     "games"
    ]
   },
@@ -1666,12 +1483,15 @@
     "Xiaoxiao"
    ],
    "sources": [
-    "luma"
+    "luma",
+    "meetup"
    ],
    "categories": [
     "fitness",
-    "running"
-   ]
+    "running",
+    "tech"
+   ],
+   "alt_url": "https://www.meetup.com/founders-running-club-stockholm/events/317536013/"
   },
   {
    "id": "meetup-317458938",
@@ -1766,6 +1586,25 @@
    "online": false,
    "hosts": [
     "Tiger Mahjong & Games"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-316739514",
+   "name": "Intercambio sueco español/Utbyte svenska spanska",
+   "start": "2026-11-28T13:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/los-suecanoles/events/316739514/",
+   "cover": "https://secure.meetupstatic.com/photos/event/a/a/b/d/600_498943709.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Los Suecañoles for Swedish/Spanish Language Exchange"
    ],
    "sources": [
     "meetup"
@@ -2150,6 +1989,26 @@
    ]
   },
   {
+   "id": "evt-7EQY4UxCHQyLW6v",
+   "name": "Book Club: Fruit Fly By Josh Silver",
+   "start": "2026-12-01T16:30:00.000Z",
+   "end": "2026-12-01T18:30:00.000Z",
+   "url": "https://luma.com/6ehi2aii",
+   "cover": "https://images.lumacdn.com/uploads/rl/2fb0a57e-3e41-4ca9-9832-dbca855d0ef9.jpg",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Kirsty"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "arts",
+    "books"
+   ]
+  },
+  {
    "id": "evt-13WQRcXesOAzgVr",
    "name": "RED BULL RUNFLY CLUB",
    "start": "2026-12-01T16:30:00.000Z",
@@ -2508,7 +2367,6 @@
     "meetup"
    ],
    "categories": [
-    "ai",
     "tech"
    ]
   },
@@ -2729,25 +2587,6 @@
    ],
    "categories": [
     "ai"
-   ]
-  },
-  {
-   "id": "meetup-312669070",
-   "name": "Stockholm Bitcoin Meetup #55",
-   "start": "2026-12-03T16:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/swedish-bitcoin-meetups/events/312669070/",
-   "cover": "https://secure.meetupstatic.com/photos/event/b/7/d/9/600_507407065.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Swedish Bitcoin Meetups"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
    ]
   },
   {
@@ -3411,7 +3250,8 @@
     "meetup"
    ],
    "categories": [
-    "ai"
+    "ai",
+    "tech"
    ]
   },
   {
@@ -3530,7 +3370,7 @@
     "meetup"
    ],
    "categories": [
-    "tech"
+    "ai"
    ]
   },
   {
@@ -3979,6 +3819,25 @@
    ],
    "categories": [
     "games"
+   ]
+  },
+  {
+   "id": "evt-JE128tMuyor9zGE",
+   "name": "The Reset: A Year-End Journaling Circle",
+   "start": "2026-12-17T17:00:00.000Z",
+   "end": "2026-12-17T18:30:00.000Z",
+   "url": "https://luma.com/tvehismw",
+   "cover": "https://images.lumacdn.com/gallery-images/image-gen/christmas/water-brush-pool-child-gazing-wide-eyed-at-a-lit-christmas-tree.png",
+   "place": "Sveavägen 96, Stockholm",
+   "online": false,
+   "hosts": [
+    "Natalie Ljungwaldh Kim"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "wellness"
    ]
   },
   {
