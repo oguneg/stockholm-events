@@ -1,464 +1,6 @@
 {
- "updated": "2026-11-26T13:37:00+00:00",
+ "updated": "2026-11-27T13:32:34+00:00",
  "events": [
-  {
-   "id": "evt-FlHUNyICJrsI6j4",
-   "name": "Boksläpp: Kulturens organisering och ekonomi",
-   "start": "2026-11-26T14:00:00.000Z",
-   "end": "2026-11-26T16:00:00.000Z",
-   "url": "https://luma.com/s4w9avyk",
-   "cover": "https://images.lumacdn.com/uploads/qo/487f9638-1310-4303-abc6-886a89ebd5bb.webp",
-   "place": "Huddinge",
-   "online": false,
-   "hosts": [
-    "H&ART Incubator"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts",
-    "books"
-   ]
-  },
-  {
-   "id": "evt-5DfPi5it5fdr5e6",
-   "name": "Sips & Styles: Winter Warm-Up Edition",
-   "start": "2026-11-26T15:30:00.000Z",
-   "end": "2026-11-26T18:00:00.000Z",
-   "url": "https://luma.com/bkr97sab",
-   "cover": "https://images.lumacdn.com/uploads/p6/99b0ebaa-1ac8-41ee-a897-390472f0bd65.jpg",
-   "place": "Swedenborgsgatan 2, Stockholm",
-   "online": false,
-   "hosts": [
-    "Green Little Heart"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts",
-    "climate"
-   ]
-  },
-  {
-   "id": "meetup-317408016",
-   "name": "Agentic alerting with Assistant Watchers (The Context Window #08)",
-   "start": "2026-11-26T15:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/grafana-friends-virtual-meetup-group/events/317408016/",
-   "cover": "https://secure.meetupstatic.com/photos/event/2/7/f/8/600_536650232.jpeg",
-   "place": "",
-   "online": true,
-   "hosts": [
-    "Grafana & Friends Virtual Meetup Group"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai",
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-bkYKA3hqowUTenE",
-   "name": "NEA Stockholm 26/11",
-   "start": "2026-11-26T16:00:00.000Z",
-   "end": "2026-11-26T18:00:00.000Z",
-   "url": "https://luma.com/5wbt40mq",
-   "cover": "https://images.lumacdn.com/uploads/ip/c261b0e2-83ec-45b7-9c2e-2389c0ac11f4.jpg",
-   "place": "Rålambsvägen 17, Stockholm",
-   "online": false,
-   "hosts": [
-    "Maria Windna",
-    "Jenny Andersson",
-    "Developers Bay"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "evt-0THaOEStTBan1cx",
-   "name": "Connect Pitch Meetup / AW | November 2026 - 2nd Edition",
-   "start": "2026-11-26T16:00:00.000Z",
-   "end": "2026-11-26T19:00:00.000Z",
-   "url": "https://luma.com/v00g2gq7",
-   "cover": "https://images.lumacdn.com/uploads/xh/d25f8a48-4a00-44a7-8584-f7af7ed29b3c.png",
-   "place": "Östgötagatan 12, Stockholm",
-   "online": false,
-   "hosts": [
-    "Naimul Abd"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-Hm8G1nOywBAJHeg",
-   "name": "EOE Eyewear x Le Scarf",
-   "start": "2026-11-26T16:00:00.000Z",
-   "end": "2026-11-26T18:00:00.000Z",
-   "url": "https://luma.com/w7ptres1",
-   "cover": "https://images.lumacdn.com/uploads/br/807b81ff-00f5-4f63-9931-1f421345f7d6.png",
-   "place": "Mäster Samuelsgatan 10, Stockholm",
-   "online": false,
-   "hosts": [
-    "EOE Eyewear x Le Scarf"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts"
-   ]
-  },
-  {
-   "id": "evt-U8U58mTRBtJFfma",
-   "name": "Rooted in Care: herbs, cosmetics and everyday wellbeing workshop",
-   "start": "2026-11-26T16:00:00.000Z",
-   "end": "2026-11-26T18:00:00.000Z",
-   "url": "https://luma.com/f3are9m3",
-   "cover": "https://images.lumacdn.com/uploads/n7/4c7e3ce4-35b7-458c-94df-1993a5bedfad.png",
-   "place": "Gamla Brogatan 13, Stockholm",
-   "online": false,
-   "hosts": [
-    "Zugania Zuniga",
-    "Anna Calzolaio",
-    "Louise Verhoest",
-    "Pim"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "wellness"
-   ]
-  },
-  {
-   "id": "meetup-317186403",
-   "name": "F# Meetup @ Medoma",
-   "start": "2026-11-26T16:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/func-prog-sweden/events/317186403/",
-   "cover": "https://secure.meetupstatic.com/photos/event/8/9/a/9/600_536855241.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Func Prog Sweden"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai",
-    "games",
-    "tech"
-   ]
-  },
-  {
-   "id": "evt-LqfEHqm7iJzfBOD",
-   "name": "Sip & Paint with Legora",
-   "start": "2026-11-26T16:30:00.000Z",
-   "end": "2026-11-26T19:00:00.000Z",
-   "url": "https://luma.com/ex57llkj",
-   "cover": "https://images.lumacdn.com/uploads/m7/37edce97-6156-4481-b0c5-66a817e118dd.png",
-   "place": "Vasagatan 22, Stockholm",
-   "online": false,
-   "hosts": [
-    "Sofie Hautanen"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts"
-   ]
-  },
-  {
-   "id": "meetup-317161063",
-   "name": "Rust Meetup @Lovable",
-   "start": "2026-11-26T16:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/stockholm-rust/events/317161063/",
-   "cover": "https://secure.meetupstatic.com/photos/event/2/d/e/c/600_536831756.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Rust"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai",
-    "games",
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317314871",
-   "name": "Thursday MCR Mahjong in Stockholm",
-   "start": "2026-11-26T16:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/tiger-mahjong-games/events/317314871/",
-   "cover": "https://secure.meetupstatic.com/photos/event/7/1/d/5/600_535829141.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Tiger Mahjong & Games"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "gametown-3ievb2gvl3g3m9v37nfhjonmcl-20261126",
-   "name": "Narrative Meetup #4",
-   "start": "2026-11-26T16:30:00.000Z",
-   "end": "2026-11-26T20:00:00.000Z",
-   "allDay": false,
-   "url": "https://narrative-meetup-4.confetti.events/",
-   "cover": null,
-   "place": "Game Town, Magnus Ladulåsgatan 65",
-   "online": false,
-   "hosts": [],
-   "sources": [
-    "gametown"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "evt-8FJGJFjMgILXBWd",
-   "name": "A Court of Splintered Harmony Book Event",
-   "start": "2026-11-26T17:00:00.000Z",
-   "end": "2026-11-26T19:00:00.000Z",
-   "url": "https://luma.com/h2e82syk",
-   "cover": "https://images.lumacdn.com/uploads/1c/d77e3495-f972-45ec-a6be-994f612aeac4.png",
-   "place": "Hägersten",
-   "online": false,
-   "hosts": [
-    "Kirsty"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts",
-    "books"
-   ]
-  },
-  {
-   "id": "evt-VwqAh3XG2cCne1p",
-   "name": "Friendsgiving & New HAS Exhibition Preview",
-   "start": "2026-11-26T17:00:00.000Z",
-   "end": "2026-11-26T19:00:00.000Z",
-   "url": "https://luma.com/jzqxv3yg",
-   "cover": "https://images.lumacdn.com/gallery-images/luncheon-square.png",
-   "place": "Torsplan 12, Stockholm",
-   "online": false,
-   "hosts": [
-    "Feminvest Community"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts"
-   ]
-  },
-  {
-   "id": "evt-1aVk1tC23JnMIEp",
-   "name": "Illyrian Brains Stockholm",
-   "start": "2026-11-26T17:00:00.000Z",
-   "end": "2026-11-26T19:00:00.000Z",
-   "url": "https://luma.com/r8lcg206",
-   "cover": "https://images.unsplash.com/photo-1580640611343-3f53b12a5b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxMXx8SGFwcHlIb3VyfGVufDB8fHx8MTc4OTk4MDc1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-   "place": "116 40, Närkesgatan 6, Stockholm",
-   "online": false,
-   "hosts": [
-    "Illyrian Brains",
-    "Najada",
-    "Kristi"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts"
-   ]
-  },
-  {
-   "id": "evt-BXWGVb1vlJXWoHi",
-   "name": "ThirdPlace - Croquis with Asli‌ (Sthlm Life Drawing Sessions) - November Theme: SWEENEY TODD!",
-   "start": "2026-11-26T17:00:00.000Z",
-   "end": "2026-11-26T19:00:00.000Z",
-   "url": "https://luma.com/86iayxvq",
-   "cover": "https://images.lumacdn.com/uploads/y2/57ba37f7-6aad-4247-9f61-23f3d8468c88.jpg",
-   "place": "Rödabergsgatan 11, Stockholm",
-   "online": false,
-   "hosts": [
-    "Pooyeh Mobini",
-    "Asli Su"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts"
-   ]
-  },
-  {
-   "id": "meetup-316973861",
-   "name": "[Meet-Up] AI Safety Co-working sessions",
-   "start": "2026-11-26T17:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/stockholm-ai-safety/events/316973861/",
-   "cover": "https://secure.meetupstatic.com/photos/event/4/3/6/3/600_536477251.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm AI Safety"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai",
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317315381",
-   "name": "Play Go/baduk/weiqi in Stockholm",
-   "start": "2026-11-26T17:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/stockholm-go-club/events/317315381/",
-   "cover": "https://secure.meetupstatic.com/photos/event/6/8/e/b/600_479426859.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Go Club"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "meetup-317488622",
-   "name": "Afterwork Coding  @ Urban Deli",
-   "start": "2026-11-26T17:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/afterwork-coding/events/317488622/",
-   "cover": "https://secure.meetupstatic.com/photos/event/e/7/5/9/600_526019225.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Afterwork Coding"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "tech"
-   ]
-  },
-  {
-   "id": "meetup-317524075",
-   "name": "Thursday 2h intermediate badminton @Enskede Rakethall",
-   "start": "2026-11-26T18:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/sthlm-sports-outdoors/events/317524075/",
-   "cover": "https://secure.meetupstatic.com/photos/event/8/7/9/3/600_452974707.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Stockholm Sports & Outdoors"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "meetup-316240356",
-   "name": " Are there any SUPERNATURAL powers or not?",
-   "start": "2026-11-26T18:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/practical-philosophy-club-stockholm/events/316240356/",
-   "cover": "https://secure.meetupstatic.com/photos/event/8/5/c/d/600_536974253.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Practical Philosophy Club - Stockholm 🇸🇪"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
-   "id": "evt-bJHGhxbPD7Tq6tX",
-   "name": "Morning Run + Sauna for Founders & Operators Vol. 3",
-   "start": "2026-11-27T06:00:00.000Z",
-   "end": "2026-11-27T07:30:00.000Z",
-   "url": "https://luma.com/cbi93kdg",
-   "cover": "https://images.lumacdn.com/uploads/mi/825aec89-7ec5-4e41-9b3f-495c21b9a945.png",
-   "place": "Mäster Samuelsgatan 18, Stockholm",
-   "online": false,
-   "hosts": [
-    "Julia Kotulska",
-    "Johan Torssell",
-    "Philip Andersson",
-    "Mathias Flaaten",
-    "Oliver Jones"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "fitness",
-    "running"
-   ]
-  },
-  {
-   "id": "evt-a6PD8DaToHToael",
-   "name": "Inspiration IDÉLABB + Italiensk frukost",
-   "start": "2026-11-27T07:00:00.000Z",
-   "end": "2026-11-27T08:00:00.000Z",
-   "url": "https://luma.com/2ob4j23w",
-   "cover": "https://images.lumacdn.com/uploads/l9/e034adf7-04bd-42c3-81a0-49405135ed39.jpg",
-   "place": "Södermannagatan 26, Stockholm",
-   "online": false,
-   "hosts": [
-    "Karin Gandini"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "arts"
-   ]
-  },
   {
    "id": "evt-H8yp85j1JLTITKW",
    "name": "#42 - Vultr Agent Runtime Hackathon",
@@ -472,14 +14,30 @@
     "Patrick Couch"
    ],
    "sources": [
-    "luma",
-    "meetup"
+    "luma"
    ],
    "categories": [
-    "ai",
-    "tech"
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-HYGSgHDbuGg0xCl",
+   "name": "Heart Choices",
+   "start": "2026-11-27T17:30:00.000Z",
+   "end": "2026-11-27T20:30:00.000Z",
+   "url": "https://luma.com/xozoc8nz",
+   "cover": "https://images.lumacdn.com/uploads/q2/8b215d7b-5924-44db-b3e6-5a294f31c648.jpg",
+   "place": "Herbert Widmans väg 5B, Sköndal",
+   "online": false,
+   "hosts": [
+    "Nathan"
    ],
-   "alt_url": "https://www.meetup.com/stockholm-mlops-community/events/317298343/"
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "arts"
+   ]
   },
   {
    "id": "evt-SmbPKaRBrOYWc0d",
@@ -648,25 +206,6 @@
    "categories": [
     "arts",
     "climate"
-   ]
-  },
-  {
-   "id": "meetup-317338438",
-   "name": "Super Smash Ultimate Saturday in Stockholm",
-   "start": "2026-11-28T12:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/tiger-mahjong-games/events/317338438/",
-   "cover": "https://secure.meetupstatic.com/photos/event/8/7/a/e/600_536194734.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "Tiger Mahjong & Games"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
    ]
   },
   {
@@ -880,6 +419,25 @@
    ]
   },
   {
+   "id": "meetup-317580193",
+   "name": "Stockholm Verified Locals Speed Dating Tonight",
+   "start": "2026-11-29T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/dirt-dig-and-detect-club/events/317580193/",
+   "cover": "https://secure.meetupstatic.com/photos/event/1/9/d/600_537300413.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Dirt Dig and Detect Club"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-317563230",
    "name": "Stockholm Genuine Singles Only: Online Speed Dating Night",
    "start": "2026-11-29T18:00:00.000Z",
@@ -909,6 +467,25 @@
    "online": false,
    "hosts": [
     "Stockholm Japanese Riichi Mahjong Meetups 🦆 Ankan Club"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-317150570",
+   "name": "@@Back in a cafe@@ Shogi in Stockholm",
+   "start": "2026-11-30T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/japanese-chess-in-stockholm/events/317150570/",
+   "cover": null,
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Japanese Chess in Stockholm"
    ],
    "sources": [
     "meetup"
@@ -1019,7 +596,7 @@
    "id": "evt-nfBcFHO04eunL6Q",
    "name": "Cozy morning chat in Gamla Stan 🩷",
    "start": "2026-12-01T08:00:00.000Z",
-   "end": "2026-12-01T09:30:00.000Z",
+   "end": "2026-12-01T10:30:00.000Z",
    "url": "https://luma.com/wgv2z4lx",
    "cover": "https://images.lumacdn.com/uploads/zi/596aee17-8ef0-4a6e-a647-646b205f9400.jpg",
    "place": "Svartmangatan 6, Stockholm",
@@ -1336,6 +913,25 @@
    ]
   },
   {
+   "id": "meetup-317315277",
+   "name": "Hyperledger Fabric for Aerospace Part Traceability: A Doctoral Research Overview",
+   "start": "2026-12-01T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/lfdt-sweden/events/317315277/",
+   "cover": "https://secure.meetupstatic.com/photos/event/1/0/9/6/600_537004246.jpeg",
+   "place": "",
+   "online": true,
+   "hosts": [
+    "LFDT Sweden"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-317251829",
    "name": "Svensk-ryskt språkkafé | Кафе со шведско-русским языком",
    "start": "2026-12-01T17:15:00.000Z",
@@ -1580,6 +1176,25 @@
    ]
   },
   {
+   "id": "meetup-316750455",
+   "name": "Tysk-Svensk fika | Deutsch-Schwedische Fika",
+   "start": "2026-12-02T16:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/intercambio/events/316750455/",
+   "cover": "https://secure.meetupstatic.com/photos/event/2/2/f/d/600_529628957.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Language Exchange - STOCKHOLM"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "evt-USKS2dDAkjtVFvi",
    "name": "AI CAN CODE. CAN YOU ENGINEER IT?",
    "start": "2026-12-02T16:30:00.000Z",
@@ -1658,6 +1273,81 @@
    ]
   },
   {
+   "id": "gametown-1s8dal5lgd5cpo3bs80cal0va8-20261202",
+   "name": "Game Design Meetup #7 📐",
+   "start": "2026-12-02T16:30:00.000Z",
+   "end": "2026-12-02T20:00:00.000Z",
+   "allDay": false,
+   "url": "https://dataspelsbranschen.confetti.events/game-design-meetup-sthlm-007",
+   "cover": null,
+   "place": "Game Town, Magnus Ladulåsgatan 65",
+   "online": false,
+   "hosts": [],
+   "sources": [
+    "gametown"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-317586100",
+   "name": "Destiny",
+   "start": "2026-12-02T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/psychology-discussion-fika/events/317586100/",
+   "cover": "https://secure.meetupstatic.com/photos/event/7/7/5/e/600_533970558.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Psychology Discussion Fika"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-317597030",
+   "name": "Simirthi, Self-Remembrance Meditation",
+   "start": "2026-12-02T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/stockholm-life-mastery-meetup-group/events/317597030/",
+   "cover": "https://secure.meetupstatic.com/photos/event/2/c/3/2/600_537131314.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Dhyan Vimal Centre Stockholm Meetup Group"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-317070712",
+   "name": "スウェ本語！！Swehongo: Japanese Language Social ！",
+   "start": "2026-12-02T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/speak-japanese-and-swedish-prata-japanska-och-svenska/events/317070712/",
+   "cover": null,
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Japanese social club Stockholm/Prata japanska i Stockholm!"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-317399224",
    "name": "Stockholm International Toastmasters | Public Speaking & Effective Communication",
    "start": "2026-12-02T17:30:00.000Z",
@@ -1727,25 +1417,6 @@
     "Vivien Osze",
     "Varga Márton",
     "Spark Institute by Attrecto"
-   ],
-   "sources": [
-    "luma"
-   ],
-   "categories": [
-    "ai"
-   ]
-  },
-  {
-   "id": "evt-Nsc4rFOQg7LLUlF",
-   "name": "Lunch&learn: Work smarter. Stay resilient. Scale AI",
-   "start": "2026-12-03T10:30:00.000Z",
-   "end": "2026-12-03T14:00:00.000Z",
-   "url": "https://luma.com/s5i7vda4",
-   "cover": "https://images.lumacdn.com/uploads/dr/b07c6a44-fed7-41cd-92ff-bb03a2827fdf.png",
-   "place": "Katarinavägen 15, Stockholm",
-   "online": false,
-   "hosts": [
-    "Mia Pääsuke"
    ],
    "sources": [
     "luma"
@@ -1839,6 +1510,25 @@
    ]
   },
   {
+   "id": "meetup-317554164",
+   "name": "Demystifying Intelligent Model Routing: What Works…and What Doesn’t",
+   "start": "2026-12-03T16:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/kong-stockholm/events/317554164/",
+   "cover": "https://secure.meetupstatic.com/photos/event/8/7/b/5/600_537274741.jpeg",
+   "place": "",
+   "online": true,
+   "hosts": [
+    "Kong/STOCKHOLM"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-317498264",
    "name": "Knacka Koden tillsammans! (Kommer Tomten på besök?)",
    "start": "2026-12-03T16:00:00.000Z",
@@ -1918,6 +1608,25 @@
    ]
   },
   {
+   "id": "meetup-317412886",
+   "name": "Thursday MCR Mahjong in Stockholm",
+   "start": "2026-12-03T16:30:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/tiger-mahjong-games/events/317412886/",
+   "cover": "https://secure.meetupstatic.com/photos/event/7/1/d/5/600_535829141.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Tiger Mahjong & Games"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
    "id": "meetup-312669070",
    "name": "Stockholm Bitcoin Meetup #55",
    "start": "2026-12-03T16:30:00.000Z",
@@ -1957,6 +1666,65 @@
    ]
   },
   {
+   "id": "meetup-317605414",
+   "name": "📚 Stoic Silent Reading Session  — VIRTUE & THE GOOD LIFE",
+   "start": "2026-12-03T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/stockholm-stoic-meetup/events/317605414/",
+   "cover": "https://secure.meetupstatic.com/photos/event/b/4/9/f/600_536566239.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Stoic Meetup"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai",
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-317413130",
+   "name": "Play Go/baduk/weiqi in Stockholm",
+   "start": "2026-12-03T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/stockholm-go-club/events/317413130/",
+   "cover": "https://secure.meetupstatic.com/photos/event/6/8/e/b/600_479426859.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Go Club"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
+   "id": "meetup-317593139",
+   "name": "How to use Grafana Assistant to solve a murder mystery",
+   "start": "2026-12-03T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/grafana-friends-virtual-meetup-group/events/317593139/",
+   "cover": null,
+   "place": "",
+   "online": true,
+   "hosts": [
+    "Grafana & Friends Virtual Meetup Group"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai",
+    "tech"
+   ]
+  },
+  {
    "id": "meetup-316864447",
    "name": "Analyst Alliance (ENTJ, ENTP, INTJ, INTP) - Assembly",
    "start": "2026-12-03T18:00:00.000Z",
@@ -1967,6 +1735,25 @@
    "online": false,
    "hosts": [
     "Analyst Alliance (ENTJ, ENTP, INTJ, INTP)"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "meetup-317593716",
+   "name": "Queerious: A Queer Philosophy & Talking Circle",
+   "start": "2026-12-03T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/outinsthlm/events/317593716/",
+   "cover": "https://secure.meetupstatic.com/photos/event/2/9/f/8/600_537310744.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
    ],
    "sources": [
     "meetup"
@@ -2187,6 +1974,25 @@
    ]
   },
   {
+   "id": "meetup-317598891",
+   "name": "Queer Board Game Night @ Hop & Vine",
+   "start": "2026-12-04T17:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/outinsthlm/events/317598891/",
+   "cover": "https://secure.meetupstatic.com/photos/event/9/7/6/1/600_536558753.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
+   ]
+  },
+  {
    "id": "evt-X8q3JLizArTMSHL",
    "name": "AI Sales Hackathon Stockholm",
    "start": "2026-12-05T08:00:00.000Z",
@@ -2302,6 +2108,25 @@
    ],
    "categories": [
     "food"
+   ]
+  },
+  {
+   "id": "meetup-317597201",
+   "name": "Board Game Hangout: Bonus Round",
+   "start": "2026-12-05T13:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/stockholm-board-games-new-friends/events/317597201/",
+   "cover": "https://secure.meetupstatic.com/photos/event/6/5/2/8/600_534565896.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Board Games & New Friends"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
@@ -2672,7 +2497,8 @@
     "meetup"
    ],
    "categories": [
-    "ai"
+    "ai",
+    "tech"
    ]
   },
   {
@@ -2836,22 +2662,23 @@
    ]
   },
   {
-   "id": "meetup-317501013",
-   "name": "Simirthi, Self-Remembrance Meditation",
+   "id": "meetup-317604407",
+   "name": "AI Safety Holiday Mingle",
    "start": "2026-12-09T17:00:00.000Z",
    "end": null,
-   "url": "https://www.meetup.com/stockholm-life-mastery-meetup-group/events/317501013/",
-   "cover": "https://secure.meetupstatic.com/photos/event/2/c/3/2/600_537131314.jpeg",
+   "url": "https://www.meetup.com/stockholm-ai-safety/events/317604407/",
+   "cover": "https://secure.meetupstatic.com/photos/event/4/b/4/8/600_537319272.jpeg",
    "place": "",
    "online": false,
    "hosts": [
-    "Dhyan Vimal Centre Stockholm Meetup Group"
+    "Stockholm AI Safety"
    ],
    "sources": [
     "meetup"
    ],
    "categories": [
-    "games"
+    "ai",
+    "tech"
    ]
   },
   {
@@ -2909,25 +2736,6 @@
    ],
    "categories": [
     "tech"
-   ]
-  },
-  {
-   "id": "meetup-317579285",
-   "name": "Spray and Play: Graffiti workshop",
-   "start": "2026-12-09T17:30:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/the-house-of-soft-beasts/events/317579285/",
-   "cover": "https://secure.meetupstatic.com/photos/event/e/9/3/7/600_537299703.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "The House of Soft Beasts"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
    ]
   },
   {
@@ -3367,6 +3175,44 @@
    ]
   },
   {
+   "id": "meetup-317586131",
+   "name": "Dating Pitch Club Stockholm | Vänner pitchar sina singelvänner live | 185 kr",
+   "start": "2026-12-11T16:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/dating-pitch-club-stockholm-40/events/317586131/",
+   "cover": "https://secure.meetupstatic.com/photos/event/1/4/c/9/600_537305321.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Dating Pitch Club Stockholm – Real Life Dating Events"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
+   "id": "evt-oXwkIv5kuzycq21",
+   "name": "Art Exhibition | Mina Dastanian",
+   "start": "2026-12-11T17:00:00.000Z",
+   "end": "2026-12-11T19:00:00.000Z",
+   "url": "https://luma.com/5u4ul1o8",
+   "cover": "https://images.lumacdn.com/uploads/x1/9ad574ec-572e-4267-b941-2209e12ecbdd.jpg",
+   "place": "Rödabergsgatan 11, Stockholm",
+   "online": false,
+   "hosts": [
+    "Pooyeh Mobini"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "arts"
+   ]
+  },
+  {
    "id": "meetup-317524292",
    "name": "Bruckner symphony 5 at Berwaldhallen",
    "start": "2026-12-11T18:00:00.000Z",
@@ -3440,6 +3286,7 @@
    ],
    "categories": [
     "ai",
+    "games",
     "tech"
    ]
   },
@@ -3483,6 +3330,29 @@
    ]
   },
   {
+   "id": "evt-EdlFD4EylwQD2dO",
+   "name": "Stockholm AI Showcase",
+   "start": "2026-12-12T13:00:00.000Z",
+   "end": "2026-12-12T17:00:00.000Z",
+   "url": "https://luma.com/openai-stockholm-ai-showcase",
+   "cover": "https://images.lumacdn.com/uploads/gb/96427a27-3a79-49d9-acef-e405e72082e7.png",
+   "place": "Stockholm",
+   "online": false,
+   "hosts": [
+    "Juhana Peltomaa",
+    "Philip Andersson",
+    "Oliver Molander",
+    "Creandum",
+    "Founders House"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "ai"
+   ]
+  },
+  {
    "id": "evt-ZpgGb2r3Bvgl3P8",
    "name": "IXDF Field Trip: Julverket Art Market",
    "start": "2026-12-12T13:00:00.000Z",
@@ -3521,25 +3391,6 @@
    ]
   },
   {
-   "id": "meetup-317549127",
-   "name": "Pride on the Clocktower",
-   "start": "2026-12-13T11:00:00.000Z",
-   "end": null,
-   "url": "https://www.meetup.com/outinsthlm/events/317549127/",
-   "cover": "https://secure.meetupstatic.com/photos/event/9/1/6/d/600_536557229.jpeg",
-   "place": "",
-   "online": false,
-   "hosts": [
-    "🏳️‍🌈  Out In: STHLM - The Queer Social Club of Stockholm"
-   ],
-   "sources": [
-    "meetup"
-   ],
-   "categories": [
-    "games"
-   ]
-  },
-  {
    "id": "meetup-317343747",
    "name": "Hässelby boardgame meetup",
    "start": "2026-12-13T12:00:00.000Z",
@@ -3574,7 +3425,8 @@
     "meetup"
    ],
    "categories": [
-    "ai"
+    "ai",
+    "games"
    ]
   },
   {
@@ -3614,6 +3466,7 @@
     "meetup"
    ],
    "categories": [
+    "ai",
     "tech"
    ]
   },
@@ -3691,6 +3544,26 @@
    ],
    "categories": [
     "tech"
+   ]
+  },
+  {
+   "id": "evt-s3ApiLbWdS1UxaH",
+   "name": "Jullunch",
+   "start": "2026-12-16T09:00:00.000Z",
+   "end": "2026-12-16T11:00:00.000Z",
+   "url": "https://luma.com/sh4aa489",
+   "cover": "https://images.lumacdn.com/gallery-images/image-gen/christmas/vector-ribbon-christmas-table-setting-with-candles-and-pine-spri.png",
+   "place": "Kalkbruksvägen 2, Vagnhärad",
+   "online": false,
+   "hosts": [
+    "Måleributiken i vagnhärad",
+    "Anna Lidman"
+   ],
+   "sources": [
+    "luma"
+   ],
+   "categories": [
+    "food"
    ]
   },
   {
@@ -3810,6 +3683,25 @@
    ]
   },
   {
+   "id": "meetup-317210890",
+   "name": "Durable Execution for Microsoft Agent Framework on AKS",
+   "start": "2026-12-16T19:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/microsoft-reactor-stockholm/events/317210890/",
+   "cover": "https://secure.meetupstatic.com/photos/event/5/8/7/4/600_536962644.jpeg",
+   "place": "",
+   "online": true,
+   "hosts": [
+    "Microsoft Reactor Stockholm"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "tech"
+   ]
+  },
+  {
    "id": "evt-ijU7H9BSGrLOL6T",
    "name": "AI & education meet-up - Stockholm",
    "start": "2026-12-17T16:30:00.000Z",
@@ -3863,6 +3755,25 @@
    ],
    "categories": [
     "wellness"
+   ]
+  },
+  {
+   "id": "meetup-317594224",
+   "name": "Intuitives Unite (xNTx & xNFx) - 🎁 Holiday Edition 🎁",
+   "start": "2026-12-17T18:00:00.000Z",
+   "end": null,
+   "url": "https://www.meetup.com/meetup-group-jcotybnr/events/317594224/",
+   "cover": "https://secure.meetupstatic.com/photos/event/2/a/8/3/600_537310883.jpeg",
+   "place": "",
+   "online": false,
+   "hosts": [
+    "Stockholm Diplomats (xNFx) Meetup"
+   ],
+   "sources": [
+    "meetup"
+   ],
+   "categories": [
+    "games"
    ]
   },
   {
